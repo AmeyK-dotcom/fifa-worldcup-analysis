@@ -1,0 +1,965 @@
+home_team,away_team,home_score,away_score,home_manager,home_captain,away_manager,away_captain,attendance,venue,round,match_date,score,referee,host,year
+Argentina,France,3,3,Lionel Scaloni,Lionel Messi,Didier Deschamps,Hugo Lloris,88966,"Lusail Iconic Stadium, Lusail",Final,2022-12-18,(4) 3–3 (2),Szymon Marciniak,Qatar,2022
+Croatia,Morocco,2,1,Zlatko Dalić,Luka Modrić,Hoalid Regragui,Hakim Ziyech,44137,"Khalifa International Stadium, Doha",Third-place match,2022-12-17,2–1,Abdulrahman Ibrahim Al Jassim,Qatar,2022
+France,Morocco,2,0,Didier Deschamps,Hugo Lloris,Hoalid Regragui,Romain Saïss,68294,"Al Bayt Stadium, Al Khor",Semi-finals,2022-12-14,2–0,César Arturo Ramos,Qatar,2022
+Argentina,Croatia,3,0,Lionel Scaloni,Lionel Messi,Zlatko Dalić,Luka Modrić,88966,"Lusail Iconic Stadium, Lusail",Semi-finals,2022-12-13,3–0,Daniele Orsato,Qatar,2022
+Morocco,Portugal,1,0,Hoalid Regragui,Romain Saïss,Fernando Santos,Pepe,44198,"Al Thumama Stadium, ath-Thumāma",Quarter-finals,2022-12-10,1–0,Facundo Tello,Qatar,2022
+England,France,1,2,Gareth Southgate,Harry Kane,Didier Deschamps,Hugo Lloris,68895,"Al Bayt Stadium, Al Khor",Quarter-finals,2022-12-10,1–2,Wilton Sampaio,Qatar,2022
+Croatia,Brazil,1,1,Zlatko Dalić,Luka Modrić,Tite,Thiago Silva,43893,"Education City Stadium, Doha",Quarter-finals,2022-12-09,(4) 1–1 (2),Michael Oliver,Qatar,2022
+Netherlands,Argentina,2,2,Louis van Gaal,Virgil van Dijk,Lionel Scaloni,Lionel Messi,88235,"Lusail Iconic Stadium, Lusail",Quarter-finals,2022-12-09,(3) 2–2 (4),Antonio Matéu,Qatar,2022
+Morocco,Spain,0,0,Hoalid Regragui,Romain Saïss,Luis Enrique,Sergio Busquets,44667,"Education City Stadium, Doha",Round of 16,2022-12-06,(3) 0–0 (0),Fernando Rapallini,Qatar,2022
+Portugal,Switzerland,6,1,Fernando Santos,Pepe,Murat Yakin,Granit Xhaka,83720,"Lusail Iconic Stadium, Lusail",Round of 16,2022-12-06,6–1,César Arturo Ramos,Qatar,2022
+Japan,Croatia,1,1,Hajime Moriyasu,Maya Yoshida,Zlatko Dalić,Luka Modrić,42523,"Al Janoub Stadium, Al Wakrah",Round of 16,2022-12-05,(1) 1–1 (3),Ismail Elfath,Qatar,2022
+Brazil,Korea Republic,4,1,Tite,Thiago Silva,Paulo Bento,Son Heung-min,43847,"Stadium 974, Doha",Round of 16,2022-12-05,4–1,Clément Turpin,Qatar,2022
+France,Poland,3,1,Didier Deschamps,Hugo Lloris,Czesław Michniewicz,Robert Lewandowski,40989,"Al Thumama Stadium, ath-Thumāma",Round of 16,2022-12-04,3–1,Jesús Valenzuela,Qatar,2022
+England,Senegal,3,0,Gareth Southgate,Harry Kane,Aliou Cissé,Kalidou Koulibaly,65985,"Al Bayt Stadium, Al Khor",Round of 16,2022-12-04,3–0,Iván Barton,Qatar,2022
+Netherlands,United States,3,1,Louis van Gaal,Virgil van Dijk,Gregg Berhalter,Tyler Adams,44846,"Khalifa International Stadium, Doha",Round of 16,2022-12-03,3–1,Wilton Sampaio,Qatar,2022
+Argentina,Australia,2,1,Lionel Scaloni,Lionel Messi,Graham Arnold,Mathew Ryan,45032,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Round of 16,2022-12-03,2–1,Szymon Marciniak,Qatar,2022
+Korea Republic,Portugal,2,1,Sérgio Costa,Son Heung-min,Fernando Santos,Cristiano Ronaldo,44097,"Education City Stadium, Doha",Group stage,2022-12-02,2–1,Facundo Tello,Qatar,2022
+Ghana,Uruguay,0,2,Otto Addo,André Ayew,Diego Alonso,Luis Suárez,43443,"Al Janoub Stadium, Al Wakrah",Group stage,2022-12-02,0–2,Daniel Siebert,Qatar,2022
+Cameroon,Brazil,1,0,Rigobert Song,Vincent Aboubakar,Tite,Dani Alves,85986,"Lusail Iconic Stadium, Lusail",Group stage,2022-12-02,1–0,Ismail Elfath,Qatar,2022
+Serbia,Switzerland,2,3,Dragan Stojković,Dušan Tadić,Murat Yakin,Granit Xhaka,41378,"Stadium 974, Doha",Group stage,2022-12-02,2–3,Fernando Rapallini,Qatar,2022
+Canada,Morocco,1,2,John Herdman,Milan Borjan,Hoalid Regragui,Romain Saïss,43102,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-12-01,1–2,Raphael Claus,Qatar,2022
+Croatia,Belgium,0,0,Zlatko Dalić,Luka Modrić,Roberto Martínez,Kevin De Bruyne,43984,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-12-01,0–0,Anthony Taylor,Qatar,2022
+Costa Rica,Germany,2,4,Luis Fernando Suárez,Keylor Navas,Hansi Flick,Manuel Neuer,67054,"Al Bayt Stadium, Al Khor",Group stage,2022-12-01,2–4,Stéphanie Frappart,Qatar,2022
+Japan,Spain,2,1,Hajime Moriyasu,Maya Yoshida,Luis Enrique,Sergio Busquets,44851,"Khalifa International Stadium, Doha",Group stage,2022-12-01,2–1,Victor Gomes,Qatar,2022
+Australia,Denmark,1,0,Graham Arnold,Mathew Ryan,Kasper Hjulmand,Christian Eriksen,41232,"Al Janoub Stadium, Al Wakrah",Group stage,2022-11-30,1–0,Mustapha Ghorbal,Qatar,2022
+Tunisia,France,1,0,Jalel Kadri,Wahbi Khazri,Didier Deschamps,Raphaël Varane,43627,"Education City Stadium, Doha",Group stage,2022-11-30,1–0,Matt Conger,Qatar,2022
+Saudi Arabia,Mexico,1,2,Hervé Renard,Salem Al-Dawsari,Tata Martino,Guillermo Ochoa,84985,"Lusail Iconic Stadium, Lusail",Group stage,2022-11-30,1–2,Michael Oliver,Qatar,2022
+Poland,Argentina,0,2,Czesław Michniewicz,Robert Lewandowski,Lionel Scaloni,Lionel Messi,44089,"Stadium 974, Doha",Group stage,2022-11-30,0–2,Danny Makkelie,Qatar,2022
+Ecuador,Senegal,1,2,Gustavo Alfaro,Enner Valencia,Aliou Cissé,Kalidou Koulibaly,44569,"Khalifa International Stadium, Doha",Group stage,2022-11-29,1–2,Clément Turpin,Qatar,2022
+Netherlands,Qatar,2,0,Louis van Gaal,Virgil van Dijk,Félix Sánchez,Hassan Al-Haydos,66784,"Al Bayt Stadium, Al Khor",Group stage,2022-11-29,2–0,Bakary Papa Gassama,Qatar,2022
+IR Iran,United States,0,1,Carlos Queiroz,Ehsan Hajsafi,Gregg Berhalter,Tyler Adams,42127,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-11-29,0–1,Antonio Matéu,Qatar,2022
+Wales,England,0,3,Rob Page,Gareth Bale,Gareth Southgate,Harry Kane,44297,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-11-29,0–3,Slavko Vinčič,Qatar,2022
+Cameroon,Serbia,3,3,Rigobert Song,Eric Maxim Choupo-Moting,Dragan Stojković,Dušan Tadić,39789,"Al Janoub Stadium, Al Wakrah",Group stage,2022-11-28,3–3,Mohammed Abdulla Hassan,Qatar,2022
+Korea Republic,Ghana,2,3,Paulo Bento,Son Heung-min,Otto Addo,André Ayew,43983,"Education City Stadium, Doha",Group stage,2022-11-28,2–3,Anthony Taylor,Qatar,2022
+Brazil,Switzerland,1,0,Tite,Thiago Silva,Murat Yakin,Granit Xhaka,43649,"Stadium 974, Doha",Group stage,2022-11-28,1–0,Iván Barton,Qatar,2022
+Portugal,Uruguay,2,0,Fernando Santos,Cristiano Ronaldo,Diego Alonso,Diego Godín,88668,"Lusail Iconic Stadium, Lusail",Group stage,2022-11-28,2–0,Alireza Faghani,Qatar,2022
+Japan,Costa Rica,0,1,Hajime Moriyasu,Maya Yoshida,Luis Fernando Suárez,Keylor Navas,41479,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-11-27,0–1,Michael Oliver,Qatar,2022
+Belgium,Morocco,0,2,Roberto Martínez,Eden Hazard,Hoalid Regragui,Romain Saïss,43738,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-11-27,0–2,César Arturo Ramos,Qatar,2022
+Croatia,Canada,4,1,Zlatko Dalić,Luka Modrić,John Herdman,Atiba Hutchinson,44374,"Khalifa International Stadium, Doha",Group stage,2022-11-27,4–1,Andrés Matonte,Qatar,2022
+Spain,Germany,1,1,Luis Enrique,Sergio Busquets,Hansi Flick,Manuel Neuer,68895,"Al Bayt Stadium, Al Khor",Group stage,2022-11-27,1–1,Danny Makkelie,Qatar,2022
+Tunisia,Australia,0,1,Jalel Kadri,Youssef Msakni,Graham Arnold,Mathew Ryan,41823,"Al Janoub Stadium, Al Wakrah",Group stage,2022-11-26,0–1,Daniel Siebert,Qatar,2022
+Poland,Saudi Arabia,2,0,Czesław Michniewicz,Robert Lewandowski,Hervé Renard,Salem Al-Dawsari,44259,"Education City Stadium, Doha",Group stage,2022-11-26,2–0,Wilton Sampaio,Qatar,2022
+France,Denmark,2,1,Didier Deschamps,Hugo Lloris,Kasper Hjulmand,Kasper Schmeichel,42860,"Stadium 974, Doha",Group stage,2022-11-26,2–1,Szymon Marciniak,Qatar,2022
+Argentina,Mexico,2,0,Lionel Scaloni,Lionel Messi,Tata Martino,Andrés Guardado,88966,"Lusail Iconic Stadium, Lusail",Group stage,2022-11-26,2–0,Daniele Orsato,Qatar,2022
+Wales,IR Iran,0,2,Rob Page,Gareth Bale,Carlos Queiroz,Ehsan Hajsafi,40875,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-11-25,0–2,Mario Escobar,Qatar,2022
+Qatar,Senegal,1,3,Félix Sánchez,Hassan Al-Haydos,Aliou Cissé,Kalidou Koulibaly,41797,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-11-25,1–3,Antonio Matéu,Qatar,2022
+Netherlands,Ecuador,1,1,Louis van Gaal,Virgil van Dijk,Gustavo Alfaro,Enner Valencia,44833,"Khalifa International Stadium, Doha",Group stage,2022-11-25,1–1,Mustapha Ghorbal,Qatar,2022
+England,United States,0,0,Gareth Southgate,Harry Kane,Gregg Berhalter,Tyler Adams,68463,"Al Bayt Stadium, Al Khor",Group stage,2022-11-25,0–0,Jesús Valenzuela,Qatar,2022
+Switzerland,Cameroon,1,0,Murat Yakin,Granit Xhaka,Rigobert Song,Eric Maxim Choupo-Moting,39089,"Al Janoub Stadium, Al Wakrah",Group stage,2022-11-24,1–0,Facundo Tello,Qatar,2022
+Uruguay,Korea Republic,0,0,Diego Alonso,Diego Godín,Paulo Bento,Son Heung-min,41663,"Education City Stadium, Doha",Group stage,2022-11-24,0–0,Clément Turpin,Qatar,2022
+Portugal,Ghana,3,2,Fernando Santos,Cristiano Ronaldo,Otto Addo,André Ayew,42662,"Stadium 974, Doha",Group stage,2022-11-24,3–2,Ismail Elfath,Qatar,2022
+Brazil,Serbia,2,0,Tite,Thiago Silva,Dragan Stojković,Dušan Tadić,88103,"Lusail Iconic Stadium, Lusail",Group stage,2022-11-24,2–0,Alireza Faghani,Qatar,2022
+Morocco,Croatia,0,0,Hoalid Regragui,Romain Saïss,Zlatko Dalić,Luka Modrić,59407,"Al Bayt Stadium, Al Khor",Group stage,2022-11-23,0–0,Fernando Rapallini,Qatar,2022
+Germany,Japan,1,2,Hansi Flick,Manuel Neuer,Hajime Moriyasu,Maya Yoshida,42608,"Khalifa International Stadium, Doha",Group stage,2022-11-23,1–2,Iván Barton,Qatar,2022
+Spain,Costa Rica,7,0,Luis Enrique,Sergio Busquets,Luis Fernando Suárez,Keylor Navas,40013,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-11-23,7–0,Mohammed Abdulla Hassan,Qatar,2022
+Belgium,Canada,1,0,Roberto Martínez,Eden Hazard,John Herdman,Atiba Hutchinson,40432,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-11-23,1–0,Janny Sikazwe,Qatar,2022
+Argentina,Saudi Arabia,1,2,Lionel Scaloni,Lionel Messi,Hervé Renard,Salman Al-Faraj,88012,"Lusail Iconic Stadium, Lusail",Group stage,2022-11-22,1–2,Slavko Vinčič,Qatar,2022
+Denmark,Tunisia,0,0,Kasper Hjulmand,Simon Kjær,Jalel Kadri,Youssef Msakni,42925,"Education City Stadium, Doha",Group stage,2022-11-22,0–0,César Arturo Ramos,Qatar,2022
+Mexico,Poland,0,0,Tata Martino,Guillermo Ochoa,Czesław Michniewicz,Robert Lewandowski,39369,"Stadium 974, Doha",Group stage,2022-11-22,0–0,Chris Beath,Qatar,2022
+France,Australia,4,1,Didier Deschamps,Hugo Lloris,Graham Arnold,Mathew Ryan,40875,"Al Janoub Stadium, Al Wakrah",Group stage,2022-11-22,4–1,Victor Gomes,Qatar,2022
+England,IR Iran,6,2,Gareth Southgate,Harry Kane,Carlos Queiroz,Ehsan Hajsafi,45334,"Khalifa International Stadium, Doha",Group stage,2022-11-21,6–2,Raphael Claus,Qatar,2022
+Senegal,Netherlands,0,2,Aliou Cissé,Kalidou Koulibaly,Louis van Gaal,Virgil van Dijk,41721,"Al Thumama Stadium, ath-Thumāma",Group stage,2022-11-21,0–2,Wilton Sampaio,Qatar,2022
+United States,Wales,1,1,Gregg Berhalter,Tyler Adams,Rob Page,Gareth Bale,43418,"Ahmed bin Ali Stadium, Umm al-Afā'ī",Group stage,2022-11-21,1–1,Abdulrahman Ibrahim Al Jassim,Qatar,2022
+Qatar,Ecuador,0,2,Félix Sánchez,Hassan Al-Haydos,Gustavo Alfaro,Enner Valencia,67372,"Al Bayt Stadium, Al Khor",Group stage,2022-11-20,0–2,Daniele Orsato,Qatar,2022
+France,Croatia,4,2,Didier Deschamps,Hugo Lloris,Zlatko Dalić,Luka Modrić,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Final,2018-07-15,4–2,Néstor Pitana,Russia,2018
+Belgium,England,2,0,Roberto Martínez,Eden Hazard,Gareth Southgate,Harry Kane,64406,"Gazprom Arena, Sankt-Petersburg",Third-place match,2018-07-14,2–0,Alireza Faghani,Russia,2018
+Croatia,England,2,1,Zlatko Dalić,Luka Modrić,Gareth Southgate,Harry Kane,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Semi-finals,2018-07-11,2–1,Cüneyt Çakιr,Russia,2018
+France,Belgium,1,0,Didier Deschamps,Hugo Lloris,Roberto Martínez,Eden Hazard,64286,"Gazprom Arena, Sankt-Petersburg",Semi-finals,2018-07-10,1–0,Andrés Cunha,Russia,2018
+Sweden,England,0,2,Janne Andersson,Andreas Granqvist,Gareth Southgate,Harry Kane,39991,"Cosmos Arena, Samara",Quarter-finals,2018-07-07,0–2,Björn Kuipers,Russia,2018
+Russia,Croatia,2,2,Stanislav Cherchesov,Igor Akinfeev,Zlatko Dalić,Luka Modrić,44287,"Olimpiyskiy Stadion Fisht, Sochi",Quarter-finals,2018-07-07,(3) 2–2 (4),Sandro Ricci,Russia,2018
+Uruguay,France,0,2,Óscar Tabárez,Diego Godín,Didier Deschamps,Hugo Lloris,43319,"Stadion Nizhny Novgorod, Nizhny Novgorod",Quarter-finals,2018-07-06,0–2,Néstor Pitana,Russia,2018
+Brazil,Belgium,1,2,Tite,Miranda,Roberto Martínez,Eden Hazard,42873,"Kazan Arena, Kazan",Quarter-finals,2018-07-06,1–2,Milorad Mažić,Russia,2018
+Sweden,Switzerland,1,0,Janne Andersson,Andreas Granqvist,Vladimir Petković,Valon Behrami,64042,"Gazprom Arena, Sankt-Petersburg",Round of 16,2018-07-03,1–0,Damir Skomina,Russia,2018
+Colombia,England,1,1,José Pekerman,Radamel Falcao,Gareth Southgate,Harry Kane,44190,"Otkrytie Arena, Moskva",Round of 16,2018-07-03,(3) 1–1 (4),Mark Geiger,Russia,2018
+Brazil,Mexico,2,0,Tite,Thiago Silva,Juan Carlos Osorio,Rafael Márquez,41970,"Cosmos Arena, Samara",Round of 16,2018-07-02,2–0,Gianluca Rocchi,Russia,2018
+Belgium,Japan,3,2,Roberto Martínez,Eden Hazard,Akira Nishino,Makoto Hasebe,41466,"Rostov Arena, Rostov-na-Donu",Round of 16,2018-07-02,3–2,Malang Diédhiou,Russia,2018
+Spain,Russia,1,1,Fernando Hierro,Sergio Ramos,Stanislav Cherchesov,Igor Akinfeev,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Round of 16,2018-07-01,(3) 1–1 (4),Björn Kuipers,Russia,2018
+Croatia,Denmark,1,1,Zlatko Dalić,Luka Modrić,Åge Hareide,Simon Kjær,40851,"Stadion Nizhny Novgorod, Nizhny Novgorod",Round of 16,2018-07-01,(3) 1–1 (2),Néstor Pitana,Russia,2018
+France,Argentina,4,3,Didier Deschamps,Hugo Lloris,Jorge Sampaoli,Lionel Messi,42873,"Kazan Arena, Kazan",Round of 16,2018-06-30,4–3,Alireza Faghani,Russia,2018
+Uruguay,Portugal,2,1,Óscar Tabárez,Diego Godín,Fernando Santos,Cristiano Ronaldo,44287,"Olimpiyskiy Stadion Fisht, Sochi",Round of 16,2018-06-30,2–1,César Arturo Ramos,Russia,2018
+Japan,Poland,0,1,Akira Nishino,Eiji Kawashima,Adam Nawałka,Robert Lewandowski,42189,"Volgograd Arena, Volgograd",Group stage,2018-06-28,0–1,Janny Sikazwe,Russia,2018
+Senegal,Colombia,0,1,Aliou Cissé,Cheikhou Kouyaté,José Pekerman,Radamel Falcao,41970,"Cosmos Arena, Samara",Group stage,2018-06-28,0–1,Milorad Mažić,Russia,2018
+England,Belgium,0,1,Gareth Southgate,Eric Dier,Roberto Martínez,Thibaut Courtois,33973,"Kaliningrad Stadium, Kaliningrad",Group stage,2018-06-28,0–1,Damir Skomina,Russia,2018
+Panama,Tunisia,1,2,Hernán Darío Gómez,Román Torres,Nabil Maâloul,Aymen Mathlouthi,37168,"Mordovia Arena, Saransk",Group stage,2018-06-28,1–2,Nawaf Shukralla,Russia,2018
+Korea Republic,Germany,2,0,Shin Taeyong,Son Heung-min,Joachim Löw,Manuel Neuer,41835,"Kazan Arena, Kazan",Group stage,2018-06-27,2–0,Mark Geiger,Russia,2018
+Mexico,Sweden,0,3,Juan Carlos Osorio,Andrés Guardado,Janne Andersson,Robin Olsen,33061,"Stadion Central'nyj, Yekaterinburg",Group stage,2018-06-27,0–3,Néstor Pitana,Russia,2018
+Switzerland,Costa Rica,2,2,Vladimir Petković,Stephan Lichtsteiner,Oscar Ramírez,Bryan Ruiz,43319,"Stadion Nizhny Novgorod, Nizhny Novgorod",Group stage,2018-06-27,2–2,Clément Turpin,Russia,2018
+Serbia,Brazil,0,2,Mladen Krstajić,Aleksandar Kolarov,Tite,Miranda,44190,"Otkrytie Arena, Moskva",Group stage,2018-06-27,0–2,Alireza Faghani,Russia,2018
+Australia,Peru,0,2,Bert van Marwijk,Mile Jedinak,Ricardo Gareca,Paolo Guerrero,44073,"Olimpiyskiy Stadion Fisht, Sochi",Group stage,2018-06-26,0–2,Sergey Karasev,Russia,2018
+Denmark,France,0,0,Åge Hareide,Simon Kjær,Didier Deschamps,Raphaël Varane,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Group stage,2018-06-26,0–0,Sandro Ricci,Russia,2018
+Iceland,Croatia,1,2,Heimir Hallgrímsson,Aron Gunnarsson,Zlatko Dalić,Luka Modrić,43472,"Rostov Arena, Rostov-na-Donu",Group stage,2018-06-26,1–2,Antonio Matéu Lahoz,Russia,2018
+Nigeria,Argentina,1,2,Gernot Rohr,John Obi Mikel,Jorge Sampaoli,Lionel Messi,64468,"Gazprom Arena, Sankt-Petersburg",Group stage,2018-06-26,1–2,Cüneyt Çakιr,Russia,2018
+Saudi Arabia,Egypt,2,1,Juan Antonio Pizzi,Osama Hawsawi,Héctor Cúper,Essam El-Hadary,36823,"Volgograd Arena, Volgograd",Group stage,2018-06-25,2–1,Wilmar Roldán,Russia,2018
+Uruguay,Russia,3,0,Óscar Tabárez,Diego Godín,Stanislav Cherchesov,Igor Akinfeev,41970,"Cosmos Arena, Samara",Group stage,2018-06-25,3–0,Malang Diédhiou,Russia,2018
+Spain,Morocco,2,2,Fernando Hierro,Sergio Ramos,Hervé Renard,M'barek Boussoufa,33973,"Kaliningrad Stadium, Kaliningrad",Group stage,2018-06-25,2–2,Ravshan Irmatov,Russia,2018
+IR Iran,Portugal,1,1,Carlos Queiroz,Ehsan Hajsafi,Fernando Santos,Cristiano Ronaldo,41685,"Mordovia Arena, Saransk",Group stage,2018-06-25,1–1,Enrique Cáceres,Russia,2018
+England,Panama,6,1,Gareth Southgate,Harry Kane,Hernán Darío Gómez,Román Torres,43319,"Stadion Nizhny Novgorod, Nizhny Novgorod",Group stage,2018-06-24,6–1,Gehad Grisha,Russia,2018
+Japan,Senegal,2,2,Akira Nishino,Makoto Hasebe,Aliou Cissé,Sadio Mané,32572,"Stadion Central'nyj, Yekaterinburg",Group stage,2018-06-24,2–2,Gianluca Rocchi,Russia,2018
+Poland,Colombia,0,3,Adam Nawałka,Robert Lewandowski,José Pekerman,Radamel Falcao,42873,"Kazan Arena, Kazan",Group stage,2018-06-24,0–3,César Arturo Ramos,Russia,2018
+Belgium,Tunisia,5,2,Roberto Martínez,Eden Hazard,Nabil Maâloul,Wahbi Khazri,44190,"Otkrytie Arena, Moskva",Group stage,2018-06-23,5–2,Jair Marrufo,Russia,2018
+Korea Republic,Mexico,1,2,Shin Taeyong,Cho Hyun-woo,Juan Carlos Osorio,Guillermo Ochoa,43472,"Rostov Arena, Rostov-na-Donu",Group stage,2018-06-23,1–2,Milorad Mažić,Russia,2018
+Germany,Sweden,2,1,Joachim Löw,Manuel Neuer,Janne Andersson,Andreas Granqvist,44287,"Olimpiyskiy Stadion Fisht, Sochi",Group stage,2018-06-23,2–1,Szymon Marciniak,Russia,2018
+Brazil,Costa Rica,2,0,Tite,Thiago Silva,Oscar Ramírez,Bryan Ruiz,64468,"Gazprom Arena, Sankt-Petersburg",Group stage,2018-06-22,2–0,Björn Kuipers,Russia,2018
+Nigeria,Iceland,2,0,Gernot Rohr,John Obi Mikel,Heimir Hallgrímsson,Aron Gunnarsson,40904,"Volgograd Arena, Volgograd",Group stage,2018-06-22,2–0,Matt Conger,Russia,2018
+Serbia,Switzerland,1,2,Mladen Krstajić,Aleksandar Kolarov,Vladimir Petković,Stephan Lichtsteiner,33167,"Kaliningrad Stadium, Kaliningrad",Group stage,2018-06-22,1–2,Felix Brych,Russia,2018
+Denmark,Australia,1,1,Åge Hareide,Simon Kjær,Bert van Marwijk,Mile Jedinak,40727,"Cosmos Arena, Samara",Group stage,2018-06-21,1–1,Antonio Matéu Lahoz,Russia,2018
+France,Peru,1,0,Didier Deschamps,Hugo Lloris,Ricardo Gareca,Paolo Guerrero,32789,"Stadion Central'nyj, Yekaterinburg",Group stage,2018-06-21,1–0,Mohammed Abdulla Hassan,Russia,2018
+Argentina,Croatia,0,3,Jorge Sampaoli,Lionel Messi,Zlatko Dalić,Luka Modrić,43319,"Stadion Nizhny Novgorod, Nizhny Novgorod",Group stage,2018-06-21,0–3,Ravshan Irmatov,Russia,2018
+Portugal,Morocco,1,0,Fernando Santos,Cristiano Ronaldo,Hervé Renard,Medhi Benatia,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Group stage,2018-06-20,1–0,Mark Geiger,Russia,2018
+Uruguay,Saudi Arabia,1,0,Óscar Tabárez,Diego Godín,Juan Antonio Pizzi,Osama Hawsawi,42678,"Rostov Arena, Rostov-na-Donu",Group stage,2018-06-20,1–0,Clément Turpin,Russia,2018
+IR Iran,Spain,0,1,Carlos Queiroz,Ehsan Hajsafi,Fernando Hierro,Sergio Ramos,42718,"Kazan Arena, Kazan",Group stage,2018-06-20,0–1,Andrés Cunha,Russia,2018
+Colombia,Japan,1,2,José Pekerman,Radamel Falcao,Akira Nishino,Makoto Hasebe,40842,"Mordovia Arena, Saransk",Group stage,2018-06-19,1–2,Damir Skomina,Russia,2018
+Poland,Senegal,1,2,Adam Nawałka,Robert Lewandowski,Aliou Cissé,Sadio Mané,44190,"Otkrytie Arena, Moskva",Group stage,2018-06-19,1–2,Nawaf Shukralla,Russia,2018
+Russia,Egypt,3,1,Stanislav Cherchesov,Igor Akinfeev,Héctor Cúper,Ahmed Fathy,64468,"Gazprom Arena, Sankt-Petersburg",Group stage,2018-06-19,3–1,Enrique Cáceres,Russia,2018
+Sweden,Korea Republic,1,0,Janne Andersson,Robin Olsen,Shin Taeyong,Ki Sung-yueng,42300,"Stadion Nizhny Novgorod, Nizhny Novgorod",Group stage,2018-06-18,1–0,Joel Aguilar,Russia,2018
+Belgium,Panama,3,0,Roberto Martínez,Eden Hazard,Hernán Darío Gómez,Román Torres,43257,"Olimpiyskiy Stadion Fisht, Sochi",Group stage,2018-06-18,3–0,Janny Sikazwe,Russia,2018
+Tunisia,England,1,2,Nabil Maâloul,Wahbi Khazri,Gareth Southgate,Harry Kane,41064,"Volgograd Arena, Volgograd",Group stage,2018-06-18,1–2,Wilmar Roldán,Russia,2018
+Costa Rica,Serbia,0,1,Oscar Ramírez,Bryan Ruiz,Mladen Krstajić,Aleksandar Kolarov,41432,"Cosmos Arena, Samara",Group stage,2018-06-17,0–1,Malang Diédhiou,Russia,2018
+Germany,Mexico,0,1,Joachim Löw,Manuel Neuer,Juan Carlos Osorio,Andrés Guardado,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Group stage,2018-06-17,0–1,Alireza Faghani,Russia,2018
+Brazil,Switzerland,1,1,Tite,Marcelo,Vladimir Petković,Stephan Lichtsteiner,43109,"Rostov Arena, Rostov-na-Donu",Group stage,2018-06-17,1–1,César Ramos,Russia,2018
+France,Australia,2,1,Didier Deschamps,Hugo Lloris,Bert van Marwijk,Mile Jedinak,41279,"Kazan Arena, Kazan",Group stage,2018-06-16,2–1,Andrés Cunha,Russia,2018
+Argentina,Iceland,1,1,Jorge Sampaoli,Lionel Messi,Heimir Hallgrímsson,Aron Gunnarsson,44190,"Otkrytie Arena, Moskva",Group stage,2018-06-16,1–1,Szymon Marciniak,Russia,2018
+Peru,Denmark,0,1,Ricardo Gareca,Alberto Rodríguez,Åge Hareide,Simon Kjær,40502,"Mordovia Arena, Saransk",Group stage,2018-06-16,0–1,Bakary Papa Gassama,Russia,2018
+Croatia,Nigeria,2,0,Zlatko Dalić,Luka Modrić,Gernot Rohr,John Obi Mikel,31136,"Kaliningrad Stadium, Kaliningrad",Group stage,2018-06-16,2–0,Sandro Ricci,Russia,2018
+Egypt,Uruguay,0,1,Héctor Cúper,Ahmed Fathy,Óscar Tabárez,Diego Godín,27015,"Stadion Central'nyj, Yekaterinburg",Group stage,2018-06-15,0–1,Björn Kuipers,Russia,2018
+Morocco,IR Iran,0,1,Hervé Renard,Medhi Benatia,Carlos Queiroz,Masoud Shojaei,62548,"Gazprom Arena, Sankt-Petersburg",Group stage,2018-06-15,0–1,Cüneyt Çakιr,Russia,2018
+Portugal,Spain,3,3,Fernando Santos,Cristiano Ronaldo,Fernando Hierro,Sergio Ramos,43866,"Olimpiyskiy Stadion Fisht, Sochi",Group stage,2018-06-15,3–3,Gianluca Rocchi,Russia,2018
+Russia,Saudi Arabia,5,0,Stanislav Cherchesov,Igor Akinfeev,Juan Antonio Pizzi,Osama Hawsawi,78011,"Olimpiyskiy stadion Luzhniki, Moskva",Group stage,2018-06-14,5–0,Néstor Pitana,Russia,2018
+Germany,Argentina,1,0,Joachim Löw,,Alejandro Sabella,,74738,"Estadio Jornalista Mário Filho, Rio de Janeiro",Final,2014-07-13,1–0,Nicola Rizzoli,Brazil,2014
+Brazil,Netherlands,0,3,Luiz Felipe Scolari,,Louis van Gaal,,68034,"Estádio Nacional de Brasília, Brasília",Third-place match,2014-07-12,0–3,Djamel Haïmoudi,Brazil,2014
+Netherlands,Argentina,0,0,Louis van Gaal,,Alejandro Sabella,,63267,"Arena Corinthians, São Paulo",Semi-finals,2014-07-09,(2) 0–0 (4),Cüneyt Çakιr,Brazil,2014
+Brazil,Germany,1,7,Luiz Felipe Scolari,,Joachim Löw,,58141,"Estádio Governador Magalhães Pinto, Belo Horizonte",Semi-finals,2014-07-08,1–7,Marco Antonio Rodríguez,Brazil,2014
+Argentina,Belgium,1,0,Alejandro Sabella,,Marc Wilmots,,68551,"Estádio Nacional de Brasília, Brasília",Quarter-finals,2014-07-05,1–0,Nicola Rizzoli,Brazil,2014
+Netherlands,Costa Rica,0,0,Louis van Gaal,,Jorge Luis Pinto,,51179,"Itaipava Arena Fonte Nova, Salvador",Quarter-finals,2014-07-05,(4) 0–0 (3),Ravshan Irmatov,Brazil,2014
+France,Germany,0,1,Didier Deschamps,,Joachim Löw,,74240,"Estadio Jornalista Mário Filho, Rio de Janeiro",Quarter-finals,2014-07-04,0–1,Néstor Pitana,Brazil,2014
+Brazil,Colombia,2,1,Luiz Felipe Scolari,,José Pekerman,,60342,"Estádio Castelão, Fortaleza",Quarter-finals,2014-07-04,2–1,Carlos Velasco,Brazil,2014
+Argentina,Switzerland,1,0,Alejandro Sabella,,Ottmar Hitzfeld,,63255,"Arena Corinthians, São Paulo",Round of 16,2014-07-01,1–0,Jonas Eriksson,Brazil,2014
+Belgium,United States,2,1,Marc Wilmots,,Jürgen Klinsmann,,51227,"Itaipava Arena Fonte Nova, Salvador",Round of 16,2014-07-01,2–1,Djamel Haïmoudi,Brazil,2014
+France,Nigeria,2,0,Didier Deschamps,,Stephen Keshi,,67882,"Estádio Nacional de Brasília, Brasília",Round of 16,2014-06-30,2–0,Mark Geiger,Brazil,2014
+Germany,Algeria,2,1,Joachim Löw,,Vahid Halilhodžić,,43063,"Estádio José Pinheiro Borba, Porto Alegre",Round of 16,2014-06-30,2–1,Sandro Ricci,Brazil,2014
+Netherlands,Mexico,2,1,Louis van Gaal,,Miguel Herrera,,58817,"Estádio Castelão, Fortaleza",Round of 16,2014-06-29,2–1,Pedro Proença,Brazil,2014
+Costa Rica,Greece,1,1,Jorge Luis Pinto,,Fernando Santos,,41242,"Itaipava Arena Pernambuco, Recife",Round of 16,2014-06-29,(5) 1–1 (3),Benjamin Williams,Brazil,2014
+Brazil,Chile,1,1,Luiz Felipe Scolari,,Jorge Sampaoli,,57714,"Estádio Governador Magalhães Pinto, Belo Horizonte",Round of 16,2014-06-28,(3) 1–1 (2),Howard Webb,Brazil,2014
+Colombia,Uruguay,2,0,José Pekerman,,Óscar Tabárez,,73804,"Estadio Jornalista Mário Filho, Rio de Janeiro",Round of 16,2014-06-28,2–0,Björn Kuipers,Brazil,2014
+United States,Germany,0,1,Jürgen Klinsmann,,Joachim Löw,,41876,"Itaipava Arena Pernambuco, Recife",Group stage,2014-06-26,0–1,Ravshan Irmatov,Brazil,2014
+Portugal,Ghana,2,1,Paulo Bento,,Kwesi Appiah,,67540,"Estádio Nacional de Brasília, Brasília",Group stage,2014-06-26,2–1,Nawaf Shukralla,Brazil,2014
+Korea Republic,Belgium,0,1,Hong Myung-bo,,Marc Wilmots,,61397,"Arena Corinthians, São Paulo",Group stage,2014-06-26,0–1,Benjamin Williams,Brazil,2014
+Algeria,Russia,1,1,Vahid Halilhodžić,,Fabio Capello,,39311,"Estádio Joaquim Américo Guimarães, Curitiba",Group stage,2014-06-26,1–1,Cüneyt Çakιr,Brazil,2014
+Bosnia and Herzegovina,IR Iran,3,1,Safet Sušić,,Carlos Queiroz,,48011,"Itaipava Arena Fonte Nova, Salvador",Group stage,2014-06-25,3–1,Carlos Velasco,Brazil,2014
+Nigeria,Argentina,2,3,Stephen Keshi,,Alejandro Sabella,,43285,"Estádio José Pinheiro Borba, Porto Alegre",Group stage,2014-06-25,2–3,Nicola Rizzoli,Brazil,2014
+Honduras,Switzerland,0,3,Luis Suárez,,Ottmar Hitzfeld,,40322,"Arena da Amazônia, Manaus",Group stage,2014-06-25,0–3,Néstor Pitana,Brazil,2014
+Ecuador,France,0,0,Reinaldo Rueda,,Didier Deschamps,,73749,"Estadio Jornalista Mário Filho, Rio de Janeiro",Group stage,2014-06-25,0–0,Noumandiez Doué,Brazil,2014
+Costa Rica,England,0,0,Jorge Luis Pinto,,Roy Hodgson,,57823,"Estádio Governador Magalhães Pinto, Belo Horizonte",Group stage,2014-06-24,0–0,Djamel Haïmoudi,Brazil,2014
+Italy,Uruguay,0,1,Cesare Prandelli,,Óscar Tabárez,,39706,"Arena das Dunas, Natal",Group stage,2014-06-24,0–1,Marco Antonio Rodríguez,Brazil,2014
+Japan,Colombia,1,4,Alberto Zaccheroni,,José Pekerman,,40340,"Arena Pantanal, Cuiabá",Group stage,2014-06-24,1–4,Pedro Proença,Brazil,2014
+Greece,Côte d'Ivoire,2,1,Fernando Santos,,Sabri Lamouchi,,59095,"Estádio Castelão, Fortaleza",Group stage,2014-06-24,2–1,Carlos Vera,Brazil,2014
+Australia,Spain,0,3,Ange Postecoglou,,Del Bosque,,39375,"Estádio Joaquim Américo Guimarães, Curitiba",Group stage,2014-06-23,0–3,Nawaf Shukralla,Brazil,2014
+Netherlands,Chile,2,0,Louis van Gaal,,Jorge Sampaoli,,62996,"Arena Corinthians, São Paulo",Group stage,2014-06-23,2–0,Bakary Papa Gassama,Brazil,2014
+Croatia,Mexico,1,3,Niko Kovač,,Miguel Herrera,,41212,"Itaipava Arena Pernambuco, Recife",Group stage,2014-06-23,1–3,Ravshan Irmatov,Brazil,2014
+Cameroon,Brazil,1,4,Volker Finke,,Luiz Felipe Scolari,,69112,"Estádio Nacional de Brasília, Brasília",Group stage,2014-06-23,1–4,Jonas Eriksson,Brazil,2014
+Belgium,Russia,1,0,Marc Wilmots,,Fabio Capello,,73819,"Estadio Jornalista Mário Filho, Rio de Janeiro",Group stage,2014-06-22,1–0,Felix Brych,Brazil,2014
+Korea Republic,Algeria,2,4,Hong Myung-bo,,Vahid Halilhodžić,,42732,"Estádio José Pinheiro Borba, Porto Alegre",Group stage,2014-06-22,2–4,Wilmar Roldán,Brazil,2014
+United States,Portugal,2,2,Jürgen Klinsmann,,Paulo Bento,,40123,"Arena da Amazônia, Manaus",Group stage,2014-06-22,2–2,Néstor Pitana,Brazil,2014
+Argentina,IR Iran,1,0,Alejandro Sabella,,Carlos Queiroz,,57698,"Estádio Governador Magalhães Pinto, Belo Horizonte",Group stage,2014-06-21,1–0,Milorad Mažić,Brazil,2014
+Germany,Ghana,2,2,Joachim Löw,,Kwesi Appiah,,59621,"Estádio Castelão, Fortaleza",Group stage,2014-06-21,2–2,Sandro Ricci,Brazil,2014
+Nigeria,Bosnia and Herzegovina,1,0,Stephen Keshi,,Safet Sušić,,40499,"Arena Pantanal, Cuiabá",Group stage,2014-06-21,1–0,Peter O'Leary,Brazil,2014
+Italy,Costa Rica,0,1,Cesare Prandelli,,Jorge Luis Pinto,,40285,"Itaipava Arena Pernambuco, Recife",Group stage,2014-06-20,0–1,Enrique Osses,Brazil,2014
+Switzerland,France,2,5,Ottmar Hitzfeld,,Didier Deschamps,,51003,"Itaipava Arena Fonte Nova, Salvador",Group stage,2014-06-20,2–5,Björn Kuipers,Brazil,2014
+Honduras,Ecuador,1,2,Luis Suárez,,Reinaldo Rueda,,39224,"Estádio Joaquim Américo Guimarães, Curitiba",Group stage,2014-06-20,1–2,Benjamin Williams,Brazil,2014
+Colombia,Côte d'Ivoire,2,1,José Pekerman,,Sabri Lamouchi,,68748,"Estádio Nacional de Brasília, Brasília",Group stage,2014-06-19,2–1,Howard Webb,Brazil,2014
+Uruguay,England,2,1,Óscar Tabárez,,Roy Hodgson,,62575,"Arena Corinthians, São Paulo",Group stage,2014-06-19,2–1,Carlos Velasco,Brazil,2014
+Japan,Greece,0,0,Alberto Zaccheroni,,Fernando Santos,,39485,"Arena das Dunas, Natal",Group stage,2014-06-19,0–0,Joel Aguilar,Brazil,2014
+Australia,Netherlands,2,3,Ange Postecoglou,,Louis van Gaal,,42877,"Estádio José Pinheiro Borba, Porto Alegre",Group stage,2014-06-18,2–3,Djamel Haïmoudi,Brazil,2014
+Spain,Chile,0,2,Del Bosque,,Jorge Sampaoli,,74101,"Estadio Jornalista Mário Filho, Rio de Janeiro",Group stage,2014-06-18,0–2,Mark Geiger,Brazil,2014
+Cameroon,Croatia,0,4,Volker Finke,,Niko Kovač,,39982,"Arena da Amazônia, Manaus",Group stage,2014-06-18,0–4,Pedro Proença,Brazil,2014
+Belgium,Algeria,2,1,Marc Wilmots,,Vahid Halilhodžić,,56800,"Estádio Governador Magalhães Pinto, Belo Horizonte",Group stage,2014-06-17,2–1,Marcos Rodriguez,Brazil,2014
+Brazil,Mexico,0,0,Luiz Felipe Scolari,,Miguel Herrera,,60342,"Estádio Castelão, Fortaleza",Group stage,2014-06-17,0–0,Cüneyt Çakιr,Brazil,2014
+Russia,Korea Republic,1,1,Fabio Capello,,Hong Myung-bo,,37603,"Arena Pantanal, Cuiabá",Group stage,2014-06-17,1–1,Néstor Pitana,Brazil,2014
+Germany,Portugal,4,0,Joachim Löw,,Paulo Bento,,51081,"Itaipava Arena Fonte Nova, Salvador",Group stage,2014-06-16,4–0,Milorad Mažić,Brazil,2014
+IR Iran,Nigeria,0,0,Carlos Queiroz,,Stephen Keshi,,39081,"Estádio Joaquim Américo Guimarães, Curitiba",Group stage,2014-06-16,0–0,Carlos Vera,Brazil,2014
+Ghana,United States,1,2,Kwesi Appiah,,Jürgen Klinsmann,,39760,"Arena das Dunas, Natal",Group stage,2014-06-16,1–2,Jonas Eriksson,Brazil,2014
+Switzerland,Ecuador,2,1,Ottmar Hitzfeld,,Reinaldo Rueda,,68351,"Estádio Nacional de Brasília, Brasília",Group stage,2014-06-15,2–1,Ravshan Irmatov,Brazil,2014
+France,Honduras,3,0,Didier Deschamps,,Luis Suárez,,43012,"Estádio José Pinheiro Borba, Porto Alegre",Group stage,2014-06-15,3–0,Sandro Ricci,Brazil,2014
+Argentina,Bosnia and Herzegovina,2,1,Alejandro Sabella,,Safet Sušić,,74738,"Estadio Jornalista Mário Filho, Rio de Janeiro",Group stage,2014-06-15,2–1,Joel Aguilar,Brazil,2014
+Colombia,Greece,3,0,José Pekerman,,Fernando Santos,,57174,"Estádio Governador Magalhães Pinto, Belo Horizonte",Group stage,2014-06-14,3–0,Mark Geiger,Brazil,2014
+Uruguay,Costa Rica,1,3,Óscar Tabárez,,Jorge Luis Pinto,,58679,"Estádio Castelão, Fortaleza",Group stage,2014-06-14,1–3,Felix Brych,Brazil,2014
+England,Italy,1,2,Roy Hodgson,,Cesare Prandelli,,39800,"Arena da Amazônia, Manaus",Group stage,2014-06-14,1–2,Björn Kuipers,Brazil,2014
+Côte d'Ivoire,Japan,2,1,Sabri Lamouchi,,Alberto Zaccheroni,,40267,"Itaipava Arena Pernambuco, Recife",Group stage,2014-06-14,2–1,Enrique Osses,Brazil,2014
+Mexico,Cameroon,1,0,Miguel Herrera,,Volker Finke,,39216,"Arena das Dunas, Natal",Group stage,2014-06-13,1–0,Wilmar Roldán,Brazil,2014
+Spain,Netherlands,1,5,Del Bosque,,Louis van Gaal,,48173,"Itaipava Arena Fonte Nova, Salvador",Group stage,2014-06-13,1–5,Nicola Rizzoli,Brazil,2014
+Chile,Australia,3,1,Jorge Sampaoli,,Ange Postecoglou,,40275,"Arena Pantanal, Cuiabá",Group stage,2014-06-13,3–1,Noumandiez Doué,Brazil,2014
+Brazil,Croatia,3,1,Luiz Felipe Scolari,,Niko Kovač,,62103,"Arena Corinthians, São Paulo",Group stage,2014-06-12,3–1,Yuichi Nishimura,Brazil,2014
+Netherlands,Spain,0,1,Bert van Marwijk,,Vicente del Bosque,,84490,"Soccer City, Johannesburg",Final,2010-07-11,0–1,Howard Webb,South Africa,2010
+Uruguay,Germany,2,3,Óscar Tabárez,,Joachim Löw,,36254,"Nelson Mandela Bay Stadium, Port Elizabeth",Third-place match,2010-07-10,2–3,,South Africa,2010
+Germany,Spain,0,1,Joachim Löw,,Vicente del Bosque,,60960,"Moses Mabhida Stadium, Durban",Semi-finals,2010-07-07,0–1,,South Africa,2010
+Uruguay,Netherlands,2,3,Óscar Tabárez,,Bert van Marwijk,,62479,"Cape Town Stadium, Cape Town",Semi-finals,2010-07-06,2–3,,South Africa,2010
+Argentina,Germany,0,4,Diego Maradona,,Joachim Löw,,64100,"Cape Town Stadium, Cape Town",Quarter-finals,2010-07-03,0–4,,South Africa,2010
+Paraguay,Spain,0,1,Gerardo Martino,,Vicente del Bosque,,55359,"Emirates Airline Park, Johannesburg",Quarter-finals,2010-07-03,0–1,,South Africa,2010
+Netherlands,Brazil,2,1,Bert van Marwijk,,Dunga,,40186,"Nelson Mandela Bay Stadium, Port Elizabeth",Quarter-finals,2010-07-02,2–1,,South Africa,2010
+Uruguay,Ghana,1,1,Óscar Tabárez,,Milovan Rajevac,,84017,"Soccer City, Johannesburg",Quarter-finals,2010-07-02,(4) 1–1 (2),,South Africa,2010
+Paraguay,Japan,0,0,Gerardo Martino,,Takeshi Okada,,36742,"Loftus Versfeld Stadium, Pretoria",Round of 16,2010-06-29,(5) 0–0 (3),,South Africa,2010
+Spain,Portugal,1,0,Vicente del Bosque,,Carlos Queiroz,,62955,"Cape Town Stadium, Cape Town",Round of 16,2010-06-29,1–0,,South Africa,2010
+Netherlands,Slovakia,2,1,Bert van Marwijk,,Vladimír Weiss,,61962,"Moses Mabhida Stadium, Durban",Round of 16,2010-06-28,2–1,,South Africa,2010
+Brazil,Chile,3,0,Dunga,,Marcelo Bielsa,,54096,"Emirates Airline Park, Johannesburg",Round of 16,2010-06-28,3–0,,South Africa,2010
+Germany,England,4,1,Joachim Löw,,Fabio Capello,,40510,"Toyota Stadium, Bloemfontein",Round of 16,2010-06-27,4–1,,South Africa,2010
+Argentina,Mexico,3,1,Diego Maradona,,Javier Aguirre,,84377,"Soccer City, Johannesburg",Round of 16,2010-06-27,3–1,,South Africa,2010
+Uruguay,Korea Republic,2,1,Óscar Tabárez,,Huh Jung-moo,,30597,"Nelson Mandela Bay Stadium, Port Elizabeth",Round of 16,2010-06-26,2–1,,South Africa,2010
+United States,Ghana,1,2,Bob Bradley,,Milovan Rajevac,,34976,"Royal Bafokeng Stadium, Phokeng",Round of 16,2010-06-26,1–2,,South Africa,2010
+Portugal,Brazil,0,0,Carlos Queiroz,,Dunga,,62712,"Moses Mabhida Stadium, Durban",Group stage,2010-06-25,0–0,,South Africa,2010
+Korea DPR,Côte d'Ivoire,0,3,Kim Jong-hun,,Sven-Göran Eriksson,,34763,"Mbombela Stadium, Nelspruit",Group stage,2010-06-25,0–3,,South Africa,2010
+Chile,Spain,1,2,Marcelo Bielsa,,Vicente del Bosque,,41958,"Loftus Versfeld Stadium, Pretoria",Group stage,2010-06-25,1–2,,South Africa,2010
+Switzerland,Honduras,0,0,Ottmar Hitzfeld,,Reinaldo Rueda,,28042,"Toyota Stadium, Bloemfontein",Group stage,2010-06-25,0–0,,South Africa,2010
+Paraguay,New Zealand,0,0,Gerardo Martino,,Ricki Herbert,,34850,"Peter Mokaba Stadium, Polokwane",Group stage,2010-06-24,0–0,,South Africa,2010
+Slovakia,Italy,3,2,Vladimír Weiss,,Marcello Lippi,,53412,"Emirates Airline Park, Johannesburg",Group stage,2010-06-24,3–2,,South Africa,2010
+Denmark,Japan,1,3,Morten Olsen,,Takeshi Okada,,27967,"Royal Bafokeng Stadium, Phokeng",Group stage,2010-06-24,1–3,,South Africa,2010
+Cameroon,Netherlands,1,2,Paul Le Guen,,Bert van Marwijk,,63093,"Cape Town Stadium, Cape Town",Group stage,2010-06-24,1–2,,South Africa,2010
+Slovenia,England,0,1,Matjaž Kek,,Fabio Capello,,36893,"Nelson Mandela Bay Stadium, Port Elizabeth",Group stage,2010-06-23,0–1,,South Africa,2010
+United States,Algeria,1,0,Bob Bradley,,Rabah Saâdane,,35827,"Loftus Versfeld Stadium, Pretoria",Group stage,2010-06-23,1–0,,South Africa,2010
+Ghana,Germany,0,1,Milovan Rajevac,,Joachim Löw,,83391,"Soccer City, Johannesburg",Group stage,2010-06-23,0–1,,South Africa,2010
+Australia,Serbia,2,1,Pim Verbeek,,Radomir Antić,,37836,"Mbombela Stadium, Nelspruit",Group stage,2010-06-23,2–1,,South Africa,2010
+Mexico,Uruguay,0,1,Javier Aguirre,,Óscar Tabárez,,33425,"Royal Bafokeng Stadium, Phokeng",Group stage,2010-06-22,0–1,,South Africa,2010
+France,South Africa,1,2,Raymond Domenech,,Carlos Alberto Parreira,,39415,"Toyota Stadium, Bloemfontein",Group stage,2010-06-22,1–2,,South Africa,2010
+Nigeria,Korea Republic,2,2,Lars Lagerbäck,,Huh Jung-moo,,61874,"Moses Mabhida Stadium, Durban",Group stage,2010-06-22,2–2,,South Africa,2010
+Greece,Argentina,0,2,Otto Rehhagel,,Diego Maradona,,38891,"Peter Mokaba Stadium, Polokwane",Group stage,2010-06-22,0–2,,South Africa,2010
+Portugal,Korea DPR,7,0,Carlos Queiroz,,Kim Jong-hun,,63644,"Cape Town Stadium, Cape Town",Group stage,2010-06-21,7–0,,South Africa,2010
+Chile,Switzerland,1,0,Marcelo Bielsa,,Ottmar Hitzfeld,,34872,"Nelson Mandela Bay Stadium, Port Elizabeth",Group stage,2010-06-21,1–0,,South Africa,2010
+Spain,Honduras,2,0,Vicente del Bosque,,Reinaldo Rueda,,54386,"Emirates Airline Park, Johannesburg",Group stage,2010-06-21,2–0,,South Africa,2010
+Slovakia,Paraguay,0,2,Vladimír Weiss,,Gerardo Martino,,26643,"Toyota Stadium, Bloemfontein",Group stage,2010-06-20,0–2,,South Africa,2010
+Italy,New Zealand,1,1,Marcello Lippi,,Ricki Herbert,,38229,"Mbombela Stadium, Nelspruit",Group stage,2010-06-20,1–1,,South Africa,2010
+Brazil,Côte d'Ivoire,3,1,Dunga,,Sven-Göran Eriksson,,84455,"Soccer City, Johannesburg",Group stage,2010-06-20,3–1,,South Africa,2010
+Netherlands,Japan,1,0,Bert van Marwijk,,Takeshi Okada,,62010,"Moses Mabhida Stadium, Durban",Group stage,2010-06-19,1–0,,South Africa,2010
+Ghana,Australia,1,1,Milovan Rajevac,,Pim Verbeek,,34812,"Royal Bafokeng Stadium, Phokeng",Group stage,2010-06-19,1–1,,South Africa,2010
+Cameroon,Denmark,1,2,Paul Le Guen,,Morten Olsen,,38074,"Loftus Versfeld Stadium, Pretoria",Group stage,2010-06-19,1–2,,South Africa,2010
+Germany,Serbia,0,1,Joachim Löw,,Radomir Antić,,38294,"Nelson Mandela Bay Stadium, Port Elizabeth",Group stage,2010-06-18,0–1,,South Africa,2010
+Slovenia,United States,2,2,Matjaž Kek,,Bob Bradley,,45573,"Emirates Airline Park, Johannesburg",Group stage,2010-06-18,2–2,,South Africa,2010
+England,Algeria,0,0,Fabio Capello,,Rabah Saâdane,,64100,"Cape Town Stadium, Cape Town",Group stage,2010-06-18,0–0,,South Africa,2010
+Argentina,Korea Republic,4,1,Diego Maradona,,Huh Jung-moo,,82174,"Soccer City, Johannesburg",Group stage,2010-06-17,4–1,,South Africa,2010
+Greece,Nigeria,2,1,Otto Rehhagel,,Lars Lagerbäck,,31593,"Toyota Stadium, Bloemfontein",Group stage,2010-06-17,2–1,,South Africa,2010
+France,Mexico,0,2,Raymond Domenech,,Javier Aguirre,,35370,"Peter Mokaba Stadium, Polokwane",Group stage,2010-06-17,0–2,,South Africa,2010
+Honduras,Chile,0,1,Reinaldo Rueda,,Marcelo Bielsa,,32664,"Mbombela Stadium, Nelspruit",Group stage,2010-06-16,0–1,,South Africa,2010
+Spain,Switzerland,0,1,Vicente del Bosque,,Ottmar Hitzfeld,,62453,"Moses Mabhida Stadium, Durban",Group stage,2010-06-16,0–1,,South Africa,2010
+South Africa,Uruguay,0,3,Carlos Alberto Parreira,,Óscar Tabárez,,42658,"Loftus Versfeld Stadium, Pretoria",Group stage,2010-06-16,0–3,,South Africa,2010
+New Zealand,Slovakia,1,1,Ricki Herbert,,Vladimír Weiss,,23871,"Royal Bafokeng Stadium, Phokeng",Group stage,2010-06-15,1–1,,South Africa,2010
+Côte d'Ivoire,Portugal,0,0,Sven-Göran Eriksson,,Carlos Queiroz,,37034,"Nelson Mandela Bay Stadium, Port Elizabeth",Group stage,2010-06-15,0–0,,South Africa,2010
+Brazil,Korea DPR,2,1,Dunga,,Kim Jong-hun,,54331,"Emirates Airline Park, Johannesburg",Group stage,2010-06-15,2–1,,South Africa,2010
+Netherlands,Denmark,2,0,Bert van Marwijk,,Morten Olsen,,83465,"Soccer City, Johannesburg",Group stage,2010-06-14,2–0,,South Africa,2010
+Japan,Cameroon,1,0,Takeshi Okada,,Paul Le Guen,,30620,"Toyota Stadium, Bloemfontein",Group stage,2010-06-14,1–0,,South Africa,2010
+Italy,Paraguay,1,1,Marcello Lippi,,Gerardo Martino,,62869,"Cape Town Stadium, Cape Town",Group stage,2010-06-14,1–1,,South Africa,2010
+Algeria,Slovenia,0,1,Rabah Saâdane,,Matjaž Kek,,30325,"Peter Mokaba Stadium, Polokwane",Group stage,2010-06-13,0–1,,South Africa,2010
+Serbia,Ghana,0,1,Radomir Antić,,Milovan Rajevac,,38833,"Loftus Versfeld Stadium, Pretoria",Group stage,2010-06-13,0–1,,South Africa,2010
+Germany,Australia,4,0,Joachim Löw,,Pim Verbeek,,62660,"Moses Mabhida Stadium, Durban",Group stage,2010-06-13,4–0,,South Africa,2010
+Korea Republic,Greece,2,0,Huh Jung-moo,,Otto Rehhagel,,31513,"Nelson Mandela Bay Stadium, Port Elizabeth",Group stage,2010-06-12,2–0,,South Africa,2010
+Argentina,Nigeria,1,0,Diego Maradona,,Lars Lagerbäck,,55686,"Emirates Airline Park, Johannesburg",Group stage,2010-06-12,1–0,,South Africa,2010
+England,United States,1,1,Fabio Capello,,Bob Bradley,,38646,"Royal Bafokeng Stadium, Phokeng",Group stage,2010-06-12,1–1,,South Africa,2010
+South Africa,Mexico,1,1,Carlos Alberto Parreira,,Javier Aguirre,,84490,"Soccer City, Johannesburg",Group stage,2010-06-11,1–1,,South Africa,2010
+Uruguay,France,0,0,Óscar Tabárez,,Raymond Domenech,,64100,"Cape Town Stadium, Cape Town",Group stage,2010-06-11,0–0,,South Africa,2010
+Italy,France,1,1,Marcello Lippi,,Raymond Domenech,,69000,"Olympiastadion Berlin, Berlin",Final,2006-07-09,(5) 1–1 (3),,Germany,2006
+Germany,Portugal,3,1,Jürgen Klinsmann,,Luiz Felipe Scolari,,52000,"Mercedes-Benz Arena, Stuttgart",Third-place match,2006-07-08,3–1,,Germany,2006
+Portugal,France,0,1,Luiz Felipe Scolari,,Raymond Domenech,,66000,"Allianz Arena, München",Semi-finals,2006-07-05,0–1,,Germany,2006
+Germany,Italy,0,2,Jürgen Klinsmann,,Marcello Lippi,,65000,"Signal Iduna Park, Dortmund",Semi-finals,2006-07-04,0–2,,Germany,2006
+England,Portugal,0,0,Sven-Göran Eriksson,,Luiz Felipe Scolari,,52000,"Veltins-Arena, Gelsenkirchen",Quarter-finals,2006-07-01,(1) 0–0 (3),,Germany,2006
+Brazil,France,0,1,Carlos Alberto Parreira,,Raymond Domenech,,48000,"Commerzbank-Arena, Frankfurt am Main",Quarter-finals,2006-07-01,0–1,,Germany,2006
+Germany,Argentina,1,1,Jürgen Klinsmann,,José Pékerman,,72000,"Olympiastadion Berlin, Berlin",Quarter-finals,2006-06-30,(4) 1–1 (2),,Germany,2006
+Italy,Ukraine,3,0,Marcello Lippi,,Oleh Blokhin,,50000,"Volksparkstadion, Hamburg",Quarter-finals,2006-06-30,3–0,,Germany,2006
+Brazil,Ghana,3,0,Carlos Alberto Parreira,,Ratomir Dujković,,65000,"Signal Iduna Park, Dortmund",Round of 16,2006-06-27,3–0,,Germany,2006
+Spain,France,1,3,Luis Aragonés,,Raymond Domenech,,43000,"HDI-Arena, Hannover",Round of 16,2006-06-27,1–3,,Germany,2006
+Italy,Australia,1,0,Marcello Lippi,,Guus Hiddink,,46000,"Fritz-Walter-Stadion, Kaiserslautern",Round of 16,2006-06-26,1–0,,Germany,2006
+Switzerland,Ukraine,0,0,Köbi Kuhn,,Oleh Blokhin,,45000,"RheinEnergieSTADION, Köln",Round of 16,2006-06-26,(0) 0–0 (3),,Germany,2006
+England,Ecuador,1,0,Sven-Göran Eriksson,,Luis Fernando Suárez,,52000,"Mercedes-Benz Arena, Stuttgart",Round of 16,2006-06-25,1–0,,Germany,2006
+Portugal,Netherlands,1,0,Luiz Felipe Scolari,,Marco van Basten,,41000,"Max-Morlock-Stadion, Nürnberg",Round of 16,2006-06-25,1–0,,Germany,2006
+Germany,Sweden,2,0,Jürgen Klinsmann,,Lars Lagerbäck,,66000,"Allianz Arena, München",Round of 16,2006-06-24,2–0,,Germany,2006
+Argentina,Mexico,2,1,José Pékerman,,Ricardo La Volpe,,43000,"Red Bull Arena, Leipzig",Round of 16,2006-06-24,2–1,,Germany,2006
+Saudi Arabia,Spain,0,1,Marcos Paquetá,,Luis Aragonés,,46000,"Fritz-Walter-Stadion, Kaiserslautern",Group stage,2006-06-23,0–1,,Germany,2006
+Ukraine,Tunisia,1,0,Oleh Blokhin,,Roger Lemerre,,72000,"Olympiastadion Berlin, Berlin",Group stage,2006-06-23,1–0,,Germany,2006
+Togo,France,0,2,Otto Pfister,,Raymond Domenech,,45000,"RheinEnergieSTADION, Köln",Group stage,2006-06-23,0–2,,Germany,2006
+Switzerland,Korea Republic,2,0,Köbi Kuhn,,Dick Advocaat,,43000,"HDI-Arena, Hannover",Group stage,2006-06-23,2–0,,Germany,2006
+Ghana,United States,2,1,Ratomir Dujković,,Bruce Arena,,41000,"Max-Morlock-Stadion, Nürnberg",Group stage,2006-06-22,2–1,,Germany,2006
+Czech Republic,Italy,0,2,Karel Brückner,,Marcello Lippi,,50000,"Volksparkstadion, Hamburg",Group stage,2006-06-22,0–2,,Germany,2006
+Japan,Brazil,1,4,Zico,,Carlos Alberto Parreira,,65000,"Signal Iduna Park, Dortmund",Group stage,2006-06-22,1–4,,Germany,2006
+Croatia,Australia,2,2,Zlatko Kranjčar,,Guus Hiddink,,52000,"Mercedes-Benz Arena, Stuttgart",Group stage,2006-06-22,2–2,,Germany,2006
+Portugal,Mexico,2,1,Luiz Felipe Scolari,,Ricardo La Volpe,,52000,"Veltins-Arena, Gelsenkirchen",Group stage,2006-06-21,2–1,,Germany,2006
+IR Iran,Angola,1,1,Branko Ivanković,,Oliveira Gonçalves,,38000,"Red Bull Arena, Leipzig",Group stage,2006-06-21,1–1,,Germany,2006
+Côte d'Ivoire,Serbia and Montenegro,3,2,Henri Michel,,Ilija Petković,,66000,"Allianz Arena, München",Group stage,2006-06-21,3–2,,Germany,2006
+Netherlands,Argentina,0,0,Marco van Basten,,José Pékerman,,48000,"Commerzbank-Arena, Frankfurt am Main",Group stage,2006-06-21,0–0,,Germany,2006
+Costa Rica,Poland,1,2,Alexandre Guimarães,,Paweł Janas,,43000,"HDI-Arena, Hannover",Group stage,2006-06-20,1–2,,Germany,2006
+Ecuador,Germany,0,3,Luis Fernando Suárez,,Jürgen Klinsmann,,72000,"Olympiastadion Berlin, Berlin",Group stage,2006-06-20,0–3,,Germany,2006
+Paraguay,Trinidad and Tobago,2,0,Aníbal Ruiz,,Leo Beenhakker,,46000,"Fritz-Walter-Stadion, Kaiserslautern",Group stage,2006-06-20,2–0,,Germany,2006
+Sweden,England,2,2,Lars Lagerbäck,,Sven-Göran Eriksson,,45000,"RheinEnergieSTADION, Köln",Group stage,2006-06-20,2–2,,Germany,2006
+Togo,Switzerland,0,2,Otto Pfister,,Köbi Kuhn,,65000,"Signal Iduna Park, Dortmund",Group stage,2006-06-19,0–2,,Germany,2006
+Saudi Arabia,Ukraine,0,4,Marcos Paquetá,,Oleh Blokhin,,50000,"Volksparkstadion, Hamburg",Group stage,2006-06-19,0–4,,Germany,2006
+Spain,Tunisia,3,1,Luis Aragonés,,Roger Lemerre,,52000,"Mercedes-Benz Arena, Stuttgart",Group stage,2006-06-19,3–1,,Germany,2006
+Japan,Croatia,0,0,Zico,,Zlatko Kranjčar,,41000,"Max-Morlock-Stadion, Nürnberg",Group stage,2006-06-18,0–0,,Germany,2006
+Brazil,Australia,2,0,Carlos Alberto Parreira,,Guus Hiddink,,66000,"Allianz Arena, München",Group stage,2006-06-18,2–0,,Germany,2006
+France,Korea Republic,1,1,Raymond Domenech,,Dick Advocaat,,43000,"Red Bull Arena, Leipzig",Group stage,2006-06-18,1–1,,Germany,2006
+Portugal,IR Iran,2,0,Luiz Felipe Scolari,,Branko Ivanković,,48000,"Commerzbank-Arena, Frankfurt am Main",Group stage,2006-06-17,2–0,,Germany,2006
+Czech Republic,Ghana,0,2,Karel Brückner,,Ratomir Dujković,,45000,"RheinEnergieSTADION, Köln",Group stage,2006-06-17,0–2,,Germany,2006
+Italy,United States,1,1,Marcello Lippi,,Bruce Arena,,46000,"Fritz-Walter-Stadion, Kaiserslautern",Group stage,2006-06-17,1–1,,Germany,2006
+Argentina,Serbia and Montenegro,6,0,José Pékerman,,Ilija Petković,,52000,"Veltins-Arena, Gelsenkirchen",Group stage,2006-06-16,6–0,,Germany,2006
+Netherlands,Côte d'Ivoire,2,1,Marco van Basten,,Henri Michel,,52000,"Mercedes-Benz Arena, Stuttgart",Group stage,2006-06-16,2–1,,Germany,2006
+Mexico,Angola,0,0,Ricardo La Volpe,,Oliveira Gonçalves,,43000,"HDI-Arena, Hannover",Group stage,2006-06-16,0–0,,Germany,2006
+Ecuador,Costa Rica,3,0,Luis Fernando Suárez,,Alexandre Guimarães,,50000,"Veltins-Arena, Gelsenkirchen",Group stage,2006-06-15,3–0,,Germany,2006
+England,Trinidad and Tobago,2,0,Sven-Göran Eriksson,,Leo Beenhakker,,41000,"Max-Morlock-Stadion, Nürnberg",Group stage,2006-06-15,2–0,,Germany,2006
+Sweden,Paraguay,1,0,Lars Lagerbäck,,Aníbal Ruiz,,72000,"Olympiastadion Berlin, Berlin",Group stage,2006-06-15,1–0,,Germany,2006
+Spain,Ukraine,4,0,Luis Aragonés,,Oleh Blokhin,,43000,"Red Bull Arena, Leipzig",Group stage,2006-06-14,4–0,,Germany,2006
+Tunisia,Saudi Arabia,2,2,Roger Lemerre,,Marcos Paquetá,,66000,"Allianz Arena, München",Group stage,2006-06-14,2–2,,Germany,2006
+Germany,Poland,1,0,Jürgen Klinsmann,,Paweł Janas,,65000,"Signal Iduna Park, Dortmund",Group stage,2006-06-14,1–0,,Germany,2006
+Korea Republic,Togo,2,1,Dick Advocaat,,Otto Pfister,,48000,"Commerzbank-Arena, Frankfurt am Main",Group stage,2006-06-13,2–1,,Germany,2006
+France,Switzerland,0,0,Raymond Domenech,,Köbi Kuhn,,52000,"Mercedes-Benz Arena, Stuttgart",Group stage,2006-06-13,0–0,,Germany,2006
+Brazil,Croatia,1,0,Carlos Alberto Parreira,,Zlatko Kranjčar,,72000,"Olympiastadion Berlin, Berlin",Group stage,2006-06-13,1–0,,Germany,2006
+Australia,Japan,3,1,Guus Hiddink,,Zico,,46000,"Fritz-Walter-Stadion, Kaiserslautern",Group stage,2006-06-12,3–1,,Germany,2006
+United States,Czech Republic,0,3,Bruce Arena,,Karel Brückner,,52000,"Veltins-Arena, Gelsenkirchen",Group stage,2006-06-12,0–3,,Germany,2006
+Italy,Ghana,2,0,Marcello Lippi,,Ratomir Dujković,,43000,"HDI-Arena, Hannover",Group stage,2006-06-12,2–0,,Germany,2006
+Serbia and Montenegro,Netherlands,0,1,Ilija Petković,,Marco van Basten,,37216,"Red Bull Arena, Leipzig",Group stage,2006-06-11,0–1,,Germany,2006
+Mexico,IR Iran,3,1,Ricardo La Volpe,,Branko Ivanković,,41000,"Max-Morlock-Stadion, Nürnberg",Group stage,2006-06-11,3–1,,Germany,2006
+Angola,Portugal,0,1,Oliveira Gonçalves,,Luiz Felipe Scolari,,45000,"RheinEnergieSTADION, Köln",Group stage,2006-06-11,0–1,,Germany,2006
+England,Paraguay,1,0,Sven-Göran Eriksson,,Aníbal Ruiz,,48000,"Commerzbank-Arena, Frankfurt am Main",Group stage,2006-06-10,1–0,,Germany,2006
+Trinidad and Tobago,Sweden,0,0,Leo Beenhakker,,Lars Lagerbäck,,62959,"Signal Iduna Park, Dortmund",Group stage,2006-06-10,0–0,,Germany,2006
+Argentina,Côte d'Ivoire,2,1,José Pékerman,,Henri Michel,,49480,"Volksparkstadion, Hamburg",Group stage,2006-06-10,2–1,,Germany,2006
+Germany,Costa Rica,4,2,Jürgen Klinsmann,,Alexandre Guimarães,,64950,"Allianz Arena, München",Group stage,2006-06-09,4–2,,Germany,2006
+Poland,Ecuador,0,2,Paweł Janas,,Luis Fernando Suárez,,52000,"Veltins-Arena, Gelsenkirchen",Group stage,2006-06-09,0–2,,Germany,2006
+Germany,Brazil,0,2,Rudi Völler,,Luiz Felipe Scolari,,69029,"Nissan Stadium, Yokohama",Final,2002-06-30,0–2,,"Korea Republic, Japan",2002
+Korea Republic,Türkiye,2,3,Guus Hiddink,,Şenol Güneş,,63483,"Daegu Main Stadium, Daegu",Third-place match,2002-06-29,2–3,,"Korea Republic, Japan",2002
+Brazil,Türkiye,1,0,Luiz Felipe Scolari,,Şenol Güneş,,61058,"Saitama Stadium 2002, Saitama",Semi-finals,2002-06-26,1–0,,"Korea Republic, Japan",2002
+Germany,Korea Republic,1,0,Rudi Völler,,Guus Hiddink,,65625,"Seoul World Cup Stadium, Seoul",Semi-finals,2002-06-25,1–0,,"Korea Republic, Japan",2002
+Spain,Korea Republic,0,0,José Antonio Camacho,,Guus Hiddink,,42114,"Guus Hiddink Stadium, Gwangju",Quarter-finals,2002-06-22,(3) 0–0 (5),,"Korea Republic, Japan",2002
+Senegal,Türkiye,0,1,Bruno Metsu,,Şenol Güneş,,44233,"Yanmar Stadium Nagai, Osaka",Quarter-finals,2002-06-22,0–1,,"Korea Republic, Japan",2002
+England,Brazil,1,2,Sven-Göran Eriksson,,Luiz Felipe Scolari,,47436,"Daejeon World Cup Stadium, Daejeon",Quarter-finals,2002-06-21,1–2,,"Korea Republic, Japan",2002
+Germany,United States,1,0,Rudi Völler,,Bruce Arena,,37337,"Munsu Cup Stadium, Ulsan",Quarter-finals,2002-06-21,1–0,,"Korea Republic, Japan",2002
+Japan,Türkiye,0,1,Philippe Troussier,,Şenol Güneş,,45666,"Miyagi Stadium, Rifu",Round of 16,2002-06-18,0–1,,"Korea Republic, Japan",2002
+Korea Republic,Italy,2,1,Guus Hiddink,,Giovanni Trapattoni,,38588,"Daejeon World Cup Stadium, Daejeon",Round of 16,2002-06-18,2–1,,"Korea Republic, Japan",2002
+Mexico,United States,0,2,Javier Aguirre,,Bruce Arena,,36380,"Jeonju World Cup Stadium, Jeonju",Round of 16,2002-06-17,0–2,,"Korea Republic, Japan",2002
+Brazil,Belgium,2,0,Luiz Felipe Scolari,,Robert Waseige,,40440,"NOEVIR Stadium Kobe, Kobe",Round of 16,2002-06-17,2–0,,"Korea Republic, Japan",2002
+Sweden,Senegal,1,2,Lars Lagerbäck,,Bruno Metsu,,39747,"Ōita Bank Dome, Ōita",Round of 16,2002-06-16,1–2,,"Korea Republic, Japan",2002
+Spain,Republic of Ireland,1,1,José Antonio Camacho,,Mick McCarthy,,38926,"Suwon World Cup Stadium, Suwon",Round of 16,2002-06-16,(3) 1–1 (2),,"Korea Republic, Japan",2002
+Germany,Paraguay,1,0,Rudi Völler,,Cesare Maldini,,25176,"Jeju World Cup Stadium, Jeju",Round of 16,2002-06-15,1–0,,"Korea Republic, Japan",2002
+Denmark,England,0,3,Morten Olsen,,Sven-Göran Eriksson,,40582,"Denka Big Swan Stadium, Niigata",Round of 16,2002-06-15,0–3,,"Korea Republic, Japan",2002
+Tunisia,Japan,0,2,Ammar Souayah,,Philippe Troussier,,45213,"Yanmar Stadium Nagai, Osaka",Group stage,2002-06-14,0–2,,"Korea Republic, Japan",2002
+Belgium,Russia,3,2,Robert Waseige,,Oleg Romantsev,,46640,"Shizuoka Stadium Ecopa, Fukuroi",Group stage,2002-06-14,3–2,,"Korea Republic, Japan",2002
+Portugal,Korea Republic,0,1,António Luís Alves Ribeiro Oliveira,,Guus Hiddink,,50239,"Incheon Munhak Stadium, Incheon",Group stage,2002-06-14,0–1,,"Korea Republic, Japan",2002
+Poland,United States,3,1,Jerzy Engel,,Bruce Arena,,26482,"Daejeon World Cup Stadium, Daejeon",Group stage,2002-06-14,3–1,,"Korea Republic, Japan",2002
+Costa Rica,Brazil,2,5,Alexandre Guimarães,,Luiz Felipe Scolari,,38524,"Suwon World Cup Stadium, Suwon",Group stage,2002-06-13,2–5,,"Korea Republic, Japan",2002
+Türkiye,China PR,3,0,Şenol Güneş,,Bora Milutinović,,43605,"Seoul World Cup Stadium, Seoul",Group stage,2002-06-13,3–0,,"Korea Republic, Japan",2002
+Mexico,Italy,1,1,Javier Aguirre,,Giovanni Trapattoni,,39291,"Ōita Bank Dome, Ōita",Group stage,2002-06-13,1–1,,"Korea Republic, Japan",2002
+Ecuador,Croatia,1,0,Hernán Darío Gómez,,Mirko Jozić,,65862,"Nissan Stadium, Yokohama",Group stage,2002-06-13,1–0,,"Korea Republic, Japan",2002
+Sweden,Argentina,1,1,Lars Lagerbäck,,Marcelo Bielsa,,45777,"Miyagi Stadium, Rifu",Group stage,2002-06-12,1–1,,"Korea Republic, Japan",2002
+Nigeria,England,0,0,Festus Onigbinde,,Sven-Göran Eriksson,,44864,"Yanmar Stadium Nagai, Osaka",Group stage,2002-06-12,0–0,,"Korea Republic, Japan",2002
+South Africa,Spain,2,3,Jomo Sono,,José Antonio Camacho,,31024,"Daejeon World Cup Stadium, Daejeon",Group stage,2002-06-12,2–3,,"Korea Republic, Japan",2002
+Slovenia,Paraguay,1,3,Srečko Katanec,,Cesare Maldini,,30176,"Jeju World Cup Stadium, Jeju",Group stage,2002-06-12,1–3,,"Korea Republic, Japan",2002
+Denmark,France,2,0,Morten Olsen,,Roger Lemerre,,48100,"Incheon Munhak Stadium, Incheon",Group stage,2002-06-11,2–0,,"Korea Republic, Japan",2002
+Senegal,Uruguay,3,3,Bruno Metsu,,Víctor Púa,,33681,"Suwon World Cup Stadium, Suwon",Group stage,2002-06-11,3–3,,"Korea Republic, Japan",2002
+Saudi Arabia,Republic of Ireland,0,3,Nasser Al-Johar,,Mick McCarthy,,65320,"Nissan Stadium, Yokohama",Group stage,2002-06-11,0–3,,"Korea Republic, Japan",2002
+Cameroon,Germany,0,2,Winfried Schäfer,,Rudi Völler,,47085,"Shizuoka Stadium Ecopa, Fukuroi",Group stage,2002-06-11,0–2,,"Korea Republic, Japan",2002
+Korea Republic,United States,1,1,Guus Hiddink,,Bruce Arena,,60778,"Daegu Main Stadium, Daegu",Group stage,2002-06-10,1–1,,"Korea Republic, Japan",2002
+Tunisia,Belgium,1,1,Ammar Souayah,,Robert Waseige,,39700,"Ōita Bank Dome, Ōita",Group stage,2002-06-10,1–1,,"Korea Republic, Japan",2002
+Portugal,Poland,4,0,António Luís Alves Ribeiro Oliveira,,Jerzy Engel,,31000,"Jeonju World Cup Stadium, Jeonju",Group stage,2002-06-10,4–0,,"Korea Republic, Japan",2002
+Mexico,Ecuador,2,1,Javier Aguirre,,Hernán Darío Gómez,,45610,"Sapporo Dome, Sapporo",Group stage,2002-06-09,2–1,,"Korea Republic, Japan",2002
+Costa Rica,Türkiye,1,1,Alexandre Guimarães,,Şenol Güneş,,42299,"Incheon Munhak Stadium, Incheon",Group stage,2002-06-09,1–1,,"Korea Republic, Japan",2002
+Japan,Russia,1,0,Philippe Troussier,,Oleg Romantsev,,66108,"Nissan Stadium, Yokohama",Group stage,2002-06-09,1–0,,"Korea Republic, Japan",2002
+South Africa,Slovenia,1,0,Jomo Sono,,Srečko Katanec,,47226,"Daegu Main Stadium, Daegu",Group stage,2002-06-08,1–0,,"Korea Republic, Japan",2002
+Italy,Croatia,1,2,Giovanni Trapattoni,,Mirko Jozić,,36472,"Kashima Soccer Stadium, Kashima",Group stage,2002-06-08,1–2,,"Korea Republic, Japan",2002
+Brazil,China PR,4,0,Luiz Felipe Scolari,,Bora Milutinović,,36750,"Jeju World Cup Stadium, Jeju",Group stage,2002-06-08,4–0,,"Korea Republic, Japan",2002
+Sweden,Nigeria,2,1,Tommy Söderberg,,Festus Onigbinde,,36194,"NOEVIR Stadium Kobe, Kobe",Group stage,2002-06-07,2–1,,"Korea Republic, Japan",2002
+Spain,Paraguay,3,1,José Antonio Camacho,,Cesare Maldini,,24000,"Jeonju World Cup Stadium, Jeonju",Group stage,2002-06-07,3–1,,"Korea Republic, Japan",2002
+Argentina,England,0,1,Marcelo Bielsa,,Sven-Göran Eriksson,,35927,"Sapporo Dome, Sapporo",Group stage,2002-06-07,0–1,,"Korea Republic, Japan",2002
+Denmark,Senegal,1,1,Morten Olsen,,Bruno Metsu,,43500,"Daegu Main Stadium, Daegu",Group stage,2002-06-06,1–1,,"Korea Republic, Japan",2002
+Cameroon,Saudi Arabia,1,0,Winfried Schäfer,,Nasser Al-Johar,,52328,"Saitama Stadium 2002, Saitama",Group stage,2002-06-06,1–0,,"Korea Republic, Japan",2002
+France,Uruguay,0,0,Roger Lemerre,,Víctor Púa,,38070,"Busan Sport Complex Asiad Stadium, Busan",Group stage,2002-06-06,0–0,,"Korea Republic, Japan",2002
+Russia,Tunisia,2,0,Oleg Romantsev,,Ammar Souayah,,30957,"NOEVIR Stadium Kobe, Kobe",Group stage,2002-06-05,2–0,,"Korea Republic, Japan",2002
+United States,Portugal,3,2,Bruce Arena,,António Luís Alves Ribeiro Oliveira,,37306,"Suwon World Cup Stadium, Suwon",Group stage,2002-06-05,3–2,,"Korea Republic, Japan",2002
+Germany,Republic of Ireland,1,1,Rudi Völler,,Mick McCarthy,,35854,"Kashima Soccer Stadium, Kashima",Group stage,2002-06-05,1–1,,"Korea Republic, Japan",2002
+China PR,Costa Rica,0,2,Bora Milutinović,,Alexandre Guimarães,,27217,"Guus Hiddink Stadium, Gwangju",Group stage,2002-06-04,0–2,,"Korea Republic, Japan",2002
+Japan,Belgium,2,2,Philippe Troussier,,Robert Waseige,,55256,"Saitama Stadium 2002, Saitama",Group stage,2002-06-04,2–2,,"Korea Republic, Japan",2002
+Korea Republic,Poland,2,0,Guus Hiddink,,Jerzy Engel,,48760,"Busan Sport Complex Asiad Stadium, Busan",Group stage,2002-06-04,2–0,,"Korea Republic, Japan",2002
+Croatia,Mexico,0,1,Mirko Jozić,,Javier Aguirre,,32239,"Denka Big Swan Stadium, Niigata",Group stage,2002-06-03,0–1,,"Korea Republic, Japan",2002
+Brazil,Türkiye,2,1,Luiz Felipe Scolari,,Şenol Güneş,,33842,"Munsu Cup Stadium, Ulsan",Group stage,2002-06-03,2–1,,"Korea Republic, Japan",2002
+Italy,Ecuador,2,0,Giovanni Trapattoni,,Hernán Darío Gómez,,31081,"Sapporo Dome, Sapporo",Group stage,2002-06-03,2–0,,"Korea Republic, Japan",2002
+Argentina,Nigeria,1,0,Marcelo Bielsa,,Festus Onigbinde,,34050,"Kashima Soccer Stadium, Kashima",Group stage,2002-06-02,1–0,,"Korea Republic, Japan",2002
+Paraguay,South Africa,2,2,Cesare Maldini,,Jomo Sono,,25186,"Busan Sport Complex Asiad Stadium, Busan",Group stage,2002-06-02,2–2,,"Korea Republic, Japan",2002
+England,Sweden,1,1,Sven-Göran Eriksson,,Tommy Söderberg,,52721,"Saitama Stadium 2002, Saitama",Group stage,2002-06-02,1–1,,"Korea Republic, Japan",2002
+Spain,Slovenia,3,1,José Antonio Camacho,,Srečko Katanec,,28588,"Guus Hiddink Stadium, Gwangju",Group stage,2002-06-02,3–1,,"Korea Republic, Japan",2002
+Republic of Ireland,Cameroon,1,1,Mick McCarthy,,Winfried Schäfer,,33679,"Denka Big Swan Stadium, Niigata",Group stage,2002-06-01,1–1,,"Korea Republic, Japan",2002
+Uruguay,Denmark,1,2,Víctor Púa,,Morten Olsen,,30157,"Munsu Cup Stadium, Ulsan",Group stage,2002-06-01,1–2,,"Korea Republic, Japan",2002
+Germany,Saudi Arabia,8,0,Rudi Völler,,Nasser Al-Johar,,32218,"Sapporo Dome, Sapporo",Group stage,2002-06-01,8–0,,"Korea Republic, Japan",2002
+France,Senegal,0,1,Roger Lemerre,,Bruno Metsu,,62561,"Seoul World Cup Stadium, Seoul",Group stage,2002-05-31,0–1,,"Korea Republic, Japan",2002
+Brazil,France,0,3,Mário Zagallo,,Aimé Jacquet,,80000,"Stade de France, Paris",Final,1998-07-12,0–3,,France,1998
+Netherlands,Croatia,1,2,Guus Hiddink,,Miroslav Blažević,,44000,"Parc des Princes, Paris",Third-place match,1998-07-11,1–2,,France,1998
+France,Croatia,2,1,Aimé Jacquet,,Miroslav Blažević,,80000,"Stade de France, Paris",Semi-finals,1998-07-08,2–1,,France,1998
+Brazil,Netherlands,1,1,Mário Zagallo,,Guus Hiddink,,60000,"Orange Vélodrome, Marseille",Semi-finals,1998-07-07,(4) 1–1 (2),,France,1998
+Netherlands,Argentina,2,1,Guus Hiddink,,Daniel Passarella,,60000,"Orange Vélodrome, Marseille",Quarter-finals,1998-07-04,2–1,,France,1998
+Germany,Croatia,0,3,Berti Vogts,,Miroslav Blažević,,43300,"Matmut Stadium de Gerland, Lyon",Quarter-finals,1998-07-04,0–3,,France,1998
+Italy,France,0,0,Cesare Maldini,,Aimé Jacquet,,80000,"Stade de France, Paris",Quarter-finals,1998-07-03,(3) 0–0 (4),,France,1998
+Brazil,Denmark,3,2,Mário Zagallo,,Bo Johansson,,49500,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Quarter-finals,1998-07-03,3–2,,France,1998
+Romania,Croatia,0,1,Anghel Iordănescu,,Miroslav Blažević,,31800,"Stade Jacques Chaban-Delmas, Bordeaux",Round of 16,1998-06-30,0–1,,France,1998
+Argentina,England,2,2,Daniel Passarella,,Glenn Hoddle,,30600,"Stade Geoffroy-Guichard, Saint-Étienne",Round of 16,1998-06-30,(4) 2–2 (3),,France,1998
+Germany,Mexico,2,1,Berti Vogts,,Manuel Lapuente,,29800,"Stade de la Mosson, Montpellier",Round of 16,1998-06-29,2–1,,France,1998
+Netherlands,FR Yugoslavia,2,1,Guus Hiddink,,Slobodan Santrač,,33000,"Stadium Municipal, Toulouse",Round of 16,1998-06-29,2–1,,France,1998
+France,Paraguay,1,0,Aimé Jacquet,,Paulo César Carpegiani,,31800,"Stade Bollaert-Delelis, Lens",Round of 16,1998-06-28,1–0,,France,1998
+Nigeria,Denmark,1,4,Bora Milutinović,,Bo Johansson,,77000,"Stade de France, Paris",Round of 16,1998-06-28,1–4,,France,1998
+Italy,Norway,1,0,Cesare Maldini,,Egil Olsen,,55000,"Orange Vélodrome, Marseille",Round of 16,1998-06-27,1–0,,France,1998
+Brazil,Chile,4,1,Mário Zagallo,,Nelson Acosta,,45500,"Parc des Princes, Paris",Round of 16,1998-06-27,4–1,,France,1998
+Argentina,Croatia,1,0,Daniel Passarella,,Miroslav Blažević,,31800,"Stade Jacques Chaban-Delmas, Bordeaux",Group stage,1998-06-26,1–0,,France,1998
+Japan,Jamaica,1,2,Takeshi Okada,,René Simões,,39100,"Matmut Stadium de Gerland, Lyon",Group stage,1998-06-26,1–2,,France,1998
+Romania,Tunisia,1,1,Anghel Iordănescu,,Ali Selmi,,80000,"Stade de France, Paris",Group stage,1998-06-26,1–1,,France,1998
+Colombia,England,0,2,Hernán Darío Gómez,,Glenn Hoddle,,42000,"Stade Bollaert-Delelis, Lens",Group stage,1998-06-26,0–2,,France,1998
+Netherlands,Mexico,2,2,Guus Hiddink,,Manuel Lapuente,,30600,"Stade Geoffroy-Guichard, Saint-Étienne",Group stage,1998-06-25,2–2,,France,1998
+Belgium,Korea Republic,1,1,Georges Leekens,,Kim Pyung-seok,,45500,"Parc des Princes, Paris",Group stage,1998-06-25,1–1,,France,1998
+United States,FR Yugoslavia,0,1,Steve Sampson,,Slobodan Santrač,,38500,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Group stage,1998-06-25,0–1,,France,1998
+Germany,IR Iran,2,0,Berti Vogts,,Jalal Talebi,,35500,"Stade de la Mosson, Montpellier",Group stage,1998-06-25,2–0,,France,1998
+South Africa,Saudi Arabia,2,2,Philippe Troussier,,Mohammed Al-Kharashy,,31800,"Stade Jacques Chaban-Delmas, Bordeaux",Group stage,1998-06-24,2–2,,France,1998
+France,Denmark,2,1,Aimé Jacquet,,Bo Johansson,,39100,"Matmut Stadium de Gerland, Lyon",Group stage,1998-06-24,2–1,,France,1998
+Spain,Bulgaria,6,1,Javier Clemente,,Hristo Bonev,,41275,"Stade Bollaert-Delelis, Lens",Group stage,1998-06-24,6–1,,France,1998
+Nigeria,Paraguay,1,3,Bora Milutinović,,Paulo César Carpegiani,,33400,"Stadium Municipal, Toulouse",Group stage,1998-06-24,1–3,,France,1998
+Italy,Austria,2,1,Cesare Maldini,,Herbert Prohaska,,80000,"Stade de France, Paris",Group stage,1998-06-23,2–1,,France,1998
+Chile,Cameroon,1,1,Nelson Acosta,,Claude Le Roy,,39500,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Group stage,1998-06-23,1–1,,France,1998
+Brazil,Norway,1,2,Mário Zagallo,,Egil Olsen,,57000,"Orange Vélodrome, Marseille",Group stage,1998-06-23,1–2,,France,1998
+Scotland,Morocco,0,3,Craig Brown,,Henri Michel,,36000,"Stade Geoffroy-Guichard, Saint-Étienne",Group stage,1998-06-23,0–3,,France,1998
+Colombia,Tunisia,1,0,Hernán Darío Gómez,,Henryk Kasperczak,,35500,"Stade de la Mosson, Montpellier",Group stage,1998-06-22,1–0,,France,1998
+Romania,England,2,1,Anghel Iordănescu,,Glenn Hoddle,,33140,"Stadium Municipal, Toulouse",Group stage,1998-06-22,2–1,,France,1998
+Germany,FR Yugoslavia,2,2,Berti Vogts,,Slobodan Santrač,,41275,"Stade Bollaert-Delelis, Lens",Group stage,1998-06-21,2–2,,France,1998
+Argentina,Jamaica,5,0,Daniel Passarella,,René Simões,,45500,"Parc des Princes, Paris",Group stage,1998-06-21,5–0,,France,1998
+United States,IR Iran,1,2,Steve Sampson,,Jalal Talebi,,43300,"Matmut Stadium de Gerland, Lyon",Group stage,1998-06-21,1–2,,France,1998
+Japan,Croatia,0,1,Takeshi Okada,,Miroslav Blažević,,35500,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Group stage,1998-06-20,0–1,,France,1998
+Belgium,Mexico,2,2,Georges Leekens,,Manuel Lapuente,,31800,"Stade Jacques Chaban-Delmas, Bordeaux",Group stage,1998-06-20,2–2,,France,1998
+Netherlands,Korea Republic,5,0,Guus Hiddink,,Cha Bum-kun,,55000,"Orange Vélodrome, Marseille",Group stage,1998-06-20,5–0,,France,1998
+Nigeria,Bulgaria,1,0,Bora Milutinović,,Hristo Bonev,,48000,"Parc des Princes, Paris",Group stage,1998-06-19,1–0,,France,1998
+Spain,Paraguay,0,0,Javier Clemente,,Paulo César Carpegiani,,36000,"Stade Geoffroy-Guichard, Saint-Étienne",Group stage,1998-06-19,0–0,,France,1998
+South Africa,Denmark,1,1,Philippe Troussier,,Bo Johansson,,33500,"Stadium Municipal, Toulouse",Group stage,1998-06-18,1–1,,France,1998
+France,Saudi Arabia,4,0,Aimé Jacquet,,Carlos Alberto Parreira,,80000,"Stade de France, Paris",Group stage,1998-06-18,4–0,,France,1998
+Chile,Austria,1,1,Nelson Acosta,,Herbert Prohaska,,36000,"Stade Geoffroy-Guichard, Saint-Étienne",Group stage,1998-06-17,1–1,,France,1998
+Italy,Cameroon,3,0,Cesare Maldini,,Claude Le Roy,,35500,"Stade de la Mosson, Montpellier",Group stage,1998-06-17,3–0,,France,1998
+Scotland,Norway,1,1,Craig Brown,,Egil Olsen,,31800,"Stade Jacques Chaban-Delmas, Bordeaux",Group stage,1998-06-16,1–1,,France,1998
+Brazil,Morocco,3,0,Mário Zagallo,,Henri Michel,,38500,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Group stage,1998-06-16,3–0,,France,1998
+England,Tunisia,2,0,Glenn Hoddle,,Henryk Kasperczak,,54587,"Orange Vélodrome, Marseille",Group stage,1998-06-15,2–0,,France,1998
+Romania,Colombia,1,0,Anghel Iordănescu,,Hernán Darío Gómez,,43300,"Matmut Stadium de Gerland, Lyon",Group stage,1998-06-15,1–0,,France,1998
+Germany,United States,2,0,Berti Vogts,,Steve Sampson,,49000,"Parc des Princes, Paris",Group stage,1998-06-15,2–0,,France,1998
+Argentina,Japan,1,0,Daniel Passarella,,Takeshi Okada,,33500,"Stadium Municipal, Toulouse",Group stage,1998-06-14,1–0,,France,1998
+FR Yugoslavia,IR Iran,1,0,Slobodan Santrač,,Jalal Talebi,,36000,"Stade Geoffroy-Guichard, Saint-Étienne",Group stage,1998-06-14,1–0,,France,1998
+Jamaica,Croatia,1,3,René Simões,,Miroslav Blažević,,38100,"Stade Bollaert-Delelis, Lens",Group stage,1998-06-14,1–3,,France,1998
+Spain,Nigeria,2,3,Javier Clemente,,Bora Milutinović,,38000,"Stade de la Beaujoire - Louis Fonteneau, Nantes",Group stage,1998-06-13,2–3,,France,1998
+Korea Republic,Mexico,1,3,Cha Bum-kun,,Manuel Lapuente,,39100,"Matmut Stadium de Gerland, Lyon",Group stage,1998-06-13,1–3,,France,1998
+Netherlands,Belgium,0,0,Guus Hiddink,,Georges Leekens,,77000,"Stade de France, Paris",Group stage,1998-06-13,0–0,,France,1998
+Paraguay,Bulgaria,0,0,Paulo César Carpegiani,,Hristo Bonev,,27650,"Stade de la Mosson, Montpellier",Group stage,1998-06-12,0–0,,France,1998
+Saudi Arabia,Denmark,0,1,Carlos Alberto Parreira,,Bo Johansson,,38100,"Stade Bollaert-Delelis, Lens",Group stage,1998-06-12,0–1,,France,1998
+France,South Africa,3,0,Aimé Jacquet,,Philippe Troussier,,55000,"Orange Vélodrome, Marseille",Group stage,1998-06-12,3–0,,France,1998
+Italy,Chile,2,2,Cesare Maldini,,Nelson Acosta,,35200,"Stade Jacques Chaban-Delmas, Bordeaux",Group stage,1998-06-11,2–2,,France,1998
+Cameroon,Austria,1,1,Claude Le Roy,,Herbert Prohaska,,36500,"Stadium Municipal, Toulouse",Group stage,1998-06-11,1–1,,France,1998
+Brazil,Scotland,2,1,Mário Zagallo,,Craig Brown,,80000,"Stade de France, Paris",Group stage,1998-06-10,2–1,,France,1998
+Morocco,Norway,2,2,Henri Michel,,Egil Olsen,,29750,"Stade de la Mosson, Montpellier",Group stage,1998-06-10,2–2,,France,1998
+Brazil,Italy,0,0,Carlos Alberto Parreira,Dunga,Arrigo Sacchi,Franco Baresi,94194,"Rose Bowl, Los Angeles",Final,1994-07-17,(3) 0–0 (2),Sandor Puhl,United States,1994
+Sweden,Bulgaria,4,0,Tommy Svensson,Roland Nilsson,Dimitar Penev,Borislav Mikhailov,91500,"Rose Bowl, Los Angeles",Third-place match,1994-07-16,4–0,Ali Bujsaim,United States,1994
+Bulgaria,Italy,1,2,Dimitar Penev,Borislav Mikhailov,Arrigo Sacchi,Paolo Maldini,74110,"Giants Stadium, New York/New Jersey",Semi-finals,1994-07-13,1–2,Joel Quiniou,United States,1994
+Sweden,Brazil,0,1,Tommy Svensson,Jonas Thern,Carlos Alberto Parreira,Dunga,91856,"Rose Bowl, Los Angeles",Semi-finals,1994-07-13,0–1,Jose Joaquin Torres Cadena,United States,1994
+Bulgaria,Germany,2,1,Dimitar Penev,Borislav Mikhailov,Berti Vogts,Lothar Matthäus,72000,"Giants Stadium, New York/New Jersey",Quarter-finals,1994-07-10,2–1,Jose Joaquin Torres Cadena,United States,1994
+Romania,Sweden,2,2,Anghel Iordanescu,Gheorghe Hagi,Tommy Svensson,Roland Nilsson,83500,"Stanford Stadium, San Francisco",Quarter-finals,1994-07-10,(4) 2–2 (5),Philip Don,United States,1994
+Italy,Spain,2,1,Arrigo Sacchi,Paolo Maldini,Javier Clemente,Andoni Zubizarreta,53400,"Foxboro Stadium, Boston",Quarter-finals,1994-07-09,2–1,Sandor Puhl,United States,1994
+Netherlands,Brazil,2,3,Dick Advocaat,Ronald Koeman,Carlos Alberto Parreira,Dunga,63500,"Cotton Bowl, Dallas",Quarter-finals,1994-07-09,2–3,Rodrigo Badilla,United States,1994
+Nigeria,Italy,1,2,Clemens Westerhof,Peter Rufai,Arrigo Sacchi,Paolo Maldini,54367,"Foxboro Stadium, Boston",Round of 16,1994-07-05,1–2,Arturo Brizio Carter,United States,1994
+Mexico,Bulgaria,1,1,Miguel Mejia Baron,Ignacio Ambríz,Dimitar Penev,Borislav Mikhailov,71030,"Giants Stadium, New York/New Jersey",Round of 16,1994-07-05,(1) 1–1 (3),Jamal Al Sharif,United States,1994
+Netherlands,Republic of Ireland,2,0,Dick Advocaat,Ronald Koeman,Jack Charlton,Andy Townsend,61355,"Citrus Bowl, Orlando",Round of 16,1994-07-04,2–0,Peter Mikkelsen,United States,1994
+Brazil,United States,1,0,Carlos Alberto Parreira,Dunga,Bora Milutinovic,Tony Meola,84147,"Stanford Stadium, San Francisco",Round of 16,1994-07-04,1–0,Joel Quiniou,United States,1994
+Saudi Arabia,Sweden,1,3,Jorge Solari,Mohamed Al-Jawad,Tommy Svensson,Jonas Thern,60277,"Cotton Bowl, Dallas",Round of 16,1994-07-03,1–3,Renato Marsiglia,United States,1994
+Romania,Argentina,3,2,Anghel Iordanescu,Gheorghe Hagi,Alfio Basile,Oscar Ruggeri,90469,"Rose Bowl, Los Angeles",Round of 16,1994-07-03,3–2,Pierluigi Pairetto,United States,1994
+Germany,Belgium,3,2,Berti Vogts,Lothar Matthäus,Paul Van Himst,Georges Grün,60246,"Soldier Field, Chicago",Round of 16,1994-07-02,3–2,Kurt Roethlisberger,United States,1994
+Spain,Switzerland,3,0,Javier Clemente,Andoni Zubizarreta,Roy Hodgson,Alain Geiger,53121,"RFK Stadium, Washington Dc",Round of 16,1994-07-02,3–0,Mario Van Der Ende,United States,1994
+Greece,Nigeria,0,2,Alkis Panagoulias,Tasos Mitropoulos,Clemens Westerhof,Stephen Keshi,53001,"Foxboro Stadium, Boston",Group stage,1994-06-30,0–2,Leslie Mottram,United States,1994
+Argentina,Bulgaria,0,2,Alfio Basile,Oscar Ruggeri,Dimitar Penev,Borislav Mikhailov,63998,"Cotton Bowl, Dallas",Group stage,1994-06-30,0–2,Neji Jouini,United States,1994
+Morocco,Netherlands,1,2,Abdellah Blinda,Tahar El Khalej,Dick Advocaat,Ronald Koeman,60578,"Citrus Bowl, Orlando",Group stage,1994-06-29,1–2,Alberto Tejada Noriega,United States,1994
+Belgium,Saudi Arabia,0,1,Paul Van Himst,Enzo Scifo,Jorge Solari,Majed Abdullah,52959,"RFK Stadium, Washington Dc",Group stage,1994-06-29,0–1,Hellmut Krug,United States,1994
+Italy,Mexico,1,1,Arrigo Sacchi,Paolo Maldini,Miguel Mejia Baron,Ignacio Ambríz,52535,"RFK Stadium, Washington Dc",Group stage,1994-06-28,1–1,Francisco Oscar Lamolina,United States,1994
+Republic of Ireland,Norway,0,0,Jack Charlton,Andy Townsend,Egil Olsen,Rune Bratseth,72404,"Giants Stadium, New York/New Jersey",Group stage,1994-06-28,0–0,Jose Joaquin Torres Cadena,United States,1994
+Russia,Cameroon,6,1,Pavel Sadyrin,Viktor Onopko,Henri Michel,Stephen Tataw,74914,"Stanford Stadium, San Francisco",Group stage,1994-06-28,6–1,Jamal Al Sharif,United States,1994
+Brazil,Sweden,1,1,Carlos Alberto Parreira,Raí,Tommy Svensson,Jonas Thern,77217,"Pontiac Silverdome, Detroit",Group stage,1994-06-28,1–1,Sandor Puhl,United States,1994
+Germany,Korea Republic,3,2,Berti Vogts,Lothar Matthäus,Ho Kon Kim,Choi In-young,63998,"Cotton Bowl, Dallas",Group stage,1994-06-27,3–2,Joel Quiniou,United States,1994
+Bolivia,Spain,1,3,Xavier Azkargorta Uriarte,Carlos Fernando Borja,Javier Clemente,Andoni Zubizarreta,63089,"Soldier Field, Chicago",Group stage,1994-06-27,1–3,Rodrigo Badilla,United States,1994
+Bulgaria,Greece,4,0,Dimitar Penev,Borislav Mikhailov,Alkis Panagoulias,Stratos Apostolakis,63160,"Soldier Field, Chicago",Group stage,1994-06-26,4–0,Ali Bujsaim,United States,1994
+United States,Romania,0,1,Bora Milutinovic,Tony Meola,Anghel Iordanescu,Gheorghe Hagi,93869,"Rose Bowl, Los Angeles",Group stage,1994-06-26,0–1,Mario Van Der Ende,United States,1994
+Switzerland,Colombia,0,2,Roy Hodgson,Alain Geiger,Francisco Maturana,Carlos Valderrama,83401,"Stanford Stadium, San Francisco",Group stage,1994-06-26,0–2,Peter Mikkelsen,United States,1994
+Belgium,Netherlands,1,0,Paul Van Himst,Georges Grün,Dick Advocaat,Ronald Koeman,62387,"Citrus Bowl, Orlando",Group stage,1994-06-25,1–0,Renato Marsiglia,United States,1994
+Saudi Arabia,Morocco,2,1,Jorge Solari,Mohamed Al-Jawad,Abdellah Blinda,Khalil Azmi,76322,"Giants Stadium, New York/New Jersey",Group stage,1994-06-25,2–1,Philip Don,United States,1994
+Argentina,Nigeria,2,1,Alfio Basile,Diego Maradona,Clemens Westerhof,Peter Rufai,54453,"Foxboro Stadium, Boston",Group stage,1994-06-25,2–1,Bo Karlsson,United States,1994
+Mexico,Republic of Ireland,2,1,Miguel Mejia Baron,Ignacio Ambríz,Jack Charlton,Andy Townsend,60790,"Citrus Bowl, Orlando",Group stage,1994-06-24,2–1,Kurt Roethlisberger,United States,1994
+Brazil,Cameroon,3,0,Carlos Alberto Parreira,Raí,Henri Michel,Stephen Tataw,83401,"Stanford Stadium, San Francisco",Group stage,1994-06-24,3–0,Arturo Brizio Carter,United States,1994
+Sweden,Russia,3,1,Tommy Svensson,Jonas Thern,Pavel Sadyrin,Dmitri Kharine,71528,"Pontiac Silverdome, Detroit",Group stage,1994-06-24,3–1,Joel Quiniou,United States,1994
+Italy,Norway,1,0,Arrigo Sacchi,Franco Baresi,Egil Olsen,Rune Bratseth,74624,"Giants Stadium, New York/New Jersey",Group stage,1994-06-23,1–0,Hellmut Krug,United States,1994
+Korea Republic,Bolivia,0,0,Ho Kon Kim,Choi In-young,Xavier Azkargorta Uriarte,Carlos Fernando Borja,54453,"Foxboro Stadium, Boston",Group stage,1994-06-23,0–0,Leslie Mottram,United States,1994
+Romania,Switzerland,1,4,Anghel Iordanescu,Gheorghe Hagi,Roy Hodgson,Alain Geiger,61428,"Pontiac Silverdome, Detroit",Group stage,1994-06-22,1–4,Neji Jouini,United States,1994
+United States,Colombia,2,1,Bora Milutinovic,Tony Meola,Francisco Maturana,Carlos Valderrama,93869,"Rose Bowl, Los Angeles",Group stage,1994-06-22,2–1,Fabio Baldas,United States,1994
+Argentina,Greece,4,0,Alfio Basile,Diego Maradona,Alkis Panagoulias,Dimitris Saravakos,54456,"Foxboro Stadium, Boston",Group stage,1994-06-21,4–0,Arturo Angeles,United States,1994
+Germany,Spain,1,1,Berti Vogts,Lothar Matthäus,Javier Clemente,Andoni Zubizarreta,63113,"Soldier Field, Chicago",Group stage,1994-06-21,1–1,Ernesto Filippi,United States,1994
+Nigeria,Bulgaria,3,0,Clemens Westerhof,Peter Rufai,Dimitar Penev,Borislav Mikhailov,44132,"Cotton Bowl, Dallas",Group stage,1994-06-21,3–0,Rodrigo Badilla,United States,1994
+Brazil,Russia,2,0,Carlos Alberto Parreira,Raí,Pavel Sadyrin,Dmitri Kharine,81061,"Stanford Stadium, San Francisco",Group stage,1994-06-20,2–0,An Yan Lim Kee Chong,United States,1994
+Netherlands,Saudi Arabia,2,1,Dick Advocaat,Ronald Koeman,Jorge Solari,Majed Abdullah,50535,"RFK Stadium, Washington Dc",Group stage,1994-06-20,2–1,Manuel Diaz Vega,United States,1994
+Belgium,Morocco,1,0,Paul Van Himst,Georges Grün,Abdellah Blinda,Mustafa El Haddaoui,61219,"Citrus Bowl, Orlando",Group stage,1994-06-19,1–0,Jose Joaquin Torres Cadena,United States,1994
+Norway,Mexico,1,0,Egil Olsen,Rune Bratseth,Miguel Mejia Baron,Ignacio Ambríz,52395,"RFK Stadium, Washington Dc",Group stage,1994-06-19,1–0,Sandor Puhl,United States,1994
+Cameroon,Sweden,2,2,Henri Michel,Stephen Tataw,Tommy Svensson,Jonas Thern,93194,"Rose Bowl, Los Angeles",Group stage,1994-06-19,2–2,Alberto Tejada Noriega,United States,1994
+United States,Switzerland,1,1,Bora Milutinovic,Tony Meola,Roy Hodgson,Alain Geiger,73425,"Pontiac Silverdome, Detroit",Group stage,1994-06-18,1–1,Francisco Oscar Lamolina,United States,1994
+Italy,Republic of Ireland,0,1,Arrigo Sacchi,Franco Baresi,Jack Charlton,Andy Townsend,75338,"Giants Stadium, New York/New Jersey",Group stage,1994-06-18,0–1,Mario Van Der Ende,United States,1994
+Colombia,Romania,1,3,Francisco Maturana,Carlos Valderrama,Anghel Iordanescu,Gheorghe Hagi,91856,"Rose Bowl, Los Angeles",Group stage,1994-06-18,1–3,Jamal Al Sharif,United States,1994
+Germany,Bolivia,1,0,Berti Vogts,Lothar Matthäus,Xavier Azkargorta Uriarte,Carlos Fernando Borja,63117,"Soldier Field, Chicago",Group stage,1994-06-17,1–0,Arturo Brizio Carter,United States,1994
+Spain,Korea Republic,2,2,Javier Clemente,Miguel Ángel Nadal,Ho Kon Kim,Choi In-young,56247,"Cotton Bowl, Dallas",Group stage,1994-06-17,2–2,Peter Mikkelsen,United States,1994
+West Germany,Argentina,1,0,Franz Beckenbauer,Lothar Matthäus,Carlos Bilardo,Diego Maradona,73603,"Stadio Olimpico, Rome",Final,1990-07-08,1–0,Edgardo Codesal Mendez,Italy,1990
+Italy,England,2,1,Azeglio Vicini,Giuseppe Bergomi,Bobby Robson,Peter Shilton,51426,"Stadio San Nicola, Bari",Third-place match,1990-07-07,2–1,Joel Quiniou,Italy,1990
+West Germany,England,1,1,Franz Beckenbauer,Lothar Matthäus,Bobby Robson,Terry Butcher,62628,"Stadio delle Alpi, Turin",Semi-finals,1990-07-04,(4) 1–1 (3),Jose Ramiz Wright,Italy,1990
+Italy,Argentina,1,1,Azeglio Vicini,Giuseppe Bergomi,Carlos Bilardo,Diego Maradona,59978,"San Paolo, Naples",Semi-finals,1990-07-03,(3) 1–1 (4),Michel Vautrot,Italy,1990
+West Germany,Czechoslovakia,1,0,Franz Beckenbauer,Lothar Matthäus,Jozef Venglos,Ivan Hašek,73347,"Giuseppe Meazza, Milan",Quarter-finals,1990-07-01,1–0,Helmut Kohl,Italy,1990
+England,Cameroon,3,2,Bobby Robson,Terry Butcher,Valeri Nepomnyashchi,Stephen Tataw,55205,"San Paolo, Naples",Quarter-finals,1990-07-01,3–2,Edgardo Codesal Mendez,Italy,1990
+Yugoslavia,Argentina,0,0,Ivica Osim,Zlatko Vujović,Carlos Bilardo,Diego Maradona,38971,"Comunale, Florence",Quarter-finals,1990-06-30,(2) 0–0 (3),Kurt Roethlisberger,Italy,1990
+Italy,Republic of Ireland,1,0,Azeglio Vicini,Giuseppe Bergomi,Jack Charlton,Mick McCarthy,73303,"Stadio Olimpico, Rome",Quarter-finals,1990-06-30,1–0,Carlos Alberto Silva Valente,Italy,1990
+Spain,Yugoslavia,1,2,Luis Suarez,Emilio Butragueño,Ivica Osim,Zlatko Vujović,35500,"Marc Antonio Bentegodi, Verona",Round of 16,1990-06-26,1–2,Aron Schmidhuber,Italy,1990
+England,Belgium,1,0,Bobby Robson,Terry Butcher,Guy Thys,Jan Ceulemans,34520,"Renato Dall Ara, Bologna",Round of 16,1990-06-26,1–0,Peter Mikkelsen,Italy,1990
+Republic of Ireland,Romania,0,0,Jack Charlton,Paul McGrath,Emerich Jenei,Silviu Lung,31818,"Luigi Ferraris, Genoa",Round of 16,1990-06-25,(5) 0–0 (4),Jose Ramiz Wright,Italy,1990
+Italy,Uruguay,2,0,Azeglio Vicini,Giuseppe Bergomi,Oscar Tabarez,Enzo Francescoli,73303,"Stadio Olimpico, Rome",Round of 16,1990-06-25,2–0,George Courtney,Italy,1990
+Brazil,Argentina,0,1,Sebastiao Lazaroni,Ricardo Gomes,Carlos Bilardo,Diego Maradona,61381,"Stadio delle Alpi, Turin",Round of 16,1990-06-24,0–1,Joel Quiniou,Italy,1990
+West Germany,Netherlands,2,1,Franz Beckenbauer,Lothar Matthäus,Leo Beenhakker,Ruud Gullit,74559,"Giuseppe Meazza, Milan",Round of 16,1990-06-24,2–1,Juan Loustau,Italy,1990
+Cameroon,Colombia,2,1,Valeri Nepomnyashchi,Stephen Tataw,Francisco Maturana,Carlos Valderrama,50026,"San Paolo, Naples",Round of 16,1990-06-23,2–1,Tullio Lanese,Italy,1990
+Czechoslovakia,Costa Rica,4,1,Jozef Venglos,Ivan Hašek,Bora Milutinovic,Róger Flores,47673,"Stadio San Nicola, Bari",Round of 16,1990-06-23,4–1,Siegfried Kirschen,Italy,1990
+Belgium,Spain,1,2,Guy Thys,Jan Ceulemans,Luis Suarez,Emilio Butragueño,35950,"Marc Antonio Bentegodi, Verona",Group stage,1990-06-21,1–2,Juan Loustau,Italy,1990
+Korea Republic,Uruguay,0,1,Hoe Taik Lee,Choi Soon-ho,Oscar Tabarez,Enzo Francescoli,29039,"Friuli, Udine",Group stage,1990-06-21,0–1,Tullio Lanese,Italy,1990
+Republic of Ireland,Netherlands,1,1,Jack Charlton,Mick McCarthy,Leo Beenhakker,Ruud Gullit,33288,"Della Favorita, Palermo",Group stage,1990-06-21,1–1,Michel Vautrot,Italy,1990
+England,Egypt,1,0,Bobby Robson,Peter Shilton,Mahmoud El Gohary,Gamal Abdel-Hameed,34959,"Sant Elia, Cagliari",Group stage,1990-06-21,1–0,Kurt Roethlisberger,Italy,1990
+Sweden,Costa Rica,1,2,Olle Nordin,Glenn Hysén,Bora Milutinovic,Róger Flores,30223,"Luigi Ferraris, Genoa",Group stage,1990-06-20,1–2,Zoran Petrovic,Italy,1990
+Brazil,Scotland,1,0,Sebastiao Lazaroni,Ricardo Gomes,Andy Roxburgh,Roy Aitken,62502,"Stadio delle Alpi, Turin",Group stage,1990-06-20,1–0,Helmut Kohl,Italy,1990
+West Germany,Colombia,1,1,Franz Beckenbauer,Lothar Matthäus,Francisco Maturana,Carlos Valderrama,72510,"Giuseppe Meazza, Milan",Group stage,1990-06-19,1–1,Alan Snoddy,Italy,1990
+Yugoslavia,United Arab Emirates,4,1,Ivica Osim,Zlatko Vujović,Carlos Alberto Parreira,Abdulrahman Mohamed,27833,"Renato Dall Ara, Bologna",Group stage,1990-06-19,4–1,Shizuo Takada,Italy,1990
+Austria,United States,2,1,Josef Hickersberger,Toni Polster,Bob Gansler,Mike Windischmann,34857,"Comunale, Florence",Group stage,1990-06-19,2–1,Jamal Al Sharif,Italy,1990
+Italy,Czechoslovakia,2,0,Azeglio Vicini,Giuseppe Bergomi,Jozef Venglos,Ivan Hašek,73303,"Stadio Olimpico, Rome",Group stage,1990-06-19,2–0,Joel Quiniou,Italy,1990
+Argentina,Romania,1,1,Carlos Bilardo,Diego Maradona,Emerich Jenei,Silviu Lung,52733,"San Paolo, Naples",Group stage,1990-06-18,1–1,Carlos Alberto Silva Valente,Italy,1990
+Cameroon,Soviet Union,0,4,Valeri Nepomnyashchi,Stephen Tataw,Valeriy Lobanovskyi,Anatoliy Demyanenko,37307,"Stadio San Nicola, Bari",Group stage,1990-06-18,0–4,Jose Ramiz Wright,Italy,1990
+Republic of Ireland,Egypt,0,0,Jack Charlton,Mick McCarthy,Mahmoud El Gohary,Rabie Yassin,33288,"Della Favorita, Palermo",Group stage,1990-06-17,0–0,Marcel Van Langenhove,Italy,1990
+Belgium,Uruguay,3,1,Guy Thys,Jan Ceulemans,Oscar Tabarez,Enzo Francescoli,33759,"Marc Antonio Bentegodi, Verona",Group stage,1990-06-17,3–1,Siegfried Kirschen,Italy,1990
+Korea Republic,Spain,1,3,Hoe Taik Lee,Choi Soon-ho,Luis Suarez,Emilio Butragueño,32733,"Dacia Arena, Udine",Group stage,1990-06-17,1–3,Elias V. Jacome Guerrero,Italy,1990
+Brazil,Costa Rica,1,0,Sebastiao Lazaroni,Ricardo Gomes,Bora Milutinovic,Róger Flores,58007,"Stadio delle Alpi, Turin",Group stage,1990-06-16,1–0,Neji Jouini,Italy,1990
+England,Netherlands,0,0,Bobby Robson,Bryan Robson,Leo Beenhakker,Ruud Gullit,35267,"Sant Elia, Cagliari",Group stage,1990-06-16,0–0,Zoran Petrovic,Italy,1990
+Sweden,Scotland,1,2,Olle Nordin,Glenn Hysén,Andy Roxburgh,Roy Aitken,31823,"Luigi Ferraris, Genoa",Group stage,1990-06-16,1–2,Carlos Maciel,Italy,1990
+Austria,Czechoslovakia,0,1,Josef Hickersberger,Toni Polster,Jozef Venglos,Ivan Hašek,38962,"Comunale, Florence",Group stage,1990-06-15,0–1,George Smith,Italy,1990
+West Germany,United Arab Emirates,5,1,Franz Beckenbauer,Lothar Matthäus,Carlos Alberto Parreira,Abdulrahman Mohamed,71169,"Giuseppe Meazza, Milan",Group stage,1990-06-15,5–1,Alexey Spirin,Italy,1990
+Yugoslavia,Colombia,1,0,Ivica Osim,Zlatko Vujović,Francisco Maturana,Carlos Valderrama,32257,"Renato Dall Ara, Bologna",Group stage,1990-06-14,1–0,Luigi Agnolin,Italy,1990
+Cameroon,Romania,2,1,Valeri Nepomnyashchi,Stephen Tataw,Emerich Jenei,Silviu Lung,38687,"Stadio San Nicola, Bari",Group stage,1990-06-14,2–1,Hernan Silva Arce,Italy,1990
+Italy,United States,1,0,Azeglio Vicini,Giuseppe Bergomi,Bob Gansler,Mike Windischmann,73423,"Stadio Olimpico, Rome",Group stage,1990-06-14,1–0,Edgardo Codesal Mendez,Italy,1990
+Uruguay,Spain,0,0,Oscar Tabarez,Enzo Francescoli,Luis Suarez,Emilio Butragueño,35713,"Dacia Arena, Udine",Group stage,1990-06-13,0–0,Helmut Kohl,Italy,1990
+Argentina,Soviet Union,2,0,Carlos Bilardo,Diego Maradona,Valeriy Lobanovskyi,Oleh Kuznetsov,55759,"San Paolo, Naples",Group stage,1990-06-13,2–0,Erik Fredriksson,Italy,1990
+Belgium,Korea Republic,2,0,Guy Thys,Eric Gerets,Hoe Taik Lee,Chung Yong-hwan,32790,"Marc Antonio Bentegodi, Verona",Group stage,1990-06-12,2–0,Vincent Mauro,Italy,1990
+Netherlands,Egypt,1,1,Leo Beenhakker,Ruud Gullit,Mahmoud El Gohary,Gamal Abdel-Hameed,33288,"Della Favorita, Palermo",Group stage,1990-06-12,1–1,Emilio Soriano Aladren,Italy,1990
+Costa Rica,Scotland,1,0,Bora Milutinovic,Róger Flores,Andy Roxburgh,Roy Aitken,30867,"Luigi Ferraris, Genoa",Group stage,1990-06-11,1–0,Juan Loustau,Italy,1990
+England,Republic of Ireland,1,1,Bobby Robson,Bryan Robson,Jack Charlton,Mick McCarthy,35238,"Sant Elia, Cagliari",Group stage,1990-06-11,1–1,Aron Schmidhuber,Italy,1990
+United States,Czechoslovakia,1,5,Bob Gansler,Mike Windischmann,Jozef Venglos,Ivan Hašek,33266,"Comunale, Florence",Group stage,1990-06-10,1–5,Kurt Roethlisberger,Italy,1990
+West Germany,Yugoslavia,4,1,Franz Beckenbauer,Lothar Matthäus,Ivica Osim,Zlatko Vujović,74765,"Giuseppe Meazza, Milan",Group stage,1990-06-10,4–1,Peter Mikkelsen,Italy,1990
+Brazil,Sweden,2,1,Sebastiao Lazaroni,Ricardo Gomes,Olle Nordin,Jonas Thern,62628,"Stadio delle Alpi, Turin",Group stage,1990-06-10,2–1,Tullio Lanese,Italy,1990
+United Arab Emirates,Colombia,0,2,Carlos Alberto Parreira,Fahad Khamees,Francisco Maturana,Carlos Valderrama,30791,"Renato Dall Ara, Bologna",Group stage,1990-06-09,0–2,George Courtney,Italy,1990
+Soviet Union,Romania,0,2,Valeriy Lobanovskyi,Rinat Dasayev,Emerich Jenei,Silviu Lung,42907,"Stadio San Nicola, Bari",Group stage,1990-06-09,0–2,Juan Cardellino De San Vicente,Italy,1990
+Italy,Austria,1,0,Azeglio Vicini,Giuseppe Bergomi,Josef Hickersberger,Toni Polster,73303,"Stadio Olimpico, Rome",Group stage,1990-06-09,1–0,Jose Ramiz Wright,Italy,1990
+Argentina,Cameroon,0,1,Carlos Bilardo,Diego Maradona,Valeri Nepomnyashchi,Stephen Tataw,73780,"Giuseppe Meazza, Milan",Group stage,1990-06-08,0–1,Michel Vautrot,Italy,1990
+Argentina,West Germany,3,2,Carlos Bilardo,Diego Maradona,Franz Beckenbauer,Karl-Heinz Rummenigge,114600,"Estadio Azteca, Mexico City",Final,1986-06-29,3–2,Romualdo Arppi Filho,Mexico,1986
+France,Belgium,4,2,Henri Michel,Patrick Battiston,Guy Thys,Jan Ceulemans,21000,"Cuauhtemoc, Puebla",Third-place match,1986-06-28,4–2,George Courtney,Mexico,1986
+France,West Germany,0,2,Henri Michel,Michel Platini,Franz Beckenbauer,Karl-Heinz Rummenigge,45000,"Jalisco, Guadalajara",Semi-finals,1986-06-25,0–2,Luigi Agnolin,Mexico,1986
+Argentina,Belgium,2,0,Carlos Bilardo,Diego Maradona,Guy Thys,Jan Ceulemans,114500,"Estadio Azteca, Mexico City",Semi-finals,1986-06-25,2–0,Antonio Marquez Ramirez,Mexico,1986
+Argentina,England,2,1,Carlos Bilardo,Diego Maradona,Bobby Robson,Peter Shilton,114580,"Estadio Azteca, Mexico City",Quarter-finals,1986-06-22,2–1,Ali Bennaceur,Mexico,1986
+Spain,Belgium,1,1,Miguel Munoz,José Antonio Camacho,Guy Thys,Jan Ceulemans,45000,"Cuauhtemoc, Puebla",Quarter-finals,1986-06-22,(4) 1–1 (5),Siegfried Kirschen,Mexico,1986
+Brazil,France,1,1,Tele Santana,Edinho,Henri Michel,Michel Platini,65000,"Jalisco, Guadalajara",Quarter-finals,1986-06-21,(3) 1–1 (4),Ioan Igna,Mexico,1986
+West Germany,Mexico,0,0,Franz Beckenbauer,Karl-Heinz Rummenigge,Bora Milutinovic,Tomás Boy,41700,"Estadio Universitario, Monterrey",Quarter-finals,1986-06-21,(4) 0–0 (1),Jesus Diaz Palacio,Mexico,1986
+England,Paraguay,3,0,Bobby Robson,Peter Shilton,Cayetano Re,Rogelio Delgado,98728,"Estadio Azteca, Mexico City",Round of 16,1986-06-18,3–0,Jamal Al Sharif,Mexico,1986
+Denmark,Spain,1,5,Sepp Piontek,Morten Olsen,Miguel Munoz,José Antonio Camacho,38500,"Estadio Corregidora, Queretaro",Round of 16,1986-06-18,1–5,Jan Keizer,Mexico,1986
+Italy,France,0,2,Enzo Bearzot,Gaetano Scirea,Henri Michel,Michel Platini,70000,"Estadio Olï¿½mpico Universitario, Mexico City",Round of 16,1986-06-17,0–2,Carlos Esposito,Mexico,1986
+Morocco,West Germany,0,1,Jose Faria,Ezzaki Badou,Franz Beckenbauer,Karl-Heinz Rummenigge,19800,"Estadio Universitario, Monterrey",Round of 16,1986-06-17,0–1,Zoran Petrovic,Mexico,1986
+Brazil,Poland,4,0,Tele Santana,Edinho,Antoni Piechniczek,Zbigniew Boniek,45000,"Jalisco, Guadalajara",Round of 16,1986-06-16,4–0,Volker Roth,Mexico,1986
+Argentina,Uruguay,1,0,Carlos Bilardo,Diego Maradona,Omar Borras,Jorge Barrios,26000,"Cuauhtemoc, Puebla",Round of 16,1986-06-16,1–0,Luigi Agnolin,Mexico,1986
+Mexico,Bulgaria,2,0,Bora Milutinovic,Tomás Boy,Ivan Vutsov,Georgi Dimitrov,114580,"Estadio Azteca, Mexico City",Round of 16,1986-06-15,2–0,Romualdo Arppi Filho,Mexico,1986
+Soviet Union,Belgium,3,4,Valeriy Lobanovskyi,Anatoliy Demyanenko,Guy Thys,Jan Ceulemans,32277,"Nou Camp - Estadio Leï¿½n, Leon",Round of 16,1986-06-15,3–4,Erik Fredriksson,Mexico,1986
+Scotland,Uruguay,0,0,Alex Ferguson,Willie Miller,Omar Borras,Jorge Barrios,20000,"Neza, Nezahualcoyotl",Group stage,1986-06-13,0–0,Joel Quiniou,Mexico,1986
+Denmark,West Germany,2,0,Sepp Piontek,Morten Olsen,Franz Beckenbauer,Harald Schumacher,36000,"Estadio Corregidora, Queretaro",Group stage,1986-06-13,2–0,Alexis Ponnet,Mexico,1986
+Algeria,Spain,0,3,Rabah Saadane,Mahmoud Guendouz,Miguel Munoz,José Antonio Camacho,23980,"Tecnologico, Monterrey",Group stage,1986-06-12,0–3,Shizuo Takada,Mexico,1986
+Northern Ireland,Brazil,0,3,Billy Bingham,Sammy McIlroy,Tele Santana,Edinho,51000,"Jalisco, Guadalajara",Group stage,1986-06-12,0–3,Siegfried Kirschen,Mexico,1986
+Paraguay,Belgium,2,2,Cayetano Re,Rogelio Delgado,Guy Thys,Jan Ceulemans,16000,"Bombonera - Estadio Nemesio Diez, Toluca",Group stage,1986-06-11,2–2,Bogdan Dotchev,Mexico,1986
+Iraq,Mexico,0,1,Evaristo,Khalil Allawi,Bora Milutinovic,Tomás Boy,103763,"Estadio Azteca, Mexico City",Group stage,1986-06-11,0–1,Zoran Petrovic,Mexico,1986
+England,Poland,3,0,Bobby Robson,Peter Shilton,Antoni Piechniczek,Zbigniew Boniek,22700,"Tecnologico, Monterrey",Group stage,1986-06-11,3–0,Andre Daina,Mexico,1986
+Portugal,Morocco,1,3,Jose Torres,Fernando Gomes,Jose Faria,Ezzaki Badou,28000,"Tres de Marzo, Guadalajara",Group stage,1986-06-11,1–3,Alan Snoddy,Mexico,1986
+Argentina,Bulgaria,2,0,Carlos Bilardo,Diego Maradona,Ivan Vutsov,Georgi Dimitrov,65000,"Estadio Olï¿½mpico Universitario, Mexico City",Group stage,1986-06-10,2–0,Berny Ulloa Morera,Mexico,1986
+Korea Republic,Italy,2,3,Jung Nam Kim,Park Chang-sun,Enzo Bearzot,Gaetano Scirea,20000,"Cuauhtemoc, Puebla",Group stage,1986-06-10,2–3,David Socha,Mexico,1986
+Soviet Union,Canada,2,0,Valeriy Lobanovskyi,Oleh Blokhin,Tony Waiters,Bruce Wilson,14200,"Estadio Irapuato, Irapuato",Group stage,1986-06-09,2–0,Idrissa Traore,Mexico,1986
+Hungary,France,0,3,Gyorgy Mezey,Imre Garaba,Henri Michel,Michel Platini,31420,"Nou Camp - Estadio Leï¿½n, Leon",Group stage,1986-06-09,0–3,Carlos Alberto Silva Valente,Mexico,1986
+West Germany,Scotland,2,1,Franz Beckenbauer,Harald Schumacher,Alex Ferguson,Graeme Souness,30000,"Estadio Corregidora, Queretaro",Group stage,1986-06-08,2–1,Ioan Igna,Mexico,1986
+Iraq,Belgium,1,2,Evaristo,Raad Hammoudi,Guy Thys,Jan Ceulemans,20000,"Bombonera - Estadio Nemesio Diez, Toluca",Group stage,1986-06-08,1–2,Jesus Diaz Palacio,Mexico,1986
+Denmark,Uruguay,6,1,Sepp Piontek,Morten Olsen,Omar Borras,Eduardo Acevedo,26500,"Neza, Nezahualcoyotl",Group stage,1986-06-08,6–1,Antonio Marquez Ramirez,Mexico,1986
+Mexico,Paraguay,1,1,Bora Milutinovic,Tomás Boy,Cayetano Re,Rogelio Delgado,114600,"Estadio Azteca, Mexico City",Group stage,1986-06-07,1–1,George Courtney,Mexico,1986
+Northern Ireland,Spain,1,2,Billy Bingham,Sammy McIlroy,Miguel Munoz,José Antonio Camacho,28000,"Tres de Marzo, Guadalajara",Group stage,1986-06-07,1–2,Horst Brummeier,Mexico,1986
+Poland,Portugal,1,0,Antoni Piechniczek,Zbigniew Boniek,Jose Torres,Fernando Gomes,19915,"Estadio Universitario, Monterrey",Group stage,1986-06-07,1–0,Ali Bennaceur,Mexico,1986
+Brazil,Algeria,1,0,Tele Santana,Edinho,Rabah Saadane,Mahmoud Guendouz,48000,"Jalisco, Guadalajara",Group stage,1986-06-06,1–0,Romulo Mendez Molina,Mexico,1986
+Hungary,Canada,2,0,Gyorgy Mezey,Antal Nagy,Tony Waiters,Bruce Wilson,13800,"Estadio Irapuato, Irapuato",Group stage,1986-06-06,2–0,Jamal Al Sharif,Mexico,1986
+England,Morocco,0,0,Bobby Robson,Bryan Robson,Jose Faria,Ezzaki Badou,20200,"Tecnologico, Monterrey",Group stage,1986-06-06,0–0,Gabriel Gonzalez Roa,Mexico,1986
+Italy,Argentina,1,1,Enzo Bearzot,Gaetano Scirea,Carlos Bilardo,Diego Maradona,32000,"Cuauhtemoc, Puebla",Group stage,1986-06-05,1–1,Jan Keizer,Mexico,1986
+France,Soviet Union,1,1,Henri Michel,Michel Platini,Valeriy Lobanovskyi,Anatoliy Demyanenko,36540,"Nou Camp - Estadio Leï¿½n, Leon",Group stage,1986-06-05,1–1,Romualdo Arppi Filho,Mexico,1986
+Korea Republic,Bulgaria,1,1,Jung Nam Kim,Park Chang-sun,Ivan Vutsov,Georgi Dimitrov,45000,"Estadio Olï¿½mpico Universitario, Mexico City",Group stage,1986-06-05,1–1,Fallaj Khuzam Al Shanar,Mexico,1986
+Paraguay,Iraq,1,0,Cayetano Re,Rogelio Delgado,Evaristo,Raad Hammoudi,24000,"Bombonera - Estadio Nemesio Diez, Toluca",Group stage,1986-06-04,1–0,Edwin Picon-Ackong,Mexico,1986
+Uruguay,West Germany,1,1,Omar Borras,Jorge Barrios,Franz Beckenbauer,Harald Schumacher,30500,"Estadio Corregidora, Queretaro",Group stage,1986-06-04,1–1,Vojtech Christov,Mexico,1986
+Scotland,Denmark,0,1,Alex Ferguson,Graeme Souness,Sepp Piontek,Morten Olsen,18000,"Neza, Nezahualcoyotl",Group stage,1986-06-04,0–1,Lajos Nemeth,Mexico,1986
+Belgium,Mexico,1,2,Guy Thys,Jan Ceulemans,Bora Milutinovic,Tomás Boy,110000,"Estadio Azteca, Mexico City",Group stage,1986-06-03,1–2,Carlos Esposito,Mexico,1986
+Algeria,Northern Ireland,1,1,Rabah Saadane,Mahmoud Guendouz,Billy Bingham,Sammy McIlroy,22000,"Tres de Marzo, Guadalajara",Group stage,1986-06-03,1–1,Valeri Butenko,Mexico,1986
+Portugal,England,1,0,Jose Torres,Manuel Bento,Bobby Robson,Bryan Robson,23000,"Tecnologico, Monterrey",Group stage,1986-06-03,1–0,Volker Roth,Mexico,1986
+Soviet Union,Hungary,6,0,Valeriy Lobanovskyi,Anatoliy Demyanenko,Gyorgy Mezey,Antal Nagy,16500,"Estadio Irapuato, Irapuato",Group stage,1986-06-02,6–0,Luigi Agnolin,Mexico,1986
+Argentina,Korea Republic,3,1,Carlos Bilardo,Diego Maradona,Jung Nam Kim,Park Chang-sun,60000,"Estadio Olï¿½mpico Universitario, Mexico City",Group stage,1986-06-02,3–1,Victoriano Sanchez Arminio,Mexico,1986
+Morocco,Poland,0,0,Jose Faria,Ezzaki Badou,Antoni Piechniczek,Zbigniew Boniek,19900,"Estadio Universitario, Monterrey",Group stage,1986-06-02,0–0,Jose Luis Martinez Bazan,Mexico,1986
+Spain,Brazil,0,1,Miguel Munoz,José Antonio Camacho,Tele Santana,Edinho,35748,"Jalisco, Guadalajara",Group stage,1986-06-01,0–1,Christopher Bambridge,Mexico,1986
+Canada,France,0,1,Tony Waiters,Bruce Wilson,Henri Michel,Michel Platini,65500,"Nou Camp - Estadio Leï¿½n, Leon",Group stage,1986-06-01,0–1,Hernan Silva Arce,Mexico,1986
+Bulgaria,Italy,1,1,Ivan Vutsov,Georgi Dimitrov,Enzo Bearzot,Gaetano Scirea,96000,"Estadio Azteca, Mexico City",Group stage,1986-05-31,1–1,Erik Fredriksson,Mexico,1986
+Italy,West Germany,3,1,Enzo Bearzot,Dino Zoff,Jupp Derwall,Karl-Heinz Rummenigge,90000,"Santiago Bernabeu, Madrid",Final,1982-07-11,3–1,Arnaldo Coelho,Spain,1982
+Poland,France,3,2,Antoni Piechniczek,Władysław Żmuda,Michel Hidalgo,Marius Trésor,28000,"Jose Rico Perez, Alicante",Third-place match,1982-07-10,3–2,Antonio Garrido,Spain,1982
+Poland,Italy,0,2,Antoni Piechniczek,Władysław Żmuda,Enzo Bearzot,Dino Zoff,50000,"Camp Nou, Barcelona",Semi-finals,1982-07-08,0–2,Juan Cardellino De San Vicente,Spain,1982
+West Germany,France,3,3,Jupp Derwall,Manfred Kaltz,Michel Hidalgo,Michel Platini,70000,"Ramon Sanchez Pizjuan, Seville",Semi-finals,1982-07-08,(5) 3–3 (4),Charles Corver,Spain,1982
+Italy,Brazil,3,2,Enzo Bearzot,Dino Zoff,Tele Santana,Sócrates,44000,"Sarria, Barcelona",Second group stage,1982-07-05,3–2,Abraham Klein,Spain,1982
+Spain,England,0,0,Jose Santamaria,Luis Arconada,Ron Greenwood,Mick Mills,75000,"Santiago Bernabeu, Madrid",Second group stage,1982-07-05,0–0,Alexis Ponnet,Spain,1982
+France,Northern Ireland,4,1,Michel Hidalgo,Michel Platini,Billy Bingham,Martin O'Neill,37000,"Vicente Calderon, Madrid",Second group stage,1982-07-04,4–1,Alojzy Jarguz,Spain,1982
+Poland,Soviet Union,0,0,Antoni Piechniczek,Władysław Żmuda,Konstantin Beskov,Aleksandre Chivadze,65000,"Camp Nou, Barcelona",Second group stage,1982-07-04,0–0,Robert Valentine,Spain,1982
+Argentina,Brazil,1,3,Cesar Luis Menotti,Daniel Passarella,Tele Santana,Sócrates,44000,"Sarria, Barcelona",Second group stage,1982-07-02,1–3,Mario Rubio Vazquez,Spain,1982
+West Germany,Spain,2,1,Jupp Derwall,Karl-Heinz Rummenigge,Jose Santamaria,Luis Arconada,90089,"Santiago Bernabeu, Madrid",Second group stage,1982-07-02,2–1,Paolo Casarin,Spain,1982
+Austria,Northern Ireland,2,2,Georg Schmidt,Erich Obermayer,Billy Bingham,Martin O'Neill,20000,"Vicente Calderon, Madrid",Second group stage,1982-07-01,2–2,Adolf Prokop,Spain,1982
+Belgium,Soviet Union,0,1,Guy Thys,Walter Meeuws,Konstantin Beskov,Aleksandre Chivadze,45000,"Camp Nou, Barcelona",Second group stage,1982-07-01,0–1,Michel Vautrot,Spain,1982
+Italy,Argentina,2,1,Enzo Bearzot,Dino Zoff,Cesar Luis Menotti,Daniel Passarella,43000,"Sarria, Barcelona",Second group stage,1982-06-29,2–1,Nicolae Rainea,Spain,1982
+West Germany,England,0,0,Jupp Derwall,Karl-Heinz Rummenigge,Ron Greenwood,Mick Mills,75000,"Santiago Bernabeu, Madrid",Second group stage,1982-06-29,0–0,Arnaldo Coelho,Spain,1982
+Austria,France,0,1,Georg Schmidt,Erich Obermayer,Michel Hidalgo,Marius Trésor,37000,"Vicente Calderon, Madrid",Second group stage,1982-06-28,0–1,Karoly Palotai,Spain,1982
+Poland,Belgium,3,0,Antoni Piechniczek,Władysław Żmuda,Guy Thys,Walter Meeuws,65000,"Camp Nou, Barcelona",Second group stage,1982-06-28,3–0,Jesus Paulino Siles,Spain,1982
+England,Kuwait,1,0,Ron Greenwood,Mick Mills,Carlos Alberto Parreira,Saad Al-Houti,39700,"San Mames, Bilbao",First group stage,1982-06-25,1–0,Gilberto Aristizabal Murcia,Spain,1982
+West Germany,Austria,1,0,Jupp Derwall,Karl-Heinz Rummenigge,Georg Schmidt,Erich Obermayer,41000,"El Molinon, Gijon",First group stage,1982-06-25,1–0,Robert Valentine,Spain,1982
+Northern Ireland,Spain,1,0,Billy Bingham,Martin O'Neill,Jose Santamaria,Luis Arconada,49562,"Luis Casanova, Valencia",First group stage,1982-06-25,1–0,Hector Ortiz,Spain,1982
+France,Czechoslovakia,1,1,Michel Hidalgo,Michel Platini,Jozef Venglos,Zdeněk Nehoda,28000,"Jose Zorrilla, Valladolid",First group stage,1982-06-24,1–1,Paolo Casarin,Spain,1982
+Algeria,Chile,3,2,Rachid Mekhloufi,Ali Fergani,Luis Alberto Santibanez,Elías Figueroa,16000,"Carlos Tartiere, Oviedo",First group stage,1982-06-24,3–2,Romulo Mendez Molina,Spain,1982
+Honduras,Yugoslavia,0,1,Jose De La Paz,Ramón Maradiaga,Miljan Miljanic,Ivica Šurjak,25000,"La Romareda, Zaragoza",First group stage,1982-06-24,0–1,Gaston Castro,Spain,1982
+Italy,Cameroon,1,1,Enzo Bearzot,Dino Zoff,Jean Vincent,Thomas N'Kono,20000,"Estadio Municipal de Balaï¿½dos, Vigo",First group stage,1982-06-23,1–1,Bogdan Dotchev,Spain,1982
+Argentina,El Salvador,2,0,Cesar Luis Menotti,Daniel Passarella,Mauricio Rodriguez,Norberto Huezo,32500,"Jose Rico Perez, Alicante",First group stage,1982-06-23,2–0,Luis Barrancos,Spain,1982
+Brazil,New Zealand,4,0,Tele Santana,Sócrates,John Adshead,Steve Sumner,43000,"Benito Villamarin, Seville",First group stage,1982-06-23,4–0,Damir Matovinovic,Spain,1982
+Poland,Peru,5,1,Antoni Piechniczek,Władysław Żmuda,Tim,Rubén Toribio Díaz,25000,"Riazor, La Coruï¿½A",First group stage,1982-06-22,5–1,Mario Rubio Vazquez,Spain,1982
+Belgium,Hungary,1,1,Guy Thys,Eric Gerets,Kalman Meszoly,Tibor Nyilasi,37000,"Nuevo Estadio, Elche",First group stage,1982-06-22,1–1,Clive White,Spain,1982
+Soviet Union,Scotland,2,2,Konstantin Beskov,Aleksandre Chivadze,Jock Stein,Graeme Souness,45000,"La Rosaleda, Malaga",First group stage,1982-06-22,2–2,Nicolae Rainea,Spain,1982
+Algeria,Austria,0,2,Rachid Mekhloufi,Ali Fergani,Georg Schmidt,Erich Obermayer,22000,"Carlos Tartiere, Oviedo",First group stage,1982-06-21,0–2,Tony Boskovic,Spain,1982
+France,Kuwait,4,1,Michel Hidalgo,Michel Platini,Carlos Alberto Parreira,Saad Al-Houti,30043,"Jose Zorrilla, Valladolid",First group stage,1982-06-21,4–1,Miroslav Stupar,Spain,1982
+Honduras,Northern Ireland,1,1,Jose De La Paz,Ramón Maradiaga,Billy Bingham,Martin O'Neill,15000,"La Romareda, Zaragoza",First group stage,1982-06-21,1–1,Thomson Tam Sun Chan,Spain,1982
+West Germany,Chile,4,1,Jupp Derwall,Karl-Heinz Rummenigge,Luis Alberto Santibanez,Elías Figueroa,42000,"El Molinon, Gijon",First group stage,1982-06-20,4–1,Bruno Galler,Spain,1982
+England,Czechoslovakia,2,0,Ron Greenwood,Mick Mills,Jozef Venglos,Zdeněk Nehoda,41123,"San Mames, Bilbao",First group stage,1982-06-20,2–0,Charles Corver,Spain,1982
+Spain,Yugoslavia,2,1,Jose Santamaria,Luis Arconada,Miljan Miljanic,Ivica Šurjak,48000,"Luis Casanova, Valencia",First group stage,1982-06-20,2–1,Henning Lund-Sorensen,Spain,1982
+Poland,Cameroon,0,0,Antoni Piechniczek,Władysław Żmuda,Jean Vincent,Thomas N'Kono,19000,"Riazor, La Coruï¿½A",First group stage,1982-06-19,0–0,Alexis Ponnet,Spain,1982
+Soviet Union,New Zealand,3,0,Konstantin Beskov,Aleksandre Chivadze,John Adshead,Steve Sumner,19000,"La Rosaleda, Malaga",First group stage,1982-06-19,3–0,Yusef Mohamed El Ghoul,Spain,1982
+Belgium,El Salvador,1,0,Guy Thys,Eric Gerets,Mauricio Rodriguez,Norberto Huezo,15000,"Nuevo Estadio, Elche",First group stage,1982-06-19,1–0,Malcolm Moffatt,Spain,1982
+Italy,Peru,1,1,Enzo Bearzot,Dino Zoff,Tim,Rubén Toribio Díaz,25000,"Estadio Municipal de Balaï¿½dos, Vigo",First group stage,1982-06-18,1–1,Walter Eschweiler,Spain,1982
+Brazil,Scotland,4,1,Tele Santana,Sócrates,Jock Stein,Graeme Souness,47379,"Benito Villamarin, Seville",First group stage,1982-06-18,4–1,Jesus Paulino Siles,Spain,1982
+Argentina,Hungary,4,1,Cesar Luis Menotti,Daniel Passarella,Kalman Meszoly,Tibor Nyilasi,32093,"Jose Rico Perez, Alicante",First group stage,1982-06-18,4–1,Belaid Lacarne,Spain,1982
+Chile,Austria,0,1,Luis Alberto Santibanez,Elías Figueroa,Georg Schmidt,Erich Obermayer,22500,"Carlos Tartiere, Oviedo",First group stage,1982-06-17,0–1,Juan Cardellino De San Vicente,Spain,1982
+Czechoslovakia,Kuwait,1,1,Jozef Venglos,Zdeněk Nehoda,Carlos Alberto Parreira,Saad Al-Houti,25000,"Jose Zorrilla, Valladolid",First group stage,1982-06-17,1–1,Benjamin Dwomoh,Spain,1982
+Yugoslavia,Northern Ireland,0,0,Miljan Miljanic,Ivica Šurjak,Billy Bingham,Martin O'Neill,25000,"La Romareda, Zaragoza",First group stage,1982-06-17,0–0,Erik Fredriksson,Spain,1982
+England,France,3,1,Ron Greenwood,Mick Mills,Michel Hidalgo,Michel Platini,44172,"San Mames, Bilbao",First group stage,1982-06-16,3–1,Antonio Garrido,Spain,1982
+West Germany,Algeria,1,2,Jupp Derwall,Karl-Heinz Rummenigge,Rachid Mekhloufi,Ali Fergani,42000,"El Molinon, Gijon",First group stage,1982-06-16,1–2,Enrique Labo Revoredo,Spain,1982
+Spain,Honduras,1,1,Jose Santamaria,Luis Arconada,Jose De La Paz,Ramón Maradiaga,49562,"Luis Casanova, Valencia",First group stage,1982-06-16,1–1,Arturo Andres Ithurralde,Spain,1982
+Peru,Cameroon,0,0,Tim,Rubén Toribio Díaz,Jean Vincent,Thomas N'Kono,11000,"Riazor, La Coruï¿½A",First group stage,1982-06-15,0–0,Franz Woehrer,Spain,1982
+Hungary,El Salvador,10,1,Kalman Meszoly,Tibor Nyilasi,Mauricio Rodriguez,Norberto Huezo,23000,"Nuevo Estadio, Elche",First group stage,1982-06-15,10–1 ,Ebrahim Al Doy,Spain,1982
+Scotland,New Zealand,5,2,Jock Stein,Danny McGrain,John Adshead,Steve Sumner,36000,"La Rosaleda, Malaga",First group stage,1982-06-15,5–2,David Socha,Spain,1982
+Italy,Poland,0,0,Enzo Bearzot,Dino Zoff,Antoni Piechniczek,Władysław Żmuda,33000,"Estadio Municipal de Balaï¿½dos, Vigo",First group stage,1982-06-14,0–0,Michel Vautrot,Spain,1982
+Brazil,Soviet Union,2,1,Tele Santana,Sócrates,Konstantin Beskov,Aleksandre Chivadze,68000,"Ramon Sanchez Pizjuan, Seville",First group stage,1982-06-14,2–1,Augusto Lamo Castillo,Spain,1982
+Argentina,Belgium,0,1,Cesar Luis Menotti,Daniel Passarella,Guy Thys,Eric Gerets,95000,"Camp Nou, Barcelona",First group stage,1982-06-13,0–1,Vojtech Christov,Spain,1982
+Argentina,Netherlands,3,1,Cesar Luis Menotti,Daniel Passarella,Ernst Happel,Ruud Krol,71483,"El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires",Final,1978-06-25,3–1,Sergio Gonella,Argentina,1978
+Brazil,Italy,2,1,Claudio Coutinho,Émerson Leão,Enzo Bearzot,Dino Zoff,69659,"El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires",Third-place match,1978-06-24,2–1,Abraham Klein,Argentina,1978
+Netherlands,Italy,2,1,Ernst Happel,Ruud Krol,Enzo Bearzot,Dino Zoff,67433,"El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires",Second round,1978-06-21,2–1,Angel Martinez,Argentina,1978
+Austria,West Germany,3,2,Helmut Senekowitsch,Robert Sara,Helmut Schoen,Berti Vogts,38318,"Estadio Olï¿½mpico Chateau Carreras, Cordoba",Second round,1978-06-21,3–2,Abraham Klein,Argentina,1978
+Brazil,Poland,3,1,Claudio Coutinho,Émerson Leão,Jacek Gmoch,Kazimierz Deyna,39586,"San Martin, Mendoza",Second round,1978-06-21,3–1,Juan Silvagno Cavanna,Argentina,1978
+Argentina,Peru,6,0,Cesar Luis Menotti,Daniel Passarella,Marcos Calderon,Héctor Chumpitaz,37315,"Arroyito - Estadio Dr. Lisandro de la Torre, Rosario",Second round,1978-06-21,6–0,Robert Wurtz,Argentina,1978
+Poland,Peru,1,0,Jacek Gmoch,Kazimierz Deyna,Marcos Calderon,Héctor Chumpitaz,35288,"San Martin, Mendoza",Second round,1978-06-18,1–0,Pat Partridge,Argentina,1978
+West Germany,Netherlands,2,2,Helmut Schoen,Berti Vogts,Ernst Happel,Ruud Krol,40750,"Estadio Olï¿½mpico Chateau Carreras, Cordoba",Second round,1978-06-18,2–2,Ramon Barreto Ruiz,Argentina,1978
+Italy,Austria,1,0,Enzo Bearzot,Dino Zoff,Helmut Senekowitsch,Robert Sara,66695,"El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires",Second round,1978-06-18,1–0,Francis Rion,Argentina,1978
+Argentina,Brazil,0,0,Cesar Luis Menotti,Daniel Passarella,Claudio Coutinho,Émerson Leão,37326,"Arroyito - Estadio Dr. Lisandro de la Torre, Rosario",Second round,1978-06-18,0–0,Karoly Palotai,Argentina,1978
+Netherlands,Austria,5,1,Ernst Happel,Ruud Krol,Helmut Senekowitsch,Robert Sara,25050,"Estadio Olï¿½mpico Chateau Carreras, Cordoba",Second round,1978-06-14,5–1,John Gordon,Argentina,1978
+West Germany,Italy,0,0,Helmut Schoen,Berti Vogts,Enzo Bearzot,Dino Zoff,67547,"El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires",Second round,1978-06-14,0–0,Dusan Maksimovic,Argentina,1978
+Brazil,Peru,3,0,Claudio Coutinho,Émerson Leão,Marcos Calderon,Héctor Chumpitaz,31278,"San Martin, Mendoza",Second round,1978-06-14,3–0,Nicolae Rainea,Argentina,1978
+Argentina,Poland,2,0,Cesar Luis Menotti,Daniel Passarella,Jacek Gmoch,Kazimierz Deyna,37091,"Arroyito - Estadio Dr. Lisandro de la Torre, Rosario",Second round,1978-06-14,2–0,Ulf Eriksson,Argentina,1978
+Brazil,Austria,1,0,Claudio Coutinho,Émerson Leão,Helmut Senekowitsch,Robert Sara,35221,"Estadio Josï¿½ Marï¿½a Minella, Mar Del Plata",First round,1978-06-11,1–0,Robert Wurtz,Argentina,1978
+Spain,Sweden,1,0,Ladislao Kubala,Juan Manuel Asensi,Georg Ericson,Björn Nordqvist,42132,"Jose Amalfitani, Buenos Aires",First round,1978-06-11,1–0,Ferdinand Biwersi,Argentina,1978
+Peru,IR Iran,4,1,Marcos Calderon,Héctor Chumpitaz,Heshmat Mohadjerani,Ali Parvin,21262,"Estadio Olï¿½mpico Chateau Carreras, Cordoba",First round,1978-06-11,4–1,Alojzy Jarguz,Argentina,1978
+Scotland,Netherlands,3,2,Alistair Macleod,Bruce Rioch,Ernst Happel,Ruud Krol,35130,"San Martin, Mendoza",First round,1978-06-11,3–2,Erich Linemayr,Argentina,1978
+France,Hungary,3,1,Michel Hidalgo,Marius Trésor,Lajos Baroti,Zoltán Kereki,23127,"Estadio Josï¿½ Marï¿½a Minella, Mar Del Plata",First round,1978-06-10,3–1,Arnaldo Coelho,Argentina,1978
+Poland,Mexico,3,1,Jacek Gmoch,Kazimierz Deyna,Jose Roca,Arturo Vázquez Ayala,22651,"Arroyito - Estadio Dr. Lisandro de la Torre, Rosario",First round,1978-06-10,3–1,Jafar Namdar,Argentina,1978
+West Germany,Tunisia,0,0,Helmut Schoen,Berti Vogts,Abdelmajid Chetali,Témime Lahzami,30667,"Estadio Olï¿½mpico Chateau Carreras, Cordoba",First round,1978-06-10,0–0,Cesar Orozco Guerrero,Argentina,1978
+Italy,Argentina,1,0,Enzo Bearzot,Dino Zoff,Cesar Luis Menotti,Daniel Passarella,71712,"El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires",First round,1978-06-10,1–0,Abraham Klein,Argentina,1978
+Austria,Sweden,1,0,Helmut Senekowitsch,Robert Sara,Georg Ericson,Björn Nordqvist,41424,"Jose Amalfitani, Buenos Aires",First round,1978-06-07,1–0,Charles Corver,Argentina,1978
+Brazil,Spain,0,0,Claudio Coutinho,Émerson Leão,Ladislao Kubala,Juan Manuel Asensi,34771,"Estadio Josï¿½ Marï¿½a Minella, Mar Del Plata",First round,1978-06-07,0–0,Sergio Gonella,Argentina,1978
+Netherlands,Peru,0,0,Ernst Happel,Ruud Krol,Marcos Calderon,Héctor Chumpitaz,28125,"San Martin, Mendoza",First round,1978-06-07,0–0,Adolf Prokop,Argentina,1978
+Scotland,IR Iran,1,1,Alistair Macleod,Archie Gemmill,Heshmat Mohadjerani,Ali Parvin,7938,"Estadio Olï¿½mpico Chateau Carreras, Cordoba",First round,1978-06-07,1–1,Youssou Ndiaye,Argentina,1978
+Italy,Hungary,3,1,Enzo Bearzot,Dino Zoff,Lajos Baroti,Zoltán Kereki,26533,"Estadio Josï¿½ Marï¿½a Minella, Mar Del Plata",First round,1978-06-06,3–1,Ramon Barreto Ruiz,Argentina,1978
+West Germany,Mexico,6,0,Helmut Schoen,Berti Vogts,Jose Roca,Arturo Vázquez Ayala,35258,"Estadio Olï¿½mpico Chateau Carreras, Cordoba",First round,1978-06-06,6–0,Farouk Bouzo,Argentina,1978
+Poland,Tunisia,1,0,Jacek Gmoch,Kazimierz Deyna,Abdelmajid Chetali,Témime Lahzami,9624,"Arroyito - Estadio Dr. Lisandro de la Torre, Rosario",First round,1978-06-06,1–0,Angel Martinez,Argentina,1978
+Argentina,France,2,1,Cesar Luis Menotti,Daniel Passarella,Michel Hidalgo,Marius Trésor,71666,"El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires",First round,1978-06-06,2–1,Jean Dubach,Argentina,1978
+Sweden,Brazil,1,1,Georg Ericson,Björn Nordqvist,Claudio Coutinho,Rivellino,32569,"Estadio Josï¿½ Marï¿½a Minella, Mar Del Plata",First round,1978-06-03,1–1,Clive Thomas,Argentina,1978
+Austria,Spain,2,1,Helmut Senekowitsch,Robert Sara,Ladislao Kubala,Pirri,40841,"Jose Amalfitani, Buenos Aires",First round,1978-06-03,2–1,Karoly Palotai,Argentina,1978
+Peru,Scotland,3,1,Marcos Calderon,Héctor Chumpitaz,Alistair Macleod,Bruce Rioch,37927,"Estadio Olï¿½mpico Chateau Carreras, Cordoba",First round,1978-06-03,3–1,Ulf Eriksson,Argentina,1978
+Netherlands,IR Iran,3,0,Ernst Happel,Ruud Krol,Heshmat Mohadjerani,Ali Parvin,33431,"San Martin, Mendoza",First round,1978-06-03,3–0,Alfonso Gonzalez Archundia,Argentina,1978
+Italy,France,2,1,Enzo Bearzot,Dino Zoff,Michel Hidalgo,Marius Trésor,42373,"Estadio Josï¿½ Marï¿½a Minella, Mar Del Plata",First round,1978-06-02,2–1,Nicolae Rainea,Argentina,1978
+Tunisia,Mexico,3,1,Abdelmajid Chetali,Témime Lahzami,Jose Roca,Arturo Vázquez Ayala,17396,"Arroyito - Estadio Dr. Lisandro de la Torre, Rosario",First round,1978-06-02,3–1,John Gordon,Argentina,1978
+Argentina,Hungary,2,1,Cesar Luis Menotti,Daniel Passarella,Lajos Baroti,Zoltán Kereki,71615,"El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires",First round,1978-06-02,2–1,Antonio Garrido,Argentina,1978
+West Germany,Poland,0,0,Helmut Schoen,Berti Vogts,Jacek Gmoch,Kazimierz Deyna,67579,"El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires",First round,1978-06-01,0–0,Norberto Angel Coerezza,Argentina,1978
+Netherlands,West Germany,1,2,Rinus Michels,Johan Cruyff,Helmut Schoen,Franz Beckenbauer,78200,"Olympiastadion, Munich",Final,1974-07-07,1–2,John Taylor,Germany,1974
+Brazil,Poland,0,1,Mario Zagallo,Marinho Peres,Kazimierz Gorski,Kazimierz Deyna,77100,"Olympiastadion, Munich",Third-place match,1974-07-06,0–1,Aurelio Angonese,Germany,1974
+Poland,West Germany,0,1,Kazimierz Gorski,Kazimierz Deyna,Helmut Schoen,Franz Beckenbauer,62000,"Waldstadion, Frankfurt/Main",Second round,1974-07-03,0–1,Erich Linemayr,Germany,1974
+Netherlands,Brazil,2,0,Rinus Michels,Johan Cruyff,Mario Zagallo,Marinho Peres,53700,"Westfalenstadion, Dortmund",Second round,1974-07-03,2–0,Kurt Tschenscher,Germany,1974
+Argentina,Germany DR,1,1,Vladislao Cap,Enrique Wolff,Georg Buschner,Bernd Bransch,54254,"Parkstadion, Gelsenkirchen",Second round,1974-07-03,1–1,John Taylor,Germany,1974
+Sweden,Yugoslavia,2,1,Georg Ericson,Björn Nordqvist,Miljan Miljanic,Dragan Džajić,41300,"Rheinstadion, Dï¿½Sseldorf",Second round,1974-07-03,2–1,Luis Pestarino,Germany,1974
+Poland,Yugoslavia,2,1,Kazimierz Gorski,Kazimierz Deyna,Miljan Miljanic,Jovan Aćimović,58000,"Waldstadion, Frankfurt/Main",Second round,1974-06-30,2–1,Rudolf Gloeckner,Germany,1974
+Argentina,Brazil,1,2,Vladislao Cap,Miguel Ángel Brindisi,Mario Zagallo,Marinho Peres,39400,"Niedersachsenstadion, Hanover",Second round,1974-06-30,1–2,Vital Loraux,Germany,1974
+Germany DR,Netherlands,0,2,Georg Buschner,Bernd Bransch,Rinus Michels,Johan Cruyff,68348,"Parkstadion, Gelsenkirchen",Second round,1974-06-30,0–2,Ruedi Scheurer,Germany,1974
+West Germany,Sweden,4,2,Helmut Schoen,Franz Beckenbauer,Georg Ericson,Bo Larsson,67800,"Rheinstadion, Dï¿½Sseldorf",Second round,1974-06-30,4–2,Pavel Kazakov,Germany,1974
+Yugoslavia,West Germany,0,2,Miljan Miljanic,Dragan Džajić,Helmut Schoen,Franz Beckenbauer,67385,"Rheinstadion, Dï¿½Sseldorf",Second round,1974-06-26,0–2,Armando Marques,Germany,1974
+Brazil,Germany DR,1,0,Mario Zagallo,Marinho Peres,Georg Buschner,Bernd Bransch,59863,"Niedersachsenstadion, Hanover",Second round,1974-06-26,1–0,Clive Thomas,Germany,1974
+Sweden,Poland,0,1,Georg Ericson,Bo Larsson,Kazimierz Gorski,Kazimierz Deyna,44955,"Neckarstadion, Stuttgart",Second round,1974-06-26,0–1,Ramon Barreto Ruiz,Germany,1974
+Netherlands,Argentina,4,0,Rinus Michels,Johan Cruyff,Vladislao Cap,Roberto Perfumo,56548,"Parkstadion, Gelsenkirchen",Second round,1974-06-26,4–0,Bob Davidson,Germany,1974
+Bulgaria,Netherlands,1,4,Hristo Mladenov,Hristo Bonev,Rinus Michels,Johan Cruyff,53300,"Westfalenstadion, Dortmund",First round,1974-06-23,1–4,Tony Boskovic,Germany,1974
+Poland,Italy,2,1,Kazimierz Gorski,Kazimierz Deyna,Ferruccio Valcareggi,Giacinto Facchetti,70100,"Neckarstadion, Stuttgart",First round,1974-06-23,2–1,Hans Joachim Weyland,Germany,1974
+Sweden,Uruguay,3,0,Georg Ericson,Bo Larsson,Roberto Porta,Ladislao Mazurkiewicz,28300,"Rheinstadion, Dï¿½Sseldorf",First round,1974-06-23,3–0,Erich Linemayr,Germany,1974
+Argentina,Haiti,4,1,Vladislao Cap,Roberto Perfumo,Antoine Tassy,Wilner Nazaire,25900,"Olympiastadion, Munich",First round,1974-06-23,4–1,Pablo Sanchez Ibanez,Germany,1974
+Scotland,Yugoslavia,1,1,Willie Ormond,Billy Bremner,Miljan Miljanic,Dragan Džajić,56000,"Waldstadion, Frankfurt/Main",First round,1974-06-22,1–1,Alfonso Gonzalez Archundia,Germany,1974
+Australia,Chile,0,0,Rale Rasic,Peter Wilson,Luis Alamos,Francisco Valdés,17400,"Olympiastadion, Berlin West",First round,1974-06-22,0–0,Jafar Namdar,Germany,1974
+Zaire,Brazil,0,3,Blagoje Vidinic,Kidumu Mantantu,Mario Zagallo,Wilson da Silva Piazza,36200,"Parkstadion, Gelsenkirchen",First round,1974-06-22,0–3,Nicolae Rainea,Germany,1974
+Germany DR,West Germany,1,0,Georg Buschner,Bernd Bransch,Helmut Schoen,Franz Beckenbauer,60200,"Volksparkstadion, Hamburg",First round,1974-06-22,1–0,Ramon Barreto Ruiz,Germany,1974
+Haiti,Poland,0,7,Antoine Tassy,Wilner Nazaire,Kazimierz Gorski,Kazimierz Deyna,25300,"Olympiastadion, Munich",First round,1974-06-19,0–7,George Suppiah,Germany,1974
+Bulgaria,Uruguay,1,1,Hristo Mladenov,Hristo Bonev,Roberto Porta,Ladislao Mazurkiewicz,13400,"Niedersachsenstadion, Hanover",First round,1974-06-19,1–1,John Taylor,Germany,1974
+Netherlands,Sweden,0,0,Rinus Michels,Johan Cruyff,Georg Ericson,Bo Larsson,53700,"Westfalenstadion, Dortmund",First round,1974-06-19,0–0,Werner Winsemann,Germany,1974
+Argentina,Italy,1,1,Vladislao Cap,Roberto Perfumo,Ferruccio Valcareggi,Giacinto Facchetti,70100,"Neckarstadion, Stuttgart",First round,1974-06-19,1–1,Pavel Kazakov,Germany,1974
+Australia,West Germany,0,3,Rale Rasic,Peter Wilson,Helmut Schoen,Franz Beckenbauer,53300,"Volksparkstadion, Hamburg",First round,1974-06-18,0–3,Mahmoud Kamel,Germany,1974
+Yugoslavia,Zaire,9,0,Miljan Miljanic,Dragan Džajić,Blagoje Vidinic,Kidumu Mantantu,31700,"Parkstadion, Gelsenkirchen",First round,1974-06-18,9–0,Omar Delgado,Germany,1974
+Chile,Germany DR,1,1,Luis Alamos,Francisco Valdés,Georg Buschner,Bernd Bransch,28300,"Olympiastadion, Berlin West",First round,1974-06-18,1–1,Aurelio Angonese,Germany,1974
+Scotland,Brazil,0,0,Willie Ormond,Billy Bremner,Mario Zagallo,Wilson da Silva Piazza,62000,"Waldstadion, Frankfurt/Main",First round,1974-06-18,0–0,Arie Van Gemert,Germany,1974
+Uruguay,Netherlands,0,2,Roberto Porta,Juan Carlos Masnik,Rinus Michels,Johan Cruyff,55100,"Niedersachsenstadion, Hanover",First round,1974-06-15,0–2,Karoly Palotai,Germany,1974
+Sweden,Bulgaria,0,0,Georg Ericson,Bo Larsson,Hristo Mladenov,Hristo Bonev,23800,"Rheinstadion, Dï¿½Sseldorf",First round,1974-06-15,0–0,Edison A. Perez Nunez,Germany,1974
+Italy,Haiti,3,1,Ferruccio Valcareggi,Giacinto Facchetti,Antoine Tassy,Wilner Nazaire,53000,"Olympiastadion, Munich",First round,1974-06-15,3–1,Vicente Llobregat,Germany,1974
+Poland,Argentina,3,2,Kazimierz Gorski,Kazimierz Deyna,Vladislao Cap,Roberto Perfumo,32700,"Neckarstadion, Stuttgart",First round,1974-06-15,3–2,Clive Thomas,Germany,1974
+West Germany,Chile,1,0,Helmut Schoen,Franz Beckenbauer,Luis Alamos,Francisco Valdés,81100,"Olympiastadion, Berlin West",First round,1974-06-14,1–0,Dogan Babacan,Germany,1974
+Germany DR,Australia,2,0,Georg Buschner,Bernd Bransch,Rale Rasic,Peter Wilson,17000,"Volksparkstadion, Hamburg",First round,1974-06-14,2–0,Youssou Ndiaye,Germany,1974
+Zaire,Scotland,0,2,Blagoje Vidinic,Kidumu Mantantu,Willie Ormond,Billy Bremner,27000,"Westfalenstadion, Dortmund",First round,1974-06-14,0–2,Gerhard Schulenburg,Germany,1974
+Brazil,Yugoslavia,0,0,Mario Zagallo,Wilson da Silva Piazza,Miljan Miljanic,Dragan Džajić,62000,"Waldstadion, Frankfurt/Main",First round,1974-06-13,0–0,Ruedi Scheurer,Germany,1974
+Brazil,Italy,4,1,Mario Zagallo,Carlos Alberto Torres,Ferruccio Valcareggi,Giacinto Facchetti,107412,"Estadio Azteca, Mexico City",Final,1970-06-21,4–1,Rudolf Gloeckner,Mexico,1970
+West Germany,Uruguay,1,0,Helmut Schoen,Uwe Seeler,Juan Hohberg,Luis Ubiña,104403,"Estadio Azteca, Mexico City",Third-place match,1970-06-20,1–0,Antonio Sbardella,Mexico,1970
+Italy,West Germany,4,3,Ferruccio Valcareggi,Giacinto Facchetti,Helmut Schoen,Uwe Seeler,102444,"Estadio Azteca, Mexico City",Semi-finals,1970-06-17,4–3,Arturo Yamasaki Maldonado,Mexico,1970
+Brazil,Uruguay,3,1,Mario Zagallo,Carlos Alberto Torres,Juan Hohberg,Luis Ubiña,51261,"Jalisco, Guadalajara",Semi-finals,1970-06-17,3–1,Jose Maria Ortiz De Mendibil,Mexico,1970
+Brazil,Peru,4,2,Mario Zagallo,Carlos Alberto Torres,Didi,Héctor Chumpitaz,54233,"Jalisco, Guadalajara",Quarter-finals,1970-06-14,4–2,Vital Loraux,Mexico,1970
+Italy,Mexico,4,1,Ferruccio Valcareggi,Giacinto Facchetti,Raul Cardenas,Gustavo Peña,26851,"Luis Dosal, Toluca",Quarter-finals,1970-06-14,4–1,Ruedi Scheurer,Mexico,1970
+Uruguay,Soviet Union,1,0,Juan Hohberg,Luis Ubiña,Gavril Kachalin,Albert Shesternyov,26085,"Estadio Azteca, Mexico City",Quarter-finals,1970-06-14,1–0,Laurens Van Ravens,Mexico,1970
+West Germany,England,3,2,Helmut Schoen,Uwe Seeler,Alf Ramsey,Bobby Moore,23357,"Nou Camp - Estadio Leï¿½n, Leon",Quarter-finals,1970-06-14,3–2,Norberto Angel Coerezza,Mexico,1970
+Mexico,Belgium,1,0,Raul Cardenas,Gustavo Peña,Raymond Goethals,Paul Van Himst,108192,"Estadio Azteca, Mexico City",Group stage,1970-06-11,1–0,Norberto Angel Coerezza,Mexico,1970
+Italy,Israel,0,0,Ferruccio Valcareggi,Giacinto Facchetti,Emmanuel Sheffer,Mordechai Spiegler,9890,"Luis Dosal, Toluca",Group stage,1970-06-11,0–0,Ayrton Vieira De Moraes,Mexico,1970
+Bulgaria,Morocco,1,1,Stefan Bozhkov,Aleksandar Shalamanov,Blagoje Vidinic,Driss Bamous,12299,"Nou Camp - Estadio Leï¿½n, Leon",Group stage,1970-06-11,1–1,Antonio Saldanha Ribeiro,Mexico,1970
+England,Czechoslovakia,1,0,Alf Ramsey,Bobby Moore,Jozef Marko,Ivo Viktor,49292,"Jalisco, Guadalajara",Group stage,1970-06-11,1–0,Roger Machin,Mexico,1970
+West Germany,Peru,3,1,Helmut Schoen,Uwe Seeler,Didi,Héctor Chumpitaz,17875,"Nou Camp - Estadio Leï¿½n, Leon",Group stage,1970-06-10,3–1,Abel Aguilar Elizalde,Mexico,1970
+Brazil,Romania,3,2,Mario Zagallo,Carlos Alberto Torres,Angelo Niculescu,Mircea Lucescu,50804,"Jalisco, Guadalajara",Group stage,1970-06-10,3–2,Ferdinand Marschall,Mexico,1970
+Sweden,Uruguay,1,0,Orvar Bergmark,Björn Nordqvist,Juan Hohberg,Luis Ubiña,18163,"Cuauhtemoc, Puebla",Group stage,1970-06-10,1–0,Henry Landauer,Mexico,1970
+Soviet Union,El Salvador,2,0,Gavril Kachalin,Albert Shesternyov,Hernan Carrasco,Salvador Mariona,89979,"Estadio Azteca, Mexico City",Group stage,1970-06-10,2–0,Rafael Hormazabal Diaz,Mexico,1970
+Mexico,El Salvador,4,0,Raul Cardenas,Gustavo Peña,Hernan Carrasco,Salvador Mariona,103058,"Estadio Azteca, Mexico City",Group stage,1970-06-07,4–0,Aly Hussein Kandil,Mexico,1970
+Brazil,England,1,0,Mario Zagallo,Carlos Alberto Torres,Alf Ramsey,Bobby Moore,66843,"Jalisco, Guadalajara",Group stage,1970-06-07,1–0,Abraham Klein,Mexico,1970
+West Germany,Bulgaria,5,2,Helmut Schoen,Uwe Seeler,Stefan Bozhkov,Boris Gaganelov,12710,"Nou Camp - Estadio Leï¿½n, Leon",Group stage,1970-06-07,5–2,Jose Maria Ortiz De Mendibil,Mexico,1970
+Sweden,Israel,1,1,Orvar Bergmark,Tommy Svensson,Emmanuel Sheffer,Mordechai Spiegler,9624,"Luis Dosal, Toluca",Group stage,1970-06-07,1–1,Seyoum Tarekegn,Mexico,1970
+Romania,Czechoslovakia,2,1,Angelo Niculescu,Mircea Lucescu,Jozef Marko,Alexander Horváth,56818,"Jalisco, Guadalajara",Group stage,1970-06-06,2–1,Diego De Leo,Mexico,1970
+Uruguay,Italy,0,0,Juan Hohberg,Luis Ubiña,Ferruccio Valcareggi,Giacinto Facchetti,29968,"Cuauhtemoc, Puebla",Group stage,1970-06-06,0–0,Rudolf Gloeckner,Mexico,1970
+Soviet Union,Belgium,4,1,Gavril Kachalin,Albert Shesternyov,Raymond Goethals,Paul Van Himst,95261,"Estadio Azteca, Mexico City",Group stage,1970-06-06,4–1,Ruedi Scheurer,Mexico,1970
+Peru,Morocco,3,0,Didi,Héctor Chumpitaz,Blagoje Vidinic,Driss Bamous,13537,"Nou Camp - Estadio Leï¿½n, Leon",Group stage,1970-06-06,3–0,Tofik Bakhramov,Mexico,1970
+Belgium,El Salvador,3,0,Raymond Goethals,Paul Van Himst,Hernan Carrasco,Salvador Mariona,92205,"Estadio Azteca, Mexico City",Group stage,1970-06-03,3–0,Andrei Radulescu,Mexico,1970
+Brazil,Czechoslovakia,4,1,Mario Zagallo,Carlos Alberto Torres,Jozef Marko,Alexander Horváth,52897,"Jalisco, Guadalajara",Group stage,1970-06-03,4–1,Ramon Barreto Ruiz,Mexico,1970
+Italy,Sweden,1,0,Ferruccio Valcareggi,Giacinto Facchetti,Orvar Bergmark,Björn Nordqvist,13433,"Luis Dosal, Toluca",Group stage,1970-06-03,1–0,John Taylor,Mexico,1970
+West Germany,Morocco,2,1,Helmut Schoen,Uwe Seeler,Blagoje Vidinic,Driss Bamous,12942,"Nou Camp - Estadio Leï¿½n, Leon",Group stage,1970-06-03,2–1,Laurens Van Ravens,Mexico,1970
+England,Romania,1,0,Alf Ramsey,Bobby Moore,Angelo Niculescu,Mircea Lucescu,50560,"Jalisco, Guadalajara",Group stage,1970-06-02,1–0,Vital Loraux,Mexico,1970
+Peru,Bulgaria,3,2,Didi,Héctor Chumpitaz,Stefan Bozhkov,Ivan Dimitrov,13765,"Nou Camp - Estadio Leï¿½n, Leon",Group stage,1970-06-02,3–2,Antonio Sbardella,Mexico,1970
+Uruguay,Israel,2,0,Juan Hohberg,Pedro Rocha,Emmanuel Sheffer,Mordechai Spiegler,20654,"Cuauhtemoc, Puebla",Group stage,1970-06-02,2–0,Bob Davidson,Mexico,1970
+Mexico,Soviet Union,0,0,Raul Cardenas,Gustavo Peña,Gavril Kachalin,Albert Shesternyov,107160,"Estadio Azteca, Mexico City",Group stage,1970-05-31,0–0,Kurt Tschenscher,Mexico,1970
+England,West Germany,4,2,Alf Ramsey,Bobby Moore,Helmut Schoen,Uwe Seeler,96924,"Wembley Stadium, London",Final,1966-07-30,4–2,Gottfried Dienst,England,1966
+Portugal,Soviet Union,2,1,Otto Gloria,Mário Coluna,Nikolai Morozov,Lev Yashin,87696,"Wembley Stadium, London",Third-place match,1966-07-28,2–1,Kenneth Dagnall,England,1966
+England,Portugal,2,1,Alf Ramsey,Bobby Moore,Otto Gloria,Mário Coluna,94493,"Wembley Stadium, London",Semi-finals,1966-07-26,2–1,Pierre Schwinte,England,1966
+West Germany,Soviet Union,2,1,Helmut Schoen,Uwe Seeler,Nikolai Morozov,Albert Shesternyov,38273,"Goodison Park, Liverpool",Semi-finals,1966-07-25,2–1,Concetto Lo Bello,England,1966
+Portugal,Korea DPR,5,3,Otto Gloria,Mário Coluna,Rye Hyun Myung,Pak Seung-zin,40248,"Goodison Park, Liverpool",Quarter-finals,1966-07-23,5–3,Menachem Ashkenazi,England,1966
+England,Argentina,1,0,Alf Ramsey,Bobby Moore,Juan Carlos Lorenzo,Antonio Rattín,90584,"Wembley Stadium, London",Quarter-finals,1966-07-23,1–0,Rudolf Kreitlein,England,1966
+Soviet Union,Hungary,2,1,Nikolai Morozov,Albert Shesternyov,Lajos Baroti,Ferenc Sipos,26844,"Roker Park Ground, Sunderland",Quarter-finals,1966-07-23,2–1,Juan Gardeazabal,England,1966
+West Germany,Uruguay,4,0,Helmut Schoen,Uwe Seeler,Ondino Viera,Horacio Troche,40007,"Hillsborough, Sheffield",Quarter-finals,1966-07-23,4–0,Jim Finney,England,1966
+England,France,2,0,Alf Ramsey,Bobby Moore,Henri Guerin,Marcel Artelesa,98270,"Wembley Stadium, London",Group stage,1966-07-20,2–0,Arturo Yamasaki Maldonado,England,1966
+Hungary,Bulgaria,3,1,Lajos Baroti,Ferenc Sipos,Rudolf Vytlacil,Boris Gaganelov,24129,"Old Trafford Stadium, Manchester",Group stage,1966-07-20,3–1,Roberto Goicoechea,England,1966
+West Germany,Spain,2,1,Helmut Schoen,Uwe Seeler,Jose Villalonga,Ignacio Zoco,42187,"Villa Park, Birmingham",Group stage,1966-07-20,2–1,Armando Marques,England,1966
+Soviet Union,Chile,2,1,Nikolai Morozov,Albert Shesternyov,Luis Alamos,Leonel Sánchez,16027,"Roker Park Ground, Sunderland",Group stage,1966-07-20,2–1,John Adair,England,1966
+Uruguay,Mexico,0,0,Ondino Viera,Horacio Troche,Ignacio Trellez,Gustavo Peña,61112,"Wembley Stadium, London",Group stage,1966-07-19,0–0,Bertil Loeoew,England,1966
+Argentina,Switzerland,2,0,Juan Carlos Lorenzo,Antonio Rattín,Alfredo Foni,René Brodmann,32127,"Hillsborough, Sheffield",Group stage,1966-07-19,2–0,Joaquim Fernandes Campos,England,1966
+Portugal,Brazil,3,1,Otto Gloria,Mário Coluna,Vicente Feola,Orlando Peçanha,58479,"Goodison Park, Liverpool",Group stage,1966-07-19,3–1,George Mccabe,England,1966
+Korea DPR,Italy,1,0,Rye Hyun Myung,Pak Seung-zin,Edmondo Fabbri,Giacomo Bulgarelli,17829,"Ayresome Park, Middlesbrough",Group stage,1966-07-19,1–0,Pierre Schwinte,England,1966
+West Germany,Argentina,0,0,Helmut Schoen,Uwe Seeler,Juan Carlos Lorenzo,Antonio Rattín,46587,"Villa Park, Birmingham",Group stage,1966-07-16,0–0,Konstantin Zecevic,England,1966
+Soviet Union,Italy,1,0,Nikolai Morozov,Albert Shesternyov,Edmondo Fabbri,Sandro Salvadore,27793,"Roker Park Ground, Sunderland",Group stage,1966-07-16,1–0,Rudolf Kreitlein,England,1966
+Portugal,Bulgaria,3,0,Otto Gloria,Mário Coluna,Rudolf Vytlacil,Boris Gaganelov,25438,"Old Trafford Stadium, Manchester",Group stage,1966-07-16,3–0,Jose Maria Codesal,England,1966
+England,Mexico,2,0,Alf Ramsey,Bobby Moore,Ignacio Trellez,Gustavo Peña,92570,"Wembley Stadium, London",Group stage,1966-07-16,2–0,Concetto Lo Bello,England,1966
+Spain,Switzerland,2,1,Jose Villalonga,Francisco Gento,Alfredo Foni,René Brodmann,32028,"Hillsborough, Sheffield",Group stage,1966-07-15,2–1,Tofik Bakhramov,England,1966
+Uruguay,France,2,1,Ondino Viera,Horacio Troche,Henri Guerin,Marcel Artelesa,45662,"White City, London",Group stage,1966-07-15,2–1,Karol Galba,England,1966
+Hungary,Brazil,3,1,Lajos Baroti,Ferenc Sipos,Vicente Feola,Hilderaldo Bellini,51387,"Goodison Park, Liverpool",Group stage,1966-07-15,3–1,Kenneth Dagnall,England,1966
+Korea DPR,Chile,1,1,Rye Hyun Myung,Pak Seung-zin,Luis Alamos,Leonel Sánchez,13792,"Ayresome Park, Middlesbrough",Group stage,1966-07-15,1–1,Aly Hussein Kandil,England,1966
+Argentina,Spain,2,1,Juan Carlos Lorenzo,Antonio Rattín,Jose Villalonga,Francisco Gento,42738,"Villa Park, Birmingham",Group stage,1966-07-13,2–1,Dimitar Rumentchev,England,1966
+France,Mexico,1,1,Henri Guerin,Marcel Artelesa,Ignacio Trellez,Gustavo Peña,69237,"Wembley Stadium, London",Group stage,1966-07-13,1–1,Menachem Ashkenazi,England,1966
+Italy,Chile,2,0,Edmondo Fabbri,Sandro Salvadore,Luis Alamos,Leonel Sánchez,27199,"Roker Park Ground, Sunderland",Group stage,1966-07-13,2–0,Gottfried Dienst,England,1966
+Portugal,Hungary,3,1,Otto Gloria,Mário Coluna,Lajos Baroti,Ferenc Sipos,29886,"Old Trafford Stadium, Manchester",Group stage,1966-07-13,3–1,Leo Callaghan,England,1966
+Brazil,Bulgaria,2,0,Vicente Feola,Hilderaldo Bellini,Rudolf Vytlacil,Boris Gaganelov,47308,"Goodison Park, Liverpool",Group stage,1966-07-12,2–0,Kurt Tschenscher,England,1966
+Soviet Union,Korea DPR,3,0,Nikolai Morozov,Albert Shesternyov,Rye Hyun Myung,Pak Seung-zin,23006,"Ayresome Park, Middlesbrough",Group stage,1966-07-12,3–0,Juan Gardeazabal,England,1966
+West Germany,Switzerland,5,0,Helmut Schoen,Uwe Seeler,Alfredo Foni,Heinz Schneiter,36127,"Hillsborough, Sheffield",Group stage,1966-07-12,5–0,Hugh Phillips,England,1966
+England,Uruguay,0,0,Alf Ramsey,Bobby Moore,Ondino Viera,Horacio Troche,87148,"Wembley Stadium, London",Group stage,1966-07-11,0–0,Istvan Zsolt,England,1966
+Brazil,Czechoslovakia,3,1,Aymore Moreira,Mauro Ramos,Rudolf Vytlacil,Ladislav Novák,68679,"Nacional, Santiago De Chile",Final,1962-06-17,3–1,Nikolaj Latychev,Chile,1962
+Chile,Yugoslavia,1,0,Fernando Riera,Jorge Toro,Ljubomir Lovric,Milan Galić,66697,"Nacional, Santiago De Chile",Third-place match,1962-06-16,1–0,Juan Gardeazabal,Chile,1962
+Brazil,Chile,4,2,Aymore Moreira,Mauro Ramos,Fernando Riera,Jorge Toro,76594,"Nacional, Santiago De Chile",Semi-finals,1962-06-13,4–2,Arturo Yamasaki Maldonado,Chile,1962
+Czechoslovakia,Yugoslavia,3,1,Rudolf Vytlacil,Ladislav Novák,Ljubomir Lovric,Milan Galić,5890,"Estadio Sausalito, Vina Del Mar",Semi-finals,1962-06-13,3–1,Gottfried Dienst,Chile,1962
+Chile,Soviet Union,2,1,Fernando Riera,Sergio Navarro,Gavril Kachalin,Igor Netto,17268,"Carlos Dittborn, Arica",Quarter-finals,1962-06-10,2–1,Leo Horn,Chile,1962
+Brazil,England,3,1,Aymore Moreira,Mauro Ramos,Walter Winterbottom,Johnny Haynes,17736,"Estadio Sausalito, Vina Del Mar",Quarter-finals,1962-06-10,3–1,Pierre Schwinte,Chile,1962
+Czechoslovakia,Hungary,1,0,Rudolf Vytlacil,Ladislav Novák,Lajos Baroti,Gyula Grosics,11690,"Estadio El Teniente-Codelco, Rancagua",Quarter-finals,1962-06-10,1–0,Nikolaj Latychev,Chile,1962
+Yugoslavia,West Germany,1,0,Ljubomir Lovric,Milan Galić,Sepp Herberger,Hans Schäfer,63324,"Nacional, Santiago De Chile",Quarter-finals,1962-06-10,1–0,Arturo Yamasaki Maldonado,Chile,1962
+England,Bulgaria,0,0,Walter Winterbottom,Johnny Haynes,Georgi Pachedzhiev,Nikola Kovachev,5700,"Estadio El Teniente-Codelco, Rancagua",Group stage,1962-06-07,0–0,Arthur Blavier,Chile,1962
+Mexico,Czechoslovakia,3,1,Ignacio Trellez,Antonio Carbajal,Rudolf Vytlacil,Ladislav Novák,10648,"Estadio Sausalito, Vina Del Mar",Group stage,1962-06-07,3–1,Gottfried Dienst,Chile,1962
+Italy,Switzerland,3,0,Paolo Mazza,Lorenzo Buffon,Karl Rappan,Charles Antenen,59828,"Nacional, Santiago De Chile",Group stage,1962-06-07,3–0,Nikolaj Latychev,Chile,1962
+Yugoslavia,Colombia,5,0,Ljubomir Lovric,Milan Galić,Adolfo Pedernera,Efraín Sánchez,7167,"Carlos Dittborn, Arica",Group stage,1962-06-07,5–0,Carlos Robles,Chile,1962
+West Germany,Chile,2,0,Sepp Herberger,Hans Schäfer,Fernando Riera,Sergio Navarro,67224,"Nacional, Santiago De Chile",Group stage,1962-06-06,2–0,Bob Davidson,Chile,1962
+Soviet Union,Uruguay,2,1,Gavril Kachalin,Igor Netto,Juan Carlos Corazzo,Horacio Troche,9973,"Carlos Dittborn, Arica",Group stage,1962-06-06,2–1,Cesare Jonni,Chile,1962
+Hungary,Argentina,0,0,Lajos Baroti,Gyula Grosics,Juan Carlos Lorenzo,Martín Pando,7945,"Estadio El Teniente-Codelco, Rancagua",Group stage,1962-06-06,0–0,Arturo Yamasaki Maldonado,Chile,1962
+Brazil,Spain,2,1,Aymore Moreira,Mauro Ramos,Helenio Herrera,Enrique Collar,18715,"Estadio Sausalito, Vina Del Mar",Group stage,1962-06-06,2–1,Sergio Bustamante,Chile,1962
+Spain,Mexico,1,0,Helenio Herrera,Francisco Gento,Ignacio Trellez,Antonio Carbajal,11875,"Estadio Sausalito, Vina Del Mar",Group stage,1962-06-03,1–0,Branko Tesanic,Chile,1962
+Soviet Union,Colombia,4,4,Gavril Kachalin,Igor Netto,Adolfo Pedernera,Efraín Sánchez,8040,"Carlos Dittborn, Arica",Group stage,1962-06-03,4–4,Joao Etzel Filho,Chile,1962
+Hungary,Bulgaria,6,1,Lajos Baroti,László Sárosi,Georgi Pachedzhiev,Kiril Rakarov,7442,"Estadio El Teniente-Codelco, Rancagua",Group stage,1962-06-03,6–1,Juan Gardeazabal,Chile,1962
+West Germany,Switzerland,2,1,Sepp Herberger,Hans Schäfer,Karl Rappan,Charles Antenen,64922,"Nacional, Santiago De Chile",Group stage,1962-06-03,2–1,Leo Horn,Chile,1962
+Chile,Italy,2,0,Fernando Riera,Sergio Navarro,Paolo Mazza,Bruno Mora,66057,"Nacional, Santiago De Chile",Group stage,1962-06-02,2–0,Ken Aston,Chile,1962
+Brazil,Czechoslovakia,0,0,Aymore Moreira,Mauro Ramos,Rudolf Vytlacil,Ladislav Novák,14903,"Estadio Sausalito, Vina Del Mar",Group stage,1962-06-02,0–0,Pierre Schwinte,Chile,1962
+England,Argentina,3,1,Walter Winterbottom,Johnny Haynes,Juan Carlos Lorenzo,Rubén Marino Navarro,9794,"Estadio El Teniente-Codelco, Rancagua",Group stage,1962-06-02,3–1,Nikolaj Latychev,Chile,1962
+Yugoslavia,Uruguay,3,1,Ljubomir Lovric,Milan Galić,Juan Carlos Corazzo,Horacio Troche,8829,"Carlos Dittborn, Arica",Group stage,1962-06-02,3–1,Karol Galba,Chile,1962
+West Germany,Italy,0,0,Sepp Herberger,Hans Schäfer,Paolo Mazza,Lorenzo Buffon,65440,"Nacional, Santiago De Chile",Group stage,1962-05-31,0–0,Bob Davidson,Chile,1962
+Hungary,England,2,1,Lajos Baroti,Gyula Grosics,Walter Winterbottom,Johnny Haynes,7938,"Estadio El Teniente-Codelco, Rancagua",Group stage,1962-05-31,2–1,Leo Horn,Chile,1962
+Czechoslovakia,Spain,1,0,Rudolf Vytlacil,Ladislav Novák,Helenio Herrera,Joan Segarra,12700,"Estadio Sausalito, Vina Del Mar",Group stage,1962-05-31,1–0,Carl Steiner,Chile,1962
+Soviet Union,Yugoslavia,2,0,Gavril Kachalin,Igor Netto,Ljubomir Lovric,Milan Galić,9622,"Carlos Dittborn, Arica",Group stage,1962-05-31,2–0,Albert Dusch,Chile,1962
+Chile,Switzerland,3,1,Fernando Riera,Sergio Navarro,Karl Rappan,Charles Antenen,65006,"Nacional, Santiago De Chile",Group stage,1962-05-30,3–1,Ken Aston,Chile,1962
+Uruguay,Colombia,2,1,Juan Carlos Corazzo,Horacio Troche,Adolfo Pedernera,Francisco Zuluaga,7908,"Carlos Dittborn, Arica",Group stage,1962-05-30,2–1,Andor Dorogi,Chile,1962
+Brazil,Mexico,2,0,Aymore Moreira,Mauro Ramos,Ignacio Trellez,Antonio Carbajal,10484,"Estadio Sausalito, Vina Del Mar",Group stage,1962-05-30,2–0,Gottfried Dienst,Chile,1962
+Argentina,Bulgaria,1,0,Juan Carlos Lorenzo,Rubén Marino Navarro,Georgi Pachedzhiev,Kiril Rakarov,7134,"Estadio El Teniente-Codelco, Rancagua",Group stage,1962-05-30,1–0,Juan Gardeazabal,Chile,1962
+Brazil,Sweden,5,2,Vicente Feola,Hilderaldo Bellini,George Raynor,Nils Liedholm,49737,"Rasunda Stadium, Solna",Final,1958-06-29,5–2,Maurice Guigue,Sweden,1958
+France,West Germany,6,3,Albert Batteaux,Armand Penverne,Sepp Herberger,Hans Schäfer,32483,"Nya Ullevi, Gothenburg",Third-place match,1958-06-28,6–3,Juan Brozzi,Sweden,1958
+Sweden,West Germany,3,1,George Raynor,Nils Liedholm,Sepp Herberger,Hans Schäfer,49471,"Nya Ullevi, Gothenburg",Semi-finals,1958-06-24,3–1,Istvan Zsolt,Sweden,1958
+Brazil,France,5,2,Vicente Feola,Hilderaldo Bellini,Albert Batteaux,Robert Jonquet,27100,"Rasunda Stadium, Solna",Semi-finals,1958-06-24,5–2,Benjamin Griffiths,Sweden,1958
+France,Northern Ireland,4,0,Albert Batteaux,Robert Jonquet,Peter Doherty,Danny Blanchflower,11800,"Idrottsparken, Norrkï¿½Ping",Quarter-finals,1958-06-19,4–0,Juan Gardeazabal,Sweden,1958
+West Germany,Yugoslavia,1,0,Sepp Herberger,Hans Schäfer,Aleksandar Tirnanic,Branko Zebec,20055,"Malmo Stadion, Malmï¿½",Quarter-finals,1958-06-19,1–0,Paul Wyssling,Sweden,1958
+Brazil,Wales,1,0,Vicente Feola,Hilderaldo Bellini,James Murphy,Dave Bowen,25923,"Nya Ullevi, Gothenburg",Quarter-finals,1958-06-19,1–0,Fritz Seipelt,Sweden,1958
+Sweden,Soviet Union,2,0,George Raynor,Nils Liedholm,Gavril Kachalin,Nikita Simonyan,31900,"Rasunda Stadium, Solna",Quarter-finals,1958-06-19,2–0,Reginald Leafe,Sweden,1958
+Northern Ireland,Czechoslovakia,2,1,Peter Doherty,Danny Blanchflower,Karel Kolsky,Ladislav Novák,6196,"Malmo Stadion, Malmï¿½",Group stage play-off,1958-06-17,2–1,Maurice Guigue,Sweden,1958
+Wales,Hungary,2,1,James Murphy,Dave Bowen,Lajos Baroti,József Bozsik,2823,"Rasunda Stadium, Solna",Group stage play-off,1958-06-17,2–1,Nikolaj Latychev,Sweden,1958
+Soviet Union,England,1,0,Gavril Kachalin,Nikita Simonyan,Walter Winterbottom,Billy Wright,23182,"Nya Ullevi, Gothenburg",Group stage play-off,1958-06-17,1–0,Albert Dusch,Sweden,1958
+Sweden,Wales,0,0,George Raynor,Bengt Gustavsson,James Murphy,Dave Bowen,30287,"Rasunda Stadium, Solna",Group stage,1958-06-15,0–0,Lucien Van Nuffel,Sweden,1958
+Paraguay,Yugoslavia,3,3,Aurelio Gonzalez,Juan Bautista Agüero,Aleksandar Tirnanic,Branko Zebec,13103,"Tunavallen, Eskilstuna",Group stage,1958-06-15,3–3,Martin Macko,Sweden,1958
+West Germany,Northern Ireland,2,2,Sepp Herberger,Hans Schäfer,Peter Doherty,Danny Blanchflower,21990,"Malmo Stadion, Malmï¿½",Group stage,1958-06-15,2–2,Joaquim Fernandes Campos,Sweden,1958
+Czechoslovakia,Argentina,6,1,Karel Kolsky,Ladislav Novák,Guillermo Stabile,Pedro Dellacha,16418,"Olympia Stadium, Helsingborg",Group stage,1958-06-15,6–1,Arthur Ellis,Sweden,1958
+England,Austria,2,2,Walter Winterbottom,Billy Wright,Josef Argauer,Gerhard Hanappi,15872,"Ryavallen, Boras",Group stage,1958-06-15,2–2,Jan Bronkhorst,Sweden,1958
+Brazil,Soviet Union,2,0,Vicente Feola,Hilderaldo Bellini,Gavril Kachalin,Igor Netto,50928,"Nya Ullevi, Gothenburg",Group stage,1958-06-15,2–0,Maurice Guigue,Sweden,1958
+Hungary,Mexico,4,0,Lajos Baroti,Nándor Hidegkuti,Antonio Lopez,Antonio Carbajal,13300,"Jarnvallen, Sandviken",Group stage,1958-06-15,4–0,Arne Eriksson,Sweden,1958
+France,Scotland,2,1,Albert Batteaux,Robert Jonquet,Dawson Walker,Bobby Evans,13554,"Eyravallen, Orebro",Group stage,1958-06-15,2–1,Juan Brozzi,Sweden,1958
+Sweden,Hungary,2,1,George Raynor,Nils Liedholm,Lajos Baroti,József Bozsik,38850,"Rasunda Stadium, Solna",Group stage,1958-06-12,2–1,Jack Mowat,Sweden,1958
+Soviet Union,Austria,2,0,Gavril Kachalin,Nikita Simonyan,Josef Argauer,Gerhard Hanappi,21239,"Ryavallen, Boras",Group stage,1958-06-11,2–0,Carl Frederik Jorgensen,Sweden,1958
+West Germany,Czechoslovakia,2,2,Sepp Herberger,Hans Schäfer,Karel Kolsky,Ladislav Novák,25000,"Olympia Stadium, Helsingborg",Group stage,1958-06-11,2–2,Arthur Ellis,Sweden,1958
+Argentina,Northern Ireland,3,1,Guillermo Stabile,Pedro Dellacha,Peter Doherty,Danny Blanchflower,14174,"Orjans Vall, Halmstad",Group stage,1958-06-11,3–1,Sten Ahlner,Sweden,1958
+Yugoslavia,France,3,2,Aleksandar Tirnanic,Branko Zebec,Albert Batteaux,Roger Marche,12217,"Arosvallen, Vasteras",Group stage,1958-06-11,3–2,Benjamin Griffiths,Sweden,1958
+Paraguay,Scotland,3,2,Aurelio Gonzalez,Juan Bautista Agüero,Dawson Walker,Tommy Younger,11665,"Idrottsparken, Norrkï¿½Ping",Group stage,1958-06-11,3–2,Vincenzo Orlandini,Sweden,1958
+Brazil,England,0,0,Vicente Feola,Hilderaldo Bellini,Walter Winterbottom,Billy Wright,40895,"Nya Ullevi, Gothenburg",Group stage,1958-06-11,0–0,Albert Dusch,Sweden,1958
+Mexico,Wales,1,1,Antonio Lopez,Antonio Carbajal,James Murphy,Dave Bowen,15150,"Rasunda Stadium, Solna",Group stage,1958-06-11,1–1,Leo Lemesic,Sweden,1958
+Sweden,Mexico,3,0,George Raynor,Nils Liedholm,Antonio Lopez,Antonio Carbajal,34107,"Rasunda Stadium, Solna",Group stage,1958-06-08,3–0,Nikolaj Latychev,Sweden,1958
+Northern Ireland,Czechoslovakia,1,0,Peter Doherty,Danny Blanchflower,Karel Kolsky,Ladislav Novák,10647,"Orjans Vall, Halmstad",Group stage,1958-06-08,1–0,Fritz Seipelt,Sweden,1958
+Hungary,Wales,1,1,Lajos Baroti,Nándor Hidegkuti,James Murphy,Dave Bowen,15343,"Jarnvallen, Sandviken",Group stage,1958-06-08,1–1,Jose Maria Codesal,Sweden,1958
+Yugoslavia,Scotland,1,1,Aleksandar Tirnanic,Branko Zebec,Dawson Walker,Tommy Younger,9591,"Arosvallen, Vasteras",Group stage,1958-06-08,1–1,Paul Wyssling,Sweden,1958
+Brazil,Austria,3,0,Vicente Feola,Hilderaldo Bellini,Josef Argauer,Gerhard Hanappi,17788,"Rimnersvallen, Udevalla",Group stage,1958-06-08,3–0,Maurice Guigue,Sweden,1958
+Soviet Union,England,2,2,Gavril Kachalin,Nikita Simonyan,Walter Winterbottom,Billy Wright,49348,"Nya Ullevi, Gothenburg",Group stage,1958-06-08,2–2,Istvan Zsolt,Sweden,1958
+France,Paraguay,7,3,Albert Batteaux,Robert Jonquet,Aurelio Gonzalez,Juan Bautista Agüero,16518,"Idrottsparken, Norrkï¿½Ping",Group stage,1958-06-08,7–3,Juan Gardeazabal,Sweden,1958
+Argentina,West Germany,1,3,Guillermo Stabile,Pedro Dellacha,Sepp Herberger,Hans Schäfer,31156,"Malmo Stadion, Malmï¿½",Group stage,1958-06-08,1–3,Reginald Leafe,Sweden,1958
+Germany,Hungary,3,2,Sepp Herberger,Fritz Walter,Gusztav Sebes,Ferenc Puskás,62500,"Wankdorf Stadium, Berne",Final,1954-07-04,3–2,William Ling,Switzerland,1954
+Austria,Uruguay,3,1,Walter Nausch,Ernst Ocwirk,Juan Lopez,William Martínez,32000,"Hardturm, Zurich",Third-place match,1954-07-03,3–1,Paul Wyssling,Switzerland,1954
+Hungary,Uruguay,4,2,Gusztav Sebes,József Bozsik,Juan Lopez,William Martínez,45000,"La Pontaise, Lausanne",Semi-finals,1954-06-30,4–2,Benjamin Griffiths,Switzerland,1954
+Germany,Austria,6,1,Sepp Herberger,Fritz Walter,Walter Nausch,Ernst Ocwirk,58000,"St. Jakob, Basel",Semi-finals,1954-06-30,6–1,Vincenzo Orlandini,Switzerland,1954
+Germany,Yugoslavia,2,0,Sepp Herberger,Fritz Walter,Aleksandar Tirnanic,Rajko Mitić,17000,"Charmilles, Geneva",Quarter-finals,1954-06-27,2–0,Istvan Zsolt,Switzerland,1954
+Hungary,Brazil,4,2,Gusztav Sebes,József Bozsik,Zeze Moreira,Bauer,40000,"Wankdorf Stadium, Berne",Quarter-finals,1954-06-27,4–2,Arthur Ellis,Switzerland,1954
+Uruguay,England,4,2,Juan Lopez,Obdulio Varela,Walter Winterbottom,Billy Wright,28000,"St. Jakob, Basel",Quarter-finals,1954-06-26,4–2,Carl Steiner,Switzerland,1954
+Switzerland,Austria,5,7,Karl Rappan,Roger Bocquet,Walter Nausch,Ernst Ocwirk,35000,"La Pontaise, Lausanne",Quarter-finals,1954-06-26,5–7,Charlie Faultless,Switzerland,1954
+Germany,Türkiye,7,2,Sepp Herberger,Fritz Walter,Sandro Puppo,Lefter Küçükandonyadis,17000,"Hardturm, Zurich",Group stage play-off,1954-06-23,7–2,Raymond Vincenti,Switzerland,1954
+Switzerland,Italy,4,1,Karl Rappan,Roger Bocquet,Lajos Czeizler,Egisto Pandolfini,30000,"St. Jakob, Basel",Group stage play-off,1954-06-23,4–1,Benjamin Griffiths,Switzerland,1954
+Hungary,Germany,8,3,Gusztav Sebes,Ferenc Puskás,Sepp Herberger,Fritz Walter,56000,"St. Jakob, Basel",Group stage,1954-06-20,8–3,William Ling,Switzerland,1954
+Türkiye,Korea Republic,7,0,Sandro Puppo,Turgay Şeren,Yong Shik Kim,Park Kyu-chung,4000,"Charmilles, Geneva",Group stage,1954-06-20,7–0,Esteban Marino,Switzerland,1954
+Italy,Belgium,4,1,Lajos Czeizler,Egisto Pandolfini,Doug Livingstone,Joseph Mermans,24000,"Comunale di Cornaredo, Lugano",Group stage,1954-06-20,4–1,Carl Steiner,Switzerland,1954
+Switzerland,England,0,2,Karl Rappan,Roger Bocquet,Walter Winterbottom,Billy Wright,43500,"Wankdorf Stadium, Berne",Group stage,1954-06-20,0–2,Istvan Zsolt,Switzerland,1954
+Uruguay,Scotland,7,0,Juan Lopez,Obdulio Varela,Andy Battie,Willie Cunningham,34000,"St. Jakob, Basel",Group stage,1954-06-19,7–0,Vincenzo Orlandini,Switzerland,1954
+Brazil,Yugoslavia,1,1,Zeze Moreira,Bauer,Aleksandar Tirnanic,Rajko Mitić,24637,"La Pontaise, Lausanne",Group stage,1954-06-19,1–1,Charlie Faultless,Switzerland,1954
+Austria,Czechoslovakia,5,0,Walter Nausch,Ernst Ocwirk,Josef Cejp,Ladislav Novák,26000,"Hardturm, Zurich",Group stage,1954-06-19,5–0,Vasa Stefanovic,Switzerland,1954
+France,Mexico,3,2,Pierre Pibarot,Roger Marche,Antonio Lopez,José Naranjo,19000,"Charmilles, Geneva",Group stage,1954-06-19,3–2,Manuel Asensi,Switzerland,1954
+Switzerland,Italy,2,1,Karl Rappan,Roger Bocquet,Lajos Czeizler,Giampiero Boniperti,43000,"La Pontaise, Lausanne",Group stage,1954-06-17,2–1,Mario Viana,Switzerland,1954
+Hungary,Korea Republic,9,0,Gusztav Sebes,Ferenc Puskás,Yong Shik Kim,Min Byung-dae,13000,"Hardturm, Zurich",Group stage,1954-06-17,9–0,Raymond Vincenti,Switzerland,1954
+Germany,Türkiye,4,1,Sepp Herberger,Fritz Walter,Sandro Puppo,Turgay Şeren,28000,"Wankdorf Stadium, Berne",Group stage,1954-06-17,4–1,Jose Da Costa Vieira,Switzerland,1954
+England,Belgium,4,4,Walter Winterbottom,Billy Wright,Doug Livingstone,Joseph Mermans,14000,"St. Jakob, Basel",Group stage,1954-06-17,4–4,Emil Schmetzer,Switzerland,1954
+Uruguay,Czechoslovakia,2,0,Juan Lopez,Obdulio Varela,Oldrich Nejedly,Ladislav Novák,20500,"Wankdorf Stadium, Berne",Group stage,1954-06-16,2–0,Arthur Ellis,Switzerland,1954
+Yugoslavia,France,1,0,Aleksandar Tirnanic,Stjepan Bobek,Pierre Pibarot,Robert Jonquet,16000,"La Pontaise, Lausanne",Group stage,1954-06-16,1–0,Benjamin Griffiths,Switzerland,1954
+Brazil,Mexico,5,0,Zeze Moreira,Bauer,Antonio Lopez,José Naranjo,13470,"Charmilles, Geneva",Group stage,1954-06-16,5–0,Paul Wyssling,Switzerland,1954
+Austria,Scotland,1,0,Walter Nausch,Kurt Schmied,Andy Battie,Willie Cunningham,25000,"Hardturm, Zurich",Group stage,1954-06-16,1–0,Laurent Franken,Switzerland,1954
+Sweden,Spain,3,1,George Raynor,Erik Nilsson,Guillermo Eizaguirre,Telmo Zarra,11227,"Pacaembu, Sao Paulo",Final stage,1950-07-16,3–1,Karel Van Der Meer,Brazil,1950
+Uruguay,Brazil,2,1,Juan Lopez,Obdulio Varela,Flavio Costa,Augusto da Costa,173850,"Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho, Rio De Janeiro",Final stage,1950-07-16,2–1,George Reader,Brazil,1950
+Brazil,Spain,6,1,Flavio Costa,Augusto da Costa,Guillermo Eizaguirre,Agustín Gaínza,152772,"Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho, Rio De Janeiro",Final stage,1950-07-13,6–1,Reginald Leafe,Brazil,1950
+Uruguay,Sweden,3,2,Juan Lopez,Obdulio Varela,George Raynor,Erik Nilsson,7987,"Pacaembu, Sao Paulo",Final stage,1950-07-13,3–2,Giovanni Galeati,Brazil,1950
+Brazil,Sweden,7,1,Flavio Costa,Augusto da Costa,George Raynor,Erik Nilsson,138886,"Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho, Rio De Janeiro",Final stage,1950-07-09,7–1,Arthur Ellis,Brazil,1950
+Uruguay,Spain,2,2,Juan Lopez,Obdulio Varela,Guillermo Eizaguirre,Agustín Gaínza,44802,"Pacaembu, Sao Paulo",Final stage,1950-07-09,2–2,Benjamin Griffiths,Brazil,1950
+Chile,United States,5,2,Arturo Bucciardi,Sergio Livingstone,Bill Jeffrey,Walter Bahr,8501,"Ilha do Retiro, Recife",Group stage,1950-07-02,5–2,Mario Gardelli,Brazil,1950
+Italy,Paraguay,2,0,Ferruccio Novo,Riccardo Carapellese,Manuel Fleitas Solich,César López Fretes,25811,"Pacaembu, Sao Paulo",Group stage,1950-07-02,2–0,Arthur Ellis,Brazil,1950
+Uruguay,Bolivia,8,0,Juan Lopez,Obdulio Varela,Mario Pretto,José Bustamante,5284,"Independencia, Belo Horizonte",Group stage,1950-07-02,8–0,George Reader,Brazil,1950
+Spain,England,1,0,Guillermo Eizaguirre,Agustín Gaínza,Walter Winterbottom,Billy Wright,74462,"Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho, Rio De Janeiro",Group stage,1950-07-02,1–0,Giovanni Galeati,Brazil,1950
+Switzerland,Mexico,2,1,Franco Andreoli,Roger Bocquet,Octavio Vial,Horacio Casarín,3580,"Eucaliptos, Porto Alegre",Group stage,1950-07-02,2–1,Ivan Eklind,Brazil,1950
+Brazil,Yugoslavia,2,0,Flavio Costa,Augusto da Costa,Milorad Arsenijevic,Zlatko Čajkovski,142429,"Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho, Rio De Janeiro",Group stage,1950-07-01,2–0,Benjamin Griffiths,Brazil,1950
+Spain,Chile,2,0,Guillermo Eizaguirre,Agustín Gaínza,Arturo Bucciardi,Sergio Livingstone,19790,"Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho, Rio De Janeiro",Group stage,1950-06-29,2–0,Alberto Malcher,Brazil,1950
+United States,England,1,0,Bill Jeffrey,Ed McIlvenny,Walter Winterbottom,Billy Wright,10151,"Independencia, Belo Horizonte",Group stage,1950-06-29,1–0,Generoso Dattilo,Brazil,1950
+Sweden,Paraguay,2,2,George Raynor,Erik Nilsson,Manuel Fleitas Solich,César López Fretes,7903,"Durival de Brito, Curitiba",Group stage,1950-06-29,2–2,Robert Mitchell,Brazil,1950
+Brazil,Switzerland,2,2,Flavio Costa,Augusto da Costa,Franco Andreoli,Alfred Bickel,42032,"Pacaembu, Sao Paulo",Group stage,1950-06-28,2–2,Ramon Azon Roma,Brazil,1950
+Yugoslavia,Mexico,4,1,Milorad Arsenijevic,Ivica Horvat,Octavio Vial,Horacio Casarín,11078,"Eucaliptos, Porto Alegre",Group stage,1950-06-28,4–1,Reginald Leafe,Brazil,1950
+Sweden,Italy,3,2,George Raynor,Erik Nilsson,Ferruccio Novo,Riccardo Carapellese,36502,"Pacaembu, Sao Paulo",Group stage,1950-06-25,3–2,Jean Lutz,Brazil,1950
+England,Chile,2,0,Walter Winterbottom,Billy Wright,Arturo Bucciardi,Sergio Livingstone,29703,"Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho, Rio De Janeiro",Group stage,1950-06-25,2–0,Karel Van Der Meer,Brazil,1950
+Spain,United States,3,1,Guillermo Eizaguirre,Ignacio Eizaguirre,Bill Jeffrey,Harry Keough,9511,"Durival de Brito, Curitiba",Group stage,1950-06-25,3–1,Mario Viana,Brazil,1950
+Yugoslavia,Switzerland,3,0,Milorad Arsenijevic,Rajko Mitić,Franco Andreoli,Alfred Bickel,7336,"Independencia, Belo Horizonte",Group stage,1950-06-25,3–0,Giovanni Galeati,Brazil,1950
+Brazil,Mexico,4,0,Flavio Costa,Augusto da Costa,Octavio Vial,Alfonso Montemayor,81649,"Maracanï¿½ - Estï¿½dio Jornalista Mï¿½rio Filho, Rio De Janeiro",Group stage,1950-06-24,4–0,George Reader,Brazil,1950
+Brazil,Sweden,4,2,Ademar Pimenta,Leônidas,Joszef Nagy,Kurt Svanström,12000,"Stade du Parc Lescure, Bordeaux",Third-place match,1938-06-19,4–2,Jean Langenus,France,1938
+Italy,Hungary,4,2,Vittorio Pozzo,Giuseppe Meazza,Karoly Dietz,György Sárosi,45000,"Stade Olympique, Colombes",Final,1938-06-19,4–2,Georges Capdeville,France,1938
+Hungary,Sweden,5,1,Karoly Dietz,György Sárosi,Joszef Nagy,Tore Keller,20000,"Parc des Princes, Paris",Semi-finals,1938-06-16,5–1,Lucien Leclercq,France,1938
+Italy,Brazil,2,1,Vittorio Pozzo,Giuseppe Meazza,Ademar Pimenta,Martim Mércio da Silveira,33000,"Stade Vï¿½lodrome, Marseilles",Semi-finals,1938-06-16,2–1,Hans Wuethrich,France,1938
+Brazil,Czechoslovakia,2,1,Ademar Pimenta,Leônidas,Vaclav Meissner,Jaroslav Burgr,18141,"Stade du Parc Lescure, Bordeaux",Quarter-finals,1938-06-14,2–1,Georges Capdeville,France,1938
+Sweden,Cuba,8,0,Joszef Nagy,Tore Keller,Jose Tapia,Tomás Fernández,7000,"Fort Carree, Antibes",Quarter-finals,1938-06-12,8–0,Gustav Krist,France,1938
+Brazil,Czechoslovakia,1,1,Ademar Pimenta,Martim Mércio da Silveira,Vaclav Meissner,František Plánička,22021,"Stade du Parc Lescure, Bordeaux",Quarter-finals,1938-06-12,1–1,Pal Von Hertzka,France,1938
+Hungary,Switzerland,2,0,Karoly Dietz,György Sárosi,Karl Rappan,André Abegglen,15000,"Victor Boucquey, Lille",Quarter-finals,1938-06-12,2–0,Rinaldo Barlassina,France,1938
+Italy,France,3,1,Vittorio Pozzo,Giuseppe Meazza,Gaston Barreau,Étienne Mattler,58455,"Stade Olympique, Colombes",Quarter-finals,1938-06-12,3–1,Louis Baert,France,1938
+Switzerland,Germany,4,2,Karl Rappan,Severino Minelli,Sepp Herberger,Fritz Szepan,20025,"Parc des Princes, Paris",Round of 16,1938-06-09,4–2,Ivan Eklind,France,1938
+Cuba,Romania,2,1,Jose Tapia,Tomás Fernández,Coloman Braun,Ștefan Dobay,8000,"Stade Municipal, Toulouse",Round of 16,1938-06-09,2–1,Alfred Birlem,France,1938
+Italy,Norway,2,1,Vittorio Pozzo,Giuseppe Meazza,Asbjorn Halvorsen,Nils Eriksen,19000,"Stade Vï¿½lodrome, Marseilles",Round of 16,1938-06-05,2–1,Alois Beranek,France,1938
+Cuba,Romania,3,3,Jose Tapia,Tomás Fernández,Coloman Braun,Nicolae Kovács,7000,"Stade Municipal, Toulouse",Round of 16,1938-06-05,3–3,Giuseppe Scarpi,France,1938
+Hungary,Dutch East Indies,6,0,Karoly Dietz,György Sárosi,Johannes Van Mastenbroek,Frans Alfred Meeng,9000,"Velodrome Municipale, Reims",Round of 16,1938-06-05,6–0,Roger Conrie,France,1938
+France,Belgium,3,1,Gaston Barreau,Étienne Mattler,Jack Butler,Émile Stijnen,30454,"Stade Olympique, Colombes",Round of 16,1938-06-05,3–1,Hans Wuethrich,France,1938
+Brazil,Poland,6,5,Ademar Pimenta,Martim Mércio da Silveira,Jozef Kaluza,Władysław Szczepaniak,13452,"Stade de la Meinau, Strasbourg",Round of 16,1938-06-05,6–5,Ivan Eklind,France,1938
+Czechoslovakia,Netherlands,3,0,Vaclav Meissner,František Plánička,Bob Glendenning,Puck van Heel,11000,"Cavee Verte, Le Havre",Round of 16,1938-06-05,3–0,Lucien Leclercq,France,1938
+Switzerland,Germany,1,1,Karl Rappan,Severino Minelli,Sepp Herberger,Hans Mock,27152,"Parc des Princes, Paris",Round of 16,1938-06-04,1–1,Jean Langenus,France,1938
+Italy,Czechoslovakia,2,1,Vittorio Pozzo,Gianpiero Combi,Karel Petru,František Plánička,55000,"Nazionale PNF, Rome",Final,1934-06-10,2–1,Ivan Eklind,Italy,1934
+Germany,Austria,3,2,Otto Nerz,Fritz Szepan,Hugo Meisl,Johann Horvath,7000,"Giorgio Ascarelli, Naples",Third-place match,1934-06-07,3–2,Albino Carraro,Italy,1934
+Czechoslovakia,Germany,3,1,Karel Petru,František Plánička,Otto Nerz,Fritz Szepan,15000,"Nazionale PNF, Rome",Semi-finals,1934-06-03,3–1,Rinaldo Barlassina,Italy,1934
+Italy,Austria,1,0,Vittorio Pozzo,Gianpiero Combi,Hugo Meisl,Josef Smistik,35000,"San Siro, Milan",Semi-finals,1934-06-03,1–0,Ivan Eklind,Italy,1934
+Italy,Spain,1,0,Vittorio Pozzo,Gianpiero Combi,Amadeo Garcia,Jacinto Quincoces,43000,"Giovanni Berta, Florence",Quarter-finals,1934-06-01,1–0,Rene Mercet,Italy,1934
+Austria,Hungary,2,1,Hugo Meisl,Johann Horvath,Odon Nadas,László Sternberg,23000,"Littorale, Bologna",Quarter-finals,1934-05-31,2–1,Francesco Mattea,Italy,1934
+Czechoslovakia,Switzerland,3,2,Karel Petru,František Plánička,Henry Mueller,Severino Minelli,12000,"Stadio Benito Mussolini, Turin",Quarter-finals,1934-05-31,3–2,Alois Beranek,Italy,1934
+Italy,Spain,1,1,Vittorio Pozzo,Gianpiero Combi,Amadeo Garcia,Ricardo Zamora,35000,"Giovanni Berta, Florence",Quarter-finals,1934-05-31,1–1,Louis Baert,Italy,1934
+Germany,Sweden,2,1,Otto Nerz,Fritz Szepan,Joszef Nagy,Nils Rosén,3000,"San Siro, Milan",Quarter-finals,1934-05-31,2–1,Rinaldo Barlassina,Italy,1934
+Czechoslovakia,Romania,2,1,Karel Petru,František Plánička,Constantin Radulescu,Emerich Vogl,9000,"Littorio, Trieste",Round of 16,1934-05-27,2–1,Jean Langenus,Italy,1934
+Hungary,Egypt,4,2,Odon Nadas,László Sternberg,James Mcrea,Mahmoud Mokhtar El-Tetsh,9000,"Giorgio Ascarelli, Naples",Round of 16,1934-05-27,4–2,Rinaldo Barlassina,Italy,1934
+Austria,France,3,2,Hugo Meisl,Josef Smistik,George Kimpton,Alex Thépot,16000,"Stadio Benito Mussolini, Turin",Round of 16,1934-05-27,3–2,Johannes Van Moorsel,Italy,1934
+Switzerland,Netherlands,3,2,Henry Mueller,Severino Minelli,Bob Glendenning,Puck van Heel,33000,"San Siro, Milan",Round of 16,1934-05-27,3–2,Ivan Eklind,Italy,1934
+Sweden,Argentina,3,2,Joszef Nagy,Nils Rosén,Felipe Pascucci,Alfredo Devincenzi,14000,"Littorale, Bologna",Round of 16,1934-05-27,3–2,Eugen Braun,Italy,1934
+Spain,Brazil,3,1,Amadeo Garcia,Ricardo Zamora,Luiz Vinhaes,Martim Mércio da Silveira,21000,"Luigi Ferraris, Genoa",Round of 16,1934-05-27,3–1,Alfred Birlem,Italy,1934
+Germany,Belgium,5,2,Otto Nerz,Fritz Szepan,Hector Goetinck,Félix Welkenhuysen,8000,"Giovanni Berta, Florence",Round of 16,1934-05-27,5–2,Francesco Mattea,Italy,1934
+Italy,United States,7,1,Vittorio Pozzo,Virginio Rosetta,David Gould,George Moorhouse,25000,"Nazionale PNF, Rome",Round of 16,1934-05-27,7–1,Rene Mercet,Italy,1934
+Uruguay,Argentina,4,2,Alberto Suppici,José Nasazzi,Francisco Olazar,Manuel Ferreira,68346,"Estadio Centenario, Montevideo",Final,1930-07-30,4–2,Jean Langenus,Uruguay,1930
+Uruguay,Yugoslavia,6,1,Alberto Suppici,José Nasazzi,Bosko Simonovic,Milutin Ivković,79867,"Estadio Centenario, Montevideo",Semi-finals,1930-07-27,6–1,Gilberto Rego,Uruguay,1930
+Argentina,United States,6,1,Francisco Olazar,Manuel Ferreira,Bob Millar,Tom Florie,72886,"Estadio Centenario, Montevideo",Semi-finals,1930-07-26,6–1,Jean Langenus,Uruguay,1930
+Argentina,Chile,3,1,Francisco Olazar,Manuel Ferreira,Gyorgy Orth,Guillermo Subiabre,41459,"Estadio Centenario, Montevideo",Group stage,1930-07-22,3–1,Jean Langenus,Uruguay,1930
+Uruguay,Romania,4,0,Alberto Suppici,José Nasazzi,Octav Luchide,Emerich Vogl,70022,"Estadio Centenario, Montevideo",Group stage,1930-07-21,4–0,Gilberto Rego,Uruguay,1930
+Brazil,Bolivia,4,0,Pindaro De Carvalho,Preguinho,Ulises Saucedo,Rafael Méndez,25466,"Estadio Centenario, Montevideo",Group stage,1930-07-20,4–0,Thomas Balway,Uruguay,1930
+Paraguay,Belgium,1,0,Jose Durand Laguna,Luis Vargas Peña,Hector Goetinck,Pierre Braine,12000,"Estadio Centenario, Montevideo",Group stage,1930-07-20,1–0,Ricardo Vallarino,Uruguay,1930
+Chile,France,1,0,Gyorgy Orth,Carlos Schneeberger,Raoul Caudron,Alexandre Villaplane,2000,"Estadio Centenario, Montevideo",Group stage,1930-07-19,1–0,Anibal Tejada,Uruguay,1930
+Argentina,Mexico,6,3,Francisco Olazar,Ángel Bossio,Juan Luque,Rafael Garza Gutiérrez,42100,"Estadio Centenario, Montevideo",Group stage,1930-07-19,6–3,Ulises Saucedo,Uruguay,1930
+Uruguay,Peru,1,0,Alberto Suppici,José Nasazzi,Francisco Bru,Antonio Maquilón,57735,"Estadio Centenario, Montevideo",Group stage,1930-07-18,1–0,Jean Langenus,Uruguay,1930
+Yugoslavia,Bolivia,4,0,Bosko Simonovic,Milutin Ivković,Ulises Saucedo,Rafael Méndez,18306,"Parque Central, Montevideo",Group stage,1930-07-17,4–0,Francisco Mateucci,Uruguay,1930
+United States,Paraguay,3,0,Bob Millar,Tom Florie,Jose Durand Laguna,Luis Vargas Peña,18306,"Parque Central, Montevideo",Group stage,1930-07-17,3–0,Jose Macias,Uruguay,1930
+Chile,Mexico,3,0,Gyorgy Orth,Carlos Schneeberger,Juan Luque,Rafael Garza Gutiérrez,9249,"Parque Central, Montevideo",Group stage,1930-07-16,3–0,Henry Cristophe,Uruguay,1930
+Argentina,France,1,0,Francisco Olazar,Manuel Ferreira,Raoul Caudron,Alexandre Villaplane,23409,"Parque Central, Montevideo",Group stage,1930-07-15,1–0,Gilberto Rego,Uruguay,1930
+Yugoslavia,Brazil,2,1,Bosko Simonovic,Milutin Ivković,Pindaro De Carvalho,Preguinho,24059,"Parque Central, Montevideo",Group stage,1930-07-14,2–1,Anibal Tejada,Uruguay,1930
+Romania,Peru,3,1,Octav Luchide,Emerich Vogl,Francisco Bru,Plácido Galindo,2549,"Pocitos, Montevideo",Group stage,1930-07-14,3–1,Alberto Warnken,Uruguay,1930
+United States,Belgium,3,0,Bob Millar,Tom Florie,Hector Goetinck,Pierre Braine,18346,"Parque Central, Montevideo",Group stage,1930-07-13,3–0,Jose Macias,Uruguay,1930
+France,Mexico,4,1,Raoul Caudron,Alexandre Villaplane,Juan Luque,Rafael Garza Gutiérrez,4444,"Pocitos, Montevideo",Group stage,1930-07-13,4–1,Domingo Lombardi,Uruguay,1930
