@@ -1,25 +1,29 @@
-FIFA World Cup Analytics Dashboard
+# ⚽ FIFA World Cup Data Analysis
 
-Based on
-FIFA World Cup
+## 📌 Overview
+This project analyzes FIFA World Cup data using SQL and Tableau to uncover patterns in team performance, goals, and match outcomes.
 
-🔍 Overview
+## 🛠 Tools Used
+- MySQL
+- Tableau
+- Excel
 
-This project analyzes FIFA World Cup data (1930–2022) to uncover trends in team performance, scoring patterns, and ranking impact.
+## 📊 Key Insights
+- Home teams have a higher win percentage
+- Brazil and Germany dominate historically
+- Goal scoring trends show offensive dominance
 
-📌 Key Insights
-Brazil is the most successful and highest-scoring team
-Most World Cup winners are ranked within Top 10 globally
-Host countries rarely win the tournament
-Goal-scoring trends have evolved significantly over time
-🛠️ Tools Used
-MySQL
-Tableau
-Excel
-Dashboard
+## 📷 Dashboard Preview
+<img width="1249" height="999" alt="FIFA World Cup Analytics" src="https://github.com/user-attachments/assets/e0c5cc78-0d0d-4758-94a2-1eee6ee7fae6" />
 
-💡 Skills Demonstrated
-Data Cleaning
-SQL (Joins, Aggregations)
-Data Visualization (Tableau)
-Insight Generation
+
+## 📁 Project Structure
+- data/ → datasets
+- sql/ → queries
+- tableau/ → dashboard file
+
+## 🔗 Tableau Dashboard
+(https://public.tableau.com/views/fifa_worldcup_dashboard/FIFAWorldCupAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## 🚀 Author
+Amey Kathale
