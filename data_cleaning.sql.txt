@@ -1,8 +1,0 @@
--- Remove null values
-DELETE FROM matches
-WHERE home_goals IS NULL OR away_goals IS NULL;
-
--- Standardize team names (example)
-UPDATE matches
-SET home_team = TRIM(home_team),
-    away_team = TRIM(away_team);
